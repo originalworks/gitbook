@@ -8,7 +8,7 @@ Oracles primarily deal with the artists they manage and distribute payments to. 
 
 Oracles receive music streaming data and payments from DSPs and submit payments on chain. Oracles commit to sending payments on-chain within 30 days of receiving payments from DSPs to ensure fast and efficient payment bridging between the off chain and on chain world.
 
-Oracles who are found to be fraudulent actors can expect to have their stake slashed, the exact amount dependent upon the type of network fault. An example of a network fault for which an oracle would be penalized is not transmitting funds on chain to a relevant OMA in a timely fashion, despite receiving the funds from DSPs or public rights management companies. You can read more about oracle [slashing here](../token-economics/slashing.md).
+Oracles who are found to be fraudulent actors can expect to have their stake slashed, the exact amount dependent upon the type of network fault. An example of a network fault for which an oracle would be penalized is not transmitting funds on chain to a relevant OMA in a timely fashion, despite receiving the funds from DSPs or public rights management companies. You can read more about oracle [slashing here](broken-reference).
 
 ### How much are oracles required to stake?
 

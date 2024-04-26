@@ -12,10 +12,7 @@
 * [Current Problems](protocol/current-problems.md)
 * [Overview](protocol/overview/README.md)
   * [How the OWN protocol works](protocol/overview/how-the-own-protocol-works.md)
-* [Token Economics](protocol/token-economics/README.md)
-  * [Token Distribution](protocol/token-economics/token-distribution.md)
-  * [Protocol self sufficiency](protocol/token-economics/protocol-self-sufficiency.md)
-  * [Slashing](protocol/token-economics/slashing.md)
+* [Token Economics](protocol/token-economics.md)
 * [OWN Media Asset (OMA)](protocol/own-media-asset-oma.md)
 * [Wrapped OWN Media Asset (wOMA)](protocol/wrapped-own-media-asset-woma.md)
 * [Participants](protocol/participants/README.md)
@@ -35,7 +32,7 @@
   * [Revelator Studio](ecosystem/web3-applications/revelator-studio.md)
 * [History](ecosystem/history.md)
 
-## Resources&#x20;
+## Resources
 
 * [Case Studies](resources/case-studies/README.md)
   * [Tokenizing Performance Royalties](resources/case-studies/tokenizing-performance-royalties.md)
