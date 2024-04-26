@@ -30,14 +30,6 @@ Music assets are off-chain under-monetized and illiquid. Tokenizing music IP is 
 2. The RA and cash flows are verified, facilitated and transferred via their distribution partners, who act as Verified Payment Providers (VPP )&#x20;
 3. With an RA, artists and rights holders access a new world of financial and fan engagement products for music royalties.
 
-### What is $OWN?
-
-The $OWN token is the first crypto primitive bringing high quality institutional-grade music IP on chain. $OWN’s unique IP attributes and real-world value make it the first liquid music IP instrument designed for artists, investors and fan-supported music.
-
-$OWN incentivizes and aligns interests of stakeholders to cooperate and work effectively together to bring more liquidity to music IP.
-
-Learn more[ here](protocol/token-economics/).
-
 ### Who can participate?
 
 The Original Works protocol offers new technical, legal, and economic frameworks that enables creators, rights owners, and service providers to collectively engage in rights management and royalty distribution without a centralized infrastructure, while still relying on valuable service providers.&#x20;
