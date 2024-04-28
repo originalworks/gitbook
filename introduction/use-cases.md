@@ -8,6 +8,12 @@ description: Unlocking new models of fan engagement, monetization and music dist
 
 First and foremost, the OWN protocol accelerates the time it takes an artist to get paid. It also provides a more transparent snapshot of the flow-of-funds and through an open-market dynamic it will ultimately drive the industry to more efficient and reliable forms of payment and usage reporting.&#x20;
 
+Revenue paid to Royalty Assets or Royalty Licenses originate from off-chain (often off-line) contracts, that are backed by a verified Music Distributor contractually obliged to collect and pay Royalties from various uses and applications.
+
+### A Decentralized Rights Registry&#x20;
+
+
+
 ### Turning Music IP to a Composable Digital Asset
 
 Apart from fixing the fragmented supply chain that holds the industry together today, OWN enables the tokenizatoin of music IP, effectively generating interoperable digital assets.
@@ -39,11 +45,11 @@ The availability of the beat as an RA allows the producer to predetermine usage 
 
 Some other applications that we envision being built for the OWN protocol:
 
-* **NFT revenue collection** - Distributing customized experiences with unique scarcity models is an emerging theme in the web3 creator economy. The OWN protocol allows rights holders to streamline primary and secondary sales of NFTs directly into their existing workflow.
-* **Credit guilds** - Labels or artist collectives to  pool royalty inflows together, allowing fair and transparent savings/lending activity and even simpler models like algorithmic advance rate adjustment. This closed-circle activity can shield creators from the wild-west of DeFi in its nascent years, but still allow them to leverage their collective strength.
+* **NFT Licenses** - Transferrable licenses for tokenized media assets allowing artists to monetize their IP across the creator economy and leverage their catalog through stem, sync licensing and distribution of derivative works&#x20;
+* **Label DAOs** - Labels or artist collectives to  pool royalty inflows together, allowing fair and transparent savings/lending activity and even simpler models like algorithmic advance rate adjustment. This closed-circle activity can shield creators from the wild-west of DeFi in its nascent years, but still allow them to leverage their collective strength.
 * **DeFi tools** - More extensive borrowing, lending and staking can be built based on on-chain financial performance of tokenized music assets; Media assets that carry a semi-predictable income rate can be leveraged similar to yield bearing asset.&#x20;
 * **Community building** - Unique Artist/Label/Community tokens can be used to reward and engage with fans - granting access to content, physical goods and events; OWN allows creators to monitor realtime activity of their fanbase on-chain and insightfully manage scarcity and token design in relation to the actual content consumption&#x20;
-* **NFT music player apps** - Exclusive content streamed on permissioned services based on token-gated access to their community.
+* **Decentralize  Music Streaming apps** - Exclusive content streamed on permissioned services based on token-gated access to their community.
 * **Artist and collaborator credits** - Verifiable credentials for creators can be stored on-chain. Protecting creator's rights, providing immutable records, and help solidify the trust-worthiness of music IP backed digital assets.
 * **Artist funding** - Crowdfunding new releases or even Vinyl Pressing and merchandise; binding together owners of an NFT collection on the OWN protocol, rights holders can help finance production and even redistribute earnings to original backers.&#x20;
 * **Music used in metaverse applications** - Adding revenue from metaverse sync license to an OWN asset is a simple addition of a recipient address. The OWN network rewards Oracles for reporting usage and revenue.
