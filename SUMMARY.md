@@ -10,6 +10,8 @@
 
 * [Abstract](protocol/abstract.md)
 * [Current Problems](protocol/current-problems.md)
+* [Basic Definitions](protocol/basic-definitions/README.md)
+  * [IP Assets](protocol/basic-definitions/ip-assets.md)
 * [Overview](protocol/overview/README.md)
   * [How the OWN protocol works](protocol/overview/how-the-own-protocol-works.md)
 * [Token Economics](protocol/token-economics.md)
