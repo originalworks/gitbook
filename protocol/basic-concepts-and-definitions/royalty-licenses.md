@@ -15,7 +15,7 @@ This can be used for tax withholding, ad-hoc licensing deals or any unique combi
 > * **Each License can be associated with only one IP Asset**
 > * **Each IP Asset can have multiple Royalty Licenses**
 
-Royalty Licenses are different from RTs as they are not based on Token distribution, but rather a set of instructions representing the business terms and payment logic of the binding agreement; It has a list of payees, contractual terms and conditions, and is governed by the issuing [**IP Asset Smart Contract**](ip-assets.md).
+Royalty Licenses are different from RTs as they are not based on Token distribution, but rather a set of instructions representing the business terms and payment logic of the binding agreement; It has a list of payees, contractual terms and conditions, and is governed by the issuing [**IP Asset**](ip-assets.md) **s**mart contract.
 
 **Conditional Logic and Contract Chaining:** \
 Allowing the complex aspect of music licensing to exist gracefully on-chain, Royalty Licenses always supersede the "default" revenue split, which is governed by the holders of [**Royalty Tokens**](royalty-assets-and-royalty-tokens.md)**.**&#x20;
