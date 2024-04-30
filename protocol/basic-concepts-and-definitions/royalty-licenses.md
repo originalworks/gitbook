@@ -8,9 +8,10 @@ description: >-
 # Royalty Licenses
 
 A Royalty License is a smart contract that is minted against any commercial agreement that requires additional split or payment other than a straight-forward splits.\
-This can be used for tax withholding, ad-hoc licensing deals or any unique combination of business terms, that needs to be applied. Like [**Royalty Assets**](royalty-assets-and-royalty-tokens.md)**,** The Original Works protocol ensures that royalties from verified [**Payment Providers**](verified-payment-provider.md) are paid to the Royalty Licenses of an [**IP Asset**](ip-assets.md);
+This can be used for tax withholding, ad-hoc licensing deals or any unique combination of business terms, that needs to be applied. Like [**Royalty Assets**](royalty-assets-and-royalty-tokens.md)**,** The Original Works protocol ensures that royalties from verified [**Payment Providers**](verified-payment-providers.md) are paid to the Royalty Licenses of an [**IP Asset**](ip-assets.md);
 
-> IP Assets have a one-to-many relationship with Royalty Licenses:
+> IP Assets have a one-to-many relationship with Royalty Licenses:\
+>
 >
 > * **Each License can be associated with only one IP Asset**
 > * **Each IP Asset can have multiple Royalty Licenses**
@@ -19,6 +20,8 @@ Royalty Licenses are different from RTs as they are not based on Token distribut
 
 **Conditional Logic and Contract Chaining:** \
 Allowing the complex aspect of music licensing to exist gracefully on-chain, Royalty Licenses always supersede the "default" revenue split, which is governed by the holders of [**Royalty Tokens**](royalty-assets-and-royalty-tokens.md)**.**&#x20;
+
+> **The conditional contract logic is obfuscated and outsourced to chainlink functions, allowing for discreet and decentralized execution of royalty calculations**
 
 The [**Registry**](decentralized-right-registry.md) allows for each rights holder to verify and authenticate their payment shares from all associated assets
 
