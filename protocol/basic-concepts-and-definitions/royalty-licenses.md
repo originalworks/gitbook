@@ -19,7 +19,7 @@ This can be used for tax withholding, ad-hoc licensing deals or any unique combi
 Royalty Licenses are different from RTs as they are not based on Token distribution, but rather a set of instructions representing the business terms and payment logic of the binding agreement; It has a list of payees, contractual terms and conditions, and is governed by the issuing [**IP Asset**](ip-assets.md) **s**mart contract.
 
 **Conditional Logic and Contract Chaining:** \
-Allowing the complex aspect of music licensing to exist gracefully on-chain, Royalty Licenses always supersede the "default" revenue split, which is governed by the holders of [**Royalty Tokens**](royalty-assets-and-royalty-tokens.md)**.**&#x20;
+Allowing the complex aspect of music licensing to exist gracefully on-chain, Royalty Licenses always supersede the "default" revenue split, which is governed by the holders of [**Royalty Tokens**](royalty-assets-and-royalty-tokens.md)**.** Royalty Licenses are governed by simple IFTT (if this then that) type of logic and mirror contractual royalty terms. As such, Royalty Licenses cannot have conflicting terms. Original Works [**Validators**](original-works-validators.md), who ensure the uniqueness of IP entries in the Registry, also ensure that each license can independently be executed without any conflicting terms on the network, across all chains
 
 > **The conditional contract logic is obfuscated and outsourced to chainlink functions, allowing for discreet and decentralized execution of royalty calculations**
 

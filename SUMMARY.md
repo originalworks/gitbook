@@ -18,6 +18,7 @@
   * [Verified Payment Providers](protocol/basic-concepts-and-definitions/verified-payment-providers.md)
   * [Decentralized Right Registry](protocol/basic-concepts-and-definitions/decentralized-right-registry.md)
   * [Verified Data Providers](protocol/basic-concepts-and-definitions/verified-data-providers.md)
+  * [Original Works Validators](protocol/basic-concepts-and-definitions/original-works-validators.md)
   * [Data Channels](protocol/basic-concepts-and-definitions/data-channels.md)
 * [Overview](protocol/overview/README.md)
   * [How the OWN protocol works](protocol/overview/how-the-own-protocol-works.md)
