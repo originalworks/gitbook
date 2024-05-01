@@ -12,7 +12,7 @@ IP Assets are smart contracts that allow rights holder to verify and tokenize th
 Each IP Asset is minted as an independent smart contract with individual tokens and assigned initial- holders, representing their underlying ownership %. \
 Tokens are used as they can easily allow each individual to determine how they want to control their own intellectual property rights. Tokens can securely be transferred/sold, allowing delegation or transfer of governance rights.
 
-* IP Assets can be minted on any chain, and the Original Works Network secures the IP registration is synced across all networks.
+* IP Assets can be minted on any chain, and the [**Original Works Validators**](original-works-validators.md) secures the IP registration is synced across all networks.
 * IP Assets can be categorized in any format (ISRC, ISWC, NFT, ISCC, etc..)
 * Having a verified Data Provider verify the authenticity of the registration grants the IP Asset a "blue check" indicating a verified rights organization&#x20;
 *   By tokenizing IP ownership the Original Works Protocol grants IP owners full control over
