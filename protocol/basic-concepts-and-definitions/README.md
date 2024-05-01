@@ -19,4 +19,4 @@ This provides an immutable record of rights and payment, automated splits, and e
 As Royalty Assets represent the default split of revenue, **Royalty Licenses** are smart contracts used to grant a particular usage of the rights by the IP Asset contract. They have a fixed terms and conditional payment logic and like **Royalty Assets**, they are a tokenized a revenue source, unlike Royalty Assets, they do not have tokens, but rather a fixed list of payees. \
 
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
