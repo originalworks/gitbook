@@ -24,7 +24,7 @@ We are building the web3 infrastructure to reshape digital IP ownership and radi
 
 ### How does the Original Works Protocol work?
 
-Music assets are off-chain under-monetized and illiquid. Tokenizing music IP is the key solution to creating a liquid, efficient, and transparent market that everyone can access.
+Most music assets today are off-chain, under-monetized and illiquid. Tokenizing music IP is the key solution to creating a liquid, efficient, and transparent market that everyone can access.
 
 1. Music IP rights holders bridge their traditional music royalty payments by creating a Original Work Royalty Asset (RA)&#x20;
 2. The RA and cash flows are verified, facilitated and transferred via their distribution partners, who act as Verified Payment Providers (VPP )&#x20;
