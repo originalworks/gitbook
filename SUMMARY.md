@@ -24,7 +24,6 @@
   * [How the OWN protocol works](protocol/overview/how-the-own-protocol-works.md)
 * [Token Economics](protocol/token-economics.md)
 * [OWN Media Asset (OMA)](protocol/own-media-asset-oma.md)
-* [Wrapped OWN Media Asset (wOMA)](protocol/wrapped-own-media-asset-woma.md)
 * [Participants](protocol/participants/README.md)
   * [Artists/Creators](protocol/participants/artists-creators.md)
   * [Oracles](protocol/participants/oracles.md)
@@ -32,6 +31,7 @@
   * [Fraud Governance](protocol/participants/fraud-governance.md)
   * [Liquidity Providers](protocol/participants/liquidity-providers.md)
   * [Developers](protocol/participants/developers.md)
+* [Privacy](protocol/privacy.md)
 * [Governance](protocol/governance.md)
 
 ## Ecosystem
