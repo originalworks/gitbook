@@ -14,6 +14,7 @@
 * [Current Problems](protocol/current-problems.md)
 * [Objectives](protocol/objectives.md)
 * [How it Works](protocol/how-it-works.md)
+* [Protocol Roadmap](protocol/protocol-roadmap.md)
 * [Personas](protocol/personas/README.md)
   * [Data Providers](protocol/personas/data-providers.md)
   * [Payment Providers](protocol/personas/payment-providers.md)
