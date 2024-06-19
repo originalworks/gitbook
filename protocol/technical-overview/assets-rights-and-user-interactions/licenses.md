@@ -34,11 +34,21 @@ Only one combination of `RightsCoverage` + **`Region`** with overlapping active 
 
 #### Public data
 
-* **`Region`** \*\*- _Country ISO_
+ **bold** fields are compulsary. 
+
+* **`License creator`**
+* **`License signature`**
+* **`Reference to Creation ID`**
+* **`Right coverage`**
+* **`Region (ISO 3166)`**
 * **`startDate`**
+* `CID to private data of license`
+* `Blockchain`
+* `Contract`
 
 #### Private Data
 
+* `CID to public data`
 * **`sharePercentage`** - _what percentage of the revenue of this the rights licensed is collected by this specific license_
 * **`revenueSource`** _- array of all known (non-exclusive) platforms exercizing this license_
 * `RightsCoverage` _- how the IP is consumed - ad based streams, ad-free radio, etc…_
