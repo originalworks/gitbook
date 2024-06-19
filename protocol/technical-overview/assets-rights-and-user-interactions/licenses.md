@@ -33,6 +33,9 @@ Only one combination of `RightsCoverage` + **`Region`** with overlapping active 
 
 #### Public data
 
+* **`RightsContoller Name`**
+* **`RightsContoller Signature`**
+* **`Rights Record reference`**
 * **`Region`** \*\*- _Country ISO_
 * **`startDate`**
 
