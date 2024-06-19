@@ -8,23 +8,23 @@ Revenue paid to creative assets tokenized on Original Works originate from off-c
 
 ### A Decentralized Rights Registry&#x20;
 
-In order to drive liquidity to the creative industries, a simple and near real-time method to evaluate and benchmark an asset, understand its underlying cashflows and obtain guarantees against any form of royalty advances. Unfortunately, the way music is described, registered and revenue is recorded, collected and settled across jurisdictions and industries creates for a very fragmented illiquid market.&#x20;
+In order to drive liquidity to the creative industries, a simple and near real-time method to evaluate and benchmark an asset is needed to understand its underlying cashflows and obtain guarantees against any form of royalty advances. Unfortunately, the way music is described and registered and revenue is recorded, collected and settled across jurisdictions and industries ends up a very fragmented illiquid market.&#x20;
 
-A permissionless decentralized global rights registry disambiguates any information or claim about an asset allowing for catalog managers, potential investors and other smart contract to review correlated and verified data to solve this issue. As such, the Original Works Protocol allows any music asset manager and/owner to provide fully immutable, current and accurate proofs (verified credentials of the existence of a record while maintaining full data privacy) \`about copyright, applicable rights, existing licenses and any other data they wish to verify about an asset.
+A permissionless decentralized global rights registry disambiguates any information or claim about an asset allowing for catalog managers, potential investors and other smart contracts to review correlated and verified data, solving this issue. As such, the Original Works Protocol allows any music asset manager and/owner to provide fully immutable, current and accurate proofs (cryptographic verification of the existence of a record, while maintaining full data privacy) about copyright, rights covered, existing license terms and any other data they wish to verify about an asset.
 
 ### Turning Music IP to a Composable Digital Asset
 
 Apart from fixing the fragmented supply chain that keeps the industry barely connected today, Original Works enables the on-chain registration of music IP, effectively generating privacy-keeping immutable records about [globally identifiable](#user-content-fn-1)[^1] IP assets.\
 \
-By introducing tokenization of registered assets, these data providers who are in charge of maintaining   the registration, distribution and can now also offer the ability to both govern and monetize the underlying rights being monetized on-chain.
-
-Original Works brings artists and developers together to create consumer and B2B web3 applications and provide users with an endless array of functionality. Code for decentralized applications is open source, shareable and stackable, giving artists the granularity of IP control on an asset level, and making it easy for developers to combine and build upon existing features.
-
-Each individual application has the potential to build an entire eco-system, culture and economy around it. The real power of the OWN network is that assets can independently and simultaneously generate value from different networks of creators and audiences. The vision of the Original Works protocol is to provide the open internet with interoperable payment rails for music content with self-enforcing rights and revenue management, as well as transparent ownership and governance records. With Original Works, creators continue generating passive income while expanding and enriching their catalog.&#x20;
+By introducing tokenization of registered assets, these data providers who are in charge of maintaining   the registration, distribution and can now also offer the ability to both govern and monetize the underlying rights on-chain.
 
 #### What Does That Mean for the creative community?
 
 Imagine the music industry as a fertile, frictionless environment fostering creativity. This is the world we envision and that is why, just like bridging legacy payment rails with web3 smart contracts, we are highly invested in bridging developer communities with creative communities.&#x20;
+
+Original Works brings artists and developers together to create consumer and B2B web3 applications and provide users with an endless array of functionality. Code for decentralized applications is open source, shareable and stackable, giving artists the granularity of IP control on an asset level, and making it easy for developers to combine and build upon existing features.
+
+Each individual application has the potential to build an entire eco-system, culture and economy around it. The real power of the OWN network is that assets can independently and simultaneously generate value from different networks of creators and audiences. The vision of the Original Works protocol is to provide the open internet with interoperable payment rails for music content with self-enforcing rights and revenue management, as well as transparent ownership and governance records. With Original Works, creators continue generating passive income while expanding and enriching their catalog.&#x20;
 
 
 

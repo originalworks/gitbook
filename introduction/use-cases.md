@@ -6,7 +6,7 @@ description: Unlocking new models of fan engagement, monetization and music dist
 
 With applications built on OWN, artists and their representatives (managers, labels or distributors) can finally have a turnkey solution to distribute their work under their customized terms, and manage royalty collection using web3 workflows which will be settled and enforced automatically. This can all be done permissionlessly by minting their work as an RA (Royalty Asset) smart contract.
 
-**The immediate Use Cases**
+**The features supported by the ORiginal Works Protocol**
 
 * On-chain Copyright Management
 * On-chain Rights Licensing&#x20;
@@ -14,9 +14,17 @@ With applications built on OWN, artists and their representatives (managers, lab
   * On chain Royalty Payments
   * On chain Revenue Splits
   * On chain asset governance
-* Launch financing campaigns
-* IP market places
+
+**The immediate Use Cases these features unlock that are being by our eco-system partners today**
+
+* Royalty advances
+* Decentralized labels
+* IP/creative financing initiatives
+* IP investing sand trading
 * Fan Engagement and Community Rewards
+* Direct to Fan Streaming
+* Generative AI copyrightting
+* Collaborative and derivative work monetization
 
 ### The Future is Limitless
 

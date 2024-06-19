@@ -35,10 +35,9 @@ In the future we will unlock additional asset types:
 
 * **`CreationType`**
   * <mark style="background-color:purple;">**MusicalWork (unreleased music)**</mark>
-* **`Resource`**
-  * **`ResourceType`**
-    * **`SoundRecording`**
-    * <mark style="background-color:purple;">(any acceptable Ddex descriptor)</mark>
+* **`ResourceType`**
+  * **`SoundRecording`**
+  * <mark style="background-color:purple;">(any acceptable Ddex descriptor)</mark>
 
 ### Original Works Assets
 
