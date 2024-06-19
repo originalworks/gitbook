@@ -24,19 +24,25 @@ We are building the web3 infrastructure to reshape digital IP ownership and radi
 
 ### How does the Original Works Protocol work?
 
-Most music assets today are off-chain, under-monetized and illiquid. Tokenizing music IP is the key solution to creating a liquid, efficient, and transparent market that everyone can access.
+Most music assets today are off-chain, under-monetized and illiquid. Providing a privacy preserving, decentralized and immutable records of rights, licenses unlocks the ability to tokenize the off-chain royalty payments, solution to creating a liquid, efficient, and transparent market that everyone can access.
 
-1. Music IP rights holders bridge their traditional music royalty payments by creating a Original Work Royalty Asset (RA)&#x20;
-2. The RA and cash flows are verified, facilitated and transferred via their distribution partners, who act as Verified Payment Providers (VPP )&#x20;
-3. With an RA, artists and rights holders access a new world of financial and fan engagement products for music royalties.
+Founded by music industry veterans, pioneering in digital reporting of music IP monetization and digital supply chain management throughout the transformation of the industry in the past two decades we are building the protocol under the following assumptions, which are being validated with our design partners throughout the development phase of the protocol:
+
+1. Rights holders, artists, creators and most independent labels rely on service providers administrating and monetizing and protecting their rights. We will refer to these collectively as **Service Providers**.&#x20;
+2. Service Providers will need to continue protecting the privacy of their customers and need a simple  non-disruptive solution to securely sync their data
+3. Service Providers would enjoy the benefit of monetizing their data if they can have an easy plug-and-play solution to provide Verifiable Credentials about assets, rights, licenses, payments and claims.
+4. All rights holders will be happy to validate the accuracy of their revenue by a non-trusted 3rd party, while retaining full privacy on their data.&#x20;
+5. All Rrights holders will enjoy the benefit of easily migrating their catalog and/or licenses
+6. Most rights holders would enjoy access to fair and transparent liquidity in the form of royalty advances and loans for IP catalog investments
+7. DeFi pools can tap into new RWA tokenized markets with new and emerging legal frameworks
+8. Most artists and creators will benefit from direct-to-fan monetization as long as it is easily integrated into their commercial setup
+
+
 
 ### Who can participate?
 
-The Original Works protocol offers new technical, legal, and economic frameworks that enables creators, rights owners, and service providers to collectively engage in rights management and royalty distribution without a centralized infrastructure, while still relying on valuable service providers.&#x20;
+The Original Works protocol offers new technical, legal, and economic frameworks that enables creators, rights owners, and service providers to collectively engage in rights management and royalty distribution without a centralized infrastructure, while still relying on valuable service providers.
 
 Our aim is to create a vibrant ecosystem of the world’s creative IP supply chain, bringing together in one community creators, rights holders, music businesses, builders, developers, fans and buyers of creative and music-related IP to enable a sustainable ecosystem.
 
 Interested in getting involved? [Contact us](introduction/our-community.md)
-
-
-
