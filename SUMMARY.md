@@ -14,7 +14,7 @@
 * [Current Problems](protocol/current-problems.md)
 * [Objectives](protocol/objectives.md)
 * [How it Works](protocol/how-it-works.md)
-* [Protocol Roadmap](protocol/protocol-roadmap.md)
+* [Business Requirements](protocol/business-requirements.md)
 * [Personas](protocol/personas/README.md)
   * [Data Providers](protocol/personas/data-providers.md)
   * [Payment Providers](protocol/personas/payment-providers.md)
@@ -22,6 +22,7 @@
   * [Original Works Validators](protocol/personas/original-works-validators.md)
   * [Copyright/Rights Holders](protocol/personas/copyright-rights-holders.md)
 * [Technical Overview](protocol/technical-overview/README.md)
+  * [Glossary](protocol/technical-overview/glossary.md)
   * [System Architecture](protocol/technical-overview/system-architecture.md)
   * [Assets, Rights and User interactions](protocol/technical-overview/assets-rights-and-user-interactions/README.md)
     * [Works vs. Recordings](protocol/technical-overview/assets-rights-and-user-interactions/works-vs.-recordings.md)
@@ -42,6 +43,7 @@
 * [The Original Works Registry](protocol/the-original-works-registry.md)
 * [Privacy](protocol/privacy.md)
 * [Governance](protocol/governance.md)
+* [Protocol Roadmap](protocol/protocol-roadmap.md)
 
 ## Ecosystem
 
