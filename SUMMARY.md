@@ -6,7 +6,6 @@
 * [Rights and Royalties On Chain](introduction/rights-and-royalties-on-chain.md)
 * [Our Community](introduction/our-community.md)
 * [Use Cases](introduction/use-cases.md)
-* [Protocol Overview](introduction/protocol-overview.md)
 
 ## Protocol
 
