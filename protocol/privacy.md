@@ -1,86 +1,28 @@
 # Privacy
 
-### Design Principle: Verifiable Private data
+### Guiding principles
 
-1. Hide balances
-   1. `RightsHolder` of tokenized Assets ( **`Creation or License)`**
-   2. Ownership of License&#x20;
-   3. Obfuscate payments between assets and rights holders
-2. Obfuscate payments
-3. Allow Data Providers to store immutible private records about asset
-4. Allow rightsholders to easily and securely access these proofs.
+Registration and payment solutions on Original Works are built upon the basic blockchain constructs of decentralization, immutability, self-custody. Transparency however has always been a sensitive issue in the music industry as it is used mainly by managers and other representatives of `RightsHolders` to maximize their leverage and earnings in negotiations.&#x20;
 
-#### Definition
+RightsHolder don't want to expose how much they are earning, what deals their managers have obtained for them, and how much of their catalog they actually own. DataProviders such as distributors and royalty societies have no interest in exposing this sensitive data and therefore there is no efficient, easy and accessible way today to extract or purchase specific datapoint about a specific asset by 3rd parties.
 
-* **Verifiable Credentials (VCs)**: Digital statements made by an issuer about a subject, which can be cryptographically verified.
-
-#### Integration
-
-* **Issuance**: Trusted entities (e.g., PROs, labels) issue VCs to artists and rights holders.
-* **Verification**: Participants can verify VCs to ensure the authenticity of claims.
-* **Storage**: VCs are stored securely on the blockchain or in decentralized storage solutions.
-
-#### Use Cases
-
-1. **Artist Identity Verification**: Ensuring the legitimacy of an artist or rights holder.
-2. **Ownership Claims**: Verifying claims of ownership and rights.
-3. **Licensing Agreements**: Authenticating licensing terms and agreements.
+Now, leveraging the amazing developments in [Zero Knowledge proofs](https://chain.link/education/zero-knowledge-proof-zkp), coupled with the scalability of [Layer 2s](https://www.coinbase.com/learn/crypto-basics/what-are-ethereum-layer-2-blockchains-and-how-do-they-work) and [Account Abstraction](https://ethereum.org/en/roadmap/account-abstraction/) - \
 
 
+**Making Rights Holdings and Payments Private and Verifiable**&#x20;
 
+The main challenge is keeping the EVM composability, while strengthening privacy, minimally degrading the user experience and ensuring there are no compromises in security.
 
+Original Works will:&#x20;
 
+* allow `RightsHolders` to validate their ownership without knowing other holders' ballances
+* allow `RightsHolders` to obfuscate payment via batch payments to their private wallets
+* allow `RightsHolders` to prove how much they got paid from a license by sharing a secret with 3rd parties
+* allow `DataProviders` to check there is no `RightsRegistered` (duplicate record in the Registry) governing the same `rights` for the same `Creation` in the same `region`
+* allow `PaymentProviders` to check there is no duplicate record of a license monetizing the same  `RightsRegistered`
 
+In order to design a long-lasting interoperable solution, this challenge will require an industry-wide initiative of research, development and experimentation with existing, affordable and battle-tested solutions out there. As a decentralized protocol, we encourage integrating other open-source solutions and steering the community to find the most applicable solution for each challenge. \
+\
+At Original Works we are already developing several solutions to be deployed in the coming months, and invite anybody interested to join our repo and engage with us directly about taking part in the R\&D  and documentation efforts.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#### Monetization Optimization and Infringing Use Detection
-
-* **Recommendation Engine**: Analyzing contract data and streaming metrics to identify unmonetized usage and optimize earnings for rights holders.
-* **Infringing Use Detection**: Automatically detecting and addressing unauthorized uses of music, safeguarding the rights and earnings of legitimate artists and rights holders.
-
-### Verifiable Credentials:
-
-### Benefits of Verifiable Credentials for the Music Industry
-
-#### For Artists and Rights Holders
-
-* **Protection of Rights**: Ensuring that only authorized individuals and entities can claim and manage music rights.
-* **Optimized Earnings**: Identifying unmonetized usage and optimizing revenue streams through accurate rights management.
-
-#### For Industry Stakeholders
-
-* **Trust and Transparency**: Building a trustworthy and transparent ecosystem where the ownership and rights of musical works are verifiable and secure.
-* **Efficient Rights Management**: Streamlining the process of rights management and enforcement, reducing administrative burdens and costs.
-
-### Case Study: Addressing the Negative Impact of Fake Streams
-
-#### The Problem with Fake Streams
-
-* **Artificial Boosting**: Using fake streams to create an illusion of popularity, leading to distorted market perceptions and unfair advantages.
-* **Algorithmic Penalties**: Low engagement rates from fake streams can ruin an artist's algorithmic profile, reducing their chances of being recommended to real audiences and harming their long-term marketing ROI.
-
-#### How Verifiable Credentials Can Help
-
-* **Authentic Engagement**: Ensuring that only genuine streams are counted, improving the accuracy of engagement metrics and algorithmic recommendations.
-* **Transparency and Accountability**: Providing a transparent record of streaming activities, making it easier to detect and address fraudulent behavior.
+We will announce our grant program in Q4 2024 and some of the most exciting opportunities lie in the intersection of privacy and UX.&#x20;

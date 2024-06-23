@@ -19,7 +19,7 @@ description: Providing a Tech-Stack to on-ramp the existing music IP infrastruct
 #### Minimum disruption to individual Data Provider's workflows and existing data models
 
 * **Data Chanels:**&#x20;
-* **Ddex:**
+* **Ddex adoption:**
 * **ERC standard Opcodes:**
 
 #### Smart Contracts

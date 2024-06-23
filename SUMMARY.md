@@ -12,6 +12,7 @@
 * [Abstract](protocol/abstract.md)
 * [Current Problems](protocol/current-problems.md)
 * [Objectives](protocol/objectives.md)
+* [Privacy](protocol/privacy.md)
 * [How it Works](protocol/how-it-works.md)
 * [Business Requirements](protocol/business-requirements.md)
 * [Personas](protocol/personas/README.md)
@@ -20,6 +21,7 @@
   * [Relayers](protocol/personas/relayers.md)
   * [Original Works Validators](protocol/personas/original-works-validators.md)
   * [Copyright/Rights Holders](protocol/personas/copyright-rights-holders.md)
+* [Business Requierments](protocol/business-requierments.md)
 * [Technical Overview](protocol/technical-overview/README.md)
   * [Glossary](protocol/technical-overview/glossary.md)
   * [System Architecture](protocol/technical-overview/system-architecture.md)
@@ -40,7 +42,6 @@
     * [Data availability and monetization](protocol/technical-overview/verifiable-zk-proofs/data-availability-and-monetization.md)
 * [Token Economics](protocol/token-economics.md)
 * [The Original Works Registry](protocol/the-original-works-registry.md)
-* [Privacy](protocol/privacy.md)
 * [Governance](protocol/governance.md)
 * [Protocol Roadmap](protocol/protocol-roadmap.md)
 
@@ -56,6 +57,7 @@
 
 * [Case Studies](resources/case-studies/README.md)
   * [Tokenizing Performance Royalties](resources/case-studies/tokenizing-performance-royalties.md)
+  * [Trust for the Music Industry Supply Chain using Zero Knowledge Proofs](resources/case-studies/privacy.md)
 * [Video Guides](resources/video-guides.md)
 
 ## Misc

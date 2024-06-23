@@ -18,9 +18,9 @@ Ensuring the privacy and integrity of the data remains the role of music adminis
 
 Making music IP-backed assets verifiable on-chain allows any human, application or protocol to evaluate the asset, unlocking friction in the market.
 
-### Ensure transparent and immutable records of ownership and rights.
+### Ensure private, immutable records of ownership and rights that can be easily proven by rights holders.
 
-Once obtaining a hash of a registered asset on a public blockchain, ownership and monetization rights holders enjoy self custody of their rights, and are able to independently leverage their assets without relying on intermediaries.
+Once obtaining a hash of a registered asset on a public blockchain, ownership and monetization rights holders can enjoy self custody of their rights, and are able to independently leverage their assets with minimum dependency on intermediaries, while retaining full privacy.&#x20;
 
 ### Provide a decentralized Rights Registry for managing, and obtaining information about, music IP rights.
 
