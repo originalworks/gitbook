@@ -4,7 +4,7 @@
 
 Registration and payment solutions on Original Works are built upon the basic blockchain constructs of decentralization, immutability, self-custody. Transparency however has always been a sensitive issue in the music industry as it is used mainly by managers and other representatives of `RightsHolders` to maximize their leverage and earnings in negotiations.&#x20;
 
-RightsHolder don't want to expose how much they are earning, what deals their managers have obtained for them, and how much of their catalog they actually own. DataProviders such as distributors and royalty societies have no interest in exposing this sensitive data and therefore there is no efficient, easy and accessible way today to extract or purchase specific datapoint about a specific asset by 3rd parties.
+`RightsHolder` don't want to expose how much they are earning, what deals their managers have obtained for them, and how much of their catalog they actually own. `DataProviders` such as distributors and royalty societies have no interest in exposing this sensitive data and therefore there is no efficient, easy and accessible way today to extract or purchase specific datapoint about a specific asset by 3rd parties.
 
 Now, leveraging the amazing developments in [Zero Knowledge proofs](https://chain.link/education/zero-knowledge-proof-zkp), coupled with the scalability of [Layer 2s](https://www.coinbase.com/learn/crypto-basics/what-are-ethereum-layer-2-blockchains-and-how-do-they-work) and [Account Abstraction](https://ethereum.org/en/roadmap/account-abstraction/) - \
 
