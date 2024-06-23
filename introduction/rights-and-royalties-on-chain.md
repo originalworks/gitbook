@@ -10,7 +10,9 @@ Revenue paid to creative assets tokenized on Original Works originate from off-c
 
 In order to drive liquidity to the creative industries, a simple and near real-time method to evaluate and benchmark an asset is needed to understand its underlying cashflows and obtain guarantees against any form of royalty advances. Unfortunately, the way music is described and registered and revenue is recorded, collected and settled across jurisdictions and industries ends up a very fragmented illiquid market.&#x20;
 
-A permissionless decentralized global rights registry disambiguates any information or claim about an asset allowing for catalog managers, potential investors and other smart contracts to review correlated and verified data, solving this issue. As such, the Original Works Protocol allows any music asset manager and/owner to provide fully immutable, current and accurate proofs (cryptographic verification of the existence of a record, while maintaining full data privacy) about copyright, rights covered, existing license terms and any other data they wish to verify about an asset.
+We aim to solve this is by enabling a permissionless decentralized global rights registry, that can disambiguate any information or claim about any asset and hide all related balances, while still allowing catalog managers, potential investors and other smart contracts to obtain access to correlated and verified data on-demand.
+
+The Original Works Protocol allows any music asset manager/owner to provide fully immutable, current and accurate proofs (cryptographic verification of the existence of a record, while maintaining full data privacy) about copyright, rights covered, existing license terms and any other data that needs  to be corroborated about an asset. Data providers can monetize their data more efficiently this way.
 
 ### Turning Music IP to a Composable Digital Asset
 

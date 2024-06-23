@@ -2,7 +2,9 @@
 
 ### Guiding principles
 
-Registration and payment solutions on Original Works are built upon the basic blockchain constructs of decentralization, immutability, self-custody. Transparency however has always been a sensitive issue in the music industry as it is used mainly by managers and other representatives of `RightsHolders` to maximize their leverage and earnings in negotiations.&#x20;
+Registration and payment solutions on Original Works are built upon the basic blockchain constructs of decentralization, immutability and self-custody. While se strongly believe in the importance of transparency, we also understand how important it is, **if we want to offer **_**true**_** self-custody**, to allow artists and other holders of rights to protect their own privacy and elect what information they wish to make public. We do not believe an "Open Protocol" as we intend Original Works to be should force rights holders to give up all privacy for better financing solutions.
+
+Transparency however has always been a sensitive issue in the music industry as it is used mainly by managers and other representatives of `RightsHolders` to maximize their leverage and earnings in negotiations.&#x20;
 
 `RightsHolder` don't want to expose how much they are earning, what deals their managers have obtained for them, and how much of their catalog they actually own. `DataProviders` such as distributors and royalty societies have no interest in exposing this sensitive data and therefore there is no efficient, easy and accessible way today to extract or purchase specific datapoint about a specific asset by 3rd parties.
 
@@ -15,7 +17,7 @@ The main challenge is keeping the EVM composability, while strengthening privacy
 
 Original Works will:&#x20;
 
-* allow `RightsHolders` to validate their ownership without knowing other holders' ballances
+* allow `RightsHolders` to validate their ownership without knowing other holders' balances
 * allow `RightsHolders` to obfuscate payment via batch payments to their private wallets
 * allow `RightsHolders` to prove how much they got paid from a license by sharing a secret with 3rd parties
 * allow `DataProviders` to check there is no `RightsRegistered` (duplicate record in the Registry) governing the same `rights` for the same `Creation` in the same `region`

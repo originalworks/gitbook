@@ -28,9 +28,9 @@ Most music assets today are off-chain, under-monetized and illiquid. Providing a
 
 Founded by music industry veterans, pioneering in digital reporting of music IP monetization and digital supply chain management throughout the transformation of the industry in the past two decades we are building the protocol under the following assumptions, which are being validated with our design partners throughout the development phase of the protocol:
 
-1. Rights holders, artists, creators and most independent labels rely on service providers administrating and monetizing and protecting their rights. We will refer to these collectively as **Service Providers**.&#x20;
-2. Service Providers will need to continue protecting the privacy of their customers and need a simple  non-disruptive solution to securely sync their data
-3. Service Providers would enjoy the benefit of monetizing their data if they can have an easy plug-and-play solution to provide Verifiable Credentials about assets, rights, licenses, payments and claims.
+1. Rights holders, artists, creators and most independent labels rely on service providers administrating and monetizing and protecting their rights.
+2. Service providers will need to continue protecting the privacy of their customers and need a simple  non-disruptive solution to securely sync their data
+3. Service providers would enjoy the benefit of monetizing their data if they can have an easy plug-and-play solution to provide Verifiable Credentials about assets, rights, licenses, payments and claims.
 4. All rights holders will be happy to validate the accuracy of their revenue by a non-trusted 3rd party, while retaining full privacy on their data.&#x20;
 5. All Rrights holders will enjoy the benefit of easily migrating their catalog and/or licenses
 6. Most rights holders would enjoy access to fair and transparent liquidity in the form of royalty advances and loans for IP catalog investments
