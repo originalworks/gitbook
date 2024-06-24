@@ -42,7 +42,7 @@ These are the different Data Provider Roles a DataProvider persona can assume in
 * `CopyrightController` - The `DataProvider` in charge of registering the asset, keeping the on-chain records available and providing verifiable proofs about the asset on-demand. As long as the IP Asset has not been tokenized by the `CopyrightHolder`(s), then the `copyrightController` remains the `admin` and acts as their on-chain representative.
 * `RightsController` **-** The `DataProvider` in charge of registering a license, keeping the on-chain records available and providing verifiable proofs about the license on-demand. As long as the IP Asset has not been tokenized by the `RightHolder`(s), then the `RightsController` remains the `admin` and acts as their on-chain representative. \
   It is typically an enterprise like a music distributor or publishing admin that controls rights in one or more Creations in respect of some or all rights for specific territories, time periods,`RightsCoverage` types.
-* `rightsAdministrator` - The administrator assigned by the Rights Controller in charge with administering the rights on-chain and off-chain;
+* `RightsAdministrator` - The administrator assigned by the Rights Controller in charge with administering the rights on-chain and off-chain;
 
 ### Data Channels:
 
