@@ -12,6 +12,6 @@ Original Works is an infrastructure layer intending businesses and applications 
 
 Once IP and it's cashflows is tokenized music IP becomes a liquid digital asset any interested party, smart contract, application or person can use the permissionless protocol or registry app to look up public information about musical works, releases or related licenses. Alternatively, they can requesting access to or /acquire private data directly from the protocol - bypassing the administrative costs, while still compensating the admins and service providers. Users can therefore interact directly with the rights-holders or smart contracts, while data providers that populated this data can continue to passively monetise it. \
 \
-In this section we will explore the different personas of the protocl, which can each assume several user roles.
+In this section we will explore the different personas of the protocol, which can each assume several user roles.
 
 <figure><img src="../../.gitbook/assets/Web 3 Planning - Frame 13 (1).jpg" alt=""><figcaption></figcaption></figure>

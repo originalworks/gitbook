@@ -33,12 +33,12 @@ A License is agreement granted to a `RightsHolder` to exercise one or more of th
 Only one combination of `RightsCoverage` + **`Region`** with overlapping active dates can be issued for any giver **`Creation`** may be valid&#x20;
 
 {% hint style="info" %}
-**bold** fields are compulsary.
+**bold** fields are compulsory.
 *italic* fields are optional.
 {% endhint %}
 
 
- **bold** fields are compulsary.
+ **bold** fields are compulsory.
  *italic* fields are optional. 
 
 #### Public data
@@ -57,7 +57,7 @@ Only one combination of `RightsCoverage` + **`Region`** with overlapping active 
 
 * **`CID to public data`**
 * **`sharePercentage`** - _what percentage of the revenue of this the rights licensed is collected by this specific license_
-* **`revenueSource`** _- array of all known (non-exclusive) platforms exercizing this license_
+* **`revenueSource`** _- array of all known (non-exclusive) platforms exercising this license_
 * *`RightsCoverage`* _- how the IP is consumed - ad based streams, ad-free radio, etc…_
 * *`FactSheet`* - custom JSON that may be private or public
 * *`Agreement` *- optional link to a URL hosted copy of the PDF/DOC of the agreement

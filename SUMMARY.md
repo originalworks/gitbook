@@ -21,7 +21,7 @@
   * [Relayers](protocol/personas/relayers.md)
   * [Original Works Validators](protocol/personas/original-works-validators.md)
   * [Copyright/Rights Holders](protocol/personas/copyright-rights-holders.md)
-* [Business Requierments](protocol/business-requierments.md)
+* [Business Requirements](protocol/business-requierments.md)
 * [Technical Overview](protocol/technical-overview/README.md)
   * [Glossary](protocol/technical-overview/glossary.md)
   * [System Architecture](protocol/technical-overview/system-architecture.md)

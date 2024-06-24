@@ -4,7 +4,7 @@ description: >-
   modeling the compensation mechanisms and maximizing adoption;
 ---
 
-# Business Requierments
+# Business Requirements
 
 ## How can OW help the different protocol users
 

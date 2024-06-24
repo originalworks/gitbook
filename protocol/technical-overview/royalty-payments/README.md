@@ -24,7 +24,7 @@ All royalties will be paid in stable coin to ensure we do not expose rightHolder
 
 **Fees: Aligning incentives in the music industry around the artist's best interest**
 
-The $OWN token will be used to pay fees and community grants will allow early adoptors to use the protocol for free. Additionally, through the settlement fee mechanism we will reward efficient and the Original Works foundation continuously promote more flexible payouts and faster settlement. Data Providers will be able to provide better payments, unlock liquidity, increase efficiency and ultimately drive more business for themselves and their artists.
+The $OWN token will be used to pay fees and community grants will allow early adopters to use the protocol for free. Additionally, through the settlement fee mechanism we will reward efficient and the Original Works foundation continuously promote more flexible payouts and faster settlement. Data Providers will be able to provide better payments, unlock liquidity, increase efficiency and ultimately drive more business for themselves and their artists.
 
 
 

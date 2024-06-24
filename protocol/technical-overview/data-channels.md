@@ -39,13 +39,13 @@ Any counterparty that is expected to parse this data should be able to identify 
 * **Identifiers**: Unique ID for each **Asset** (**musical work** or **recording)** or **License**. Assets and licenses may be tokenized or not. These are the first primitives the protocol will define&#x20;
 * **Creator Information**: Details of the artist(s) and rights holders.
 * **Ownership Records**: Private Information on the ownership
-* **Usage Rights:** Private Information on licensing agreements, rights coveraed and teritory
+* **Usage Rights:** Private Information on licensing agreements, rights coveraed and territory
 * **Licenses:** Licensing agreements, exercizng&#x20;
 * **Usage Data**: Records of how and where an asset is used.
 
 #### Segregating data channels
 
-We propose the usage of multiple `DataChannels` per `DataProvider`so the data will be strucutred easiliy and insights can easily be derived; Some examples of specific `DataChannels` managed by a single enterprise coul be:
+We propose the usage of multiple `DataChannels` per `DataProvider`so the data will be structured easily and insights can easily be derived; Some examples of specific `DataChannels` managed by a single enterprise could be:
 
 * **Initial Registration**: Recording the original rights holder.
 * **Asset Financial prospectus:** authenticated off-chain financial records

@@ -14,10 +14,10 @@ Objects/entities in`CodeFormat` are proposed official naming conventions adopted
 
 A musical work is monetized via two different IP ownership schemes, with each governed, administered and controlled by different parties in different regions, with different applicable rights.&#x20;
 
-1. A Musical Work - The intellectual property representing an abstract work that can be musically preformed recorded, synced, etc.. It is usually controlled under various rights covered in the owners' publishing agreement, when registered with Royalty Societies across the globe. Usually unregistered rights are not collected - or worst - collected but never paid out.
-2. A Muscial Recording - The ownership rights to the "master track" recording of a specific Musical Work, or not. It is usually covered under a single distributor or agent monetizing the streaming, sync or other rights applicable to recordings.&#x20;
+1. A Musical Work - The intellectual property representing an abstract work that can be musically performed recorded, synced, etc.. It is usually controlled under various rights covered in the owners' publishing agreement, when registered with Royalty Societies across the globe. Usually unregistered rights are not collected - or worst - collected but never paid out.
+2. A Musical Recording - The ownership rights to the "master track" recording of a specific Musical Work, or not. It is usually covered under a single distributor or agent monetizing the streaming, sync or other rights applicable to recordings.&#x20;
 
-Assets on Original Works are defined as **`Creations`** allowing us o conform to existing standars.&#x20;
+Assets on Original Works are defined as **`Creations`** allowing us o conform to existing standards.&#x20;
 
 We will support two&#x20;
 

@@ -22,7 +22,7 @@ Additionally, as a Public Good, we believe that any excess value created by $OWN
 `Relayers` and `Validators` are the open layer above the trusted representatives of rights holders (Service Providers). The protocol allows for any web 3 builder or node operator to become a Validator or Relayer and earn $OWN:
 
 * preserve the data integrity across multiple chains
-* prevent double entires of international IP identification codes
+* prevent double entries of international IP identification codes
 * Validate ZK proofs declared about licenses, financials and or/ownership data of an asset
 * prevent conflicting payment logic
   * **share percentage** - _what percentage of the revenue of this the rights licensed is collected by this specific license_

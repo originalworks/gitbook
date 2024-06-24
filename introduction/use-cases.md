@@ -41,7 +41,7 @@ Some other applications that we envision being built for the OWN protocol:
 * **Transferable Reproduction Rights** - Artists can incentivize their fans to promote their brand and earn their part by producing merchandise or vinyl or art by granting a IP rights to entrepreneurial fans who can in turn get an exclusive/regional (or any other construct they can imagine) license to reproduce and sell their work. These license are transferable creating an economy that is driven by the fans
 * **Distributed hosting of musical content** - Apart from IPFS storage of the music IP, OWN allows its creators to distribute high quality media files to any distributed storage service or protocol, incentivizing data providers to host and serve content to 3rd party networks.
 
-Ultimately, the OWN protocol is a lean and foundational layer to support the most direct flow possible of funds from consumers to creators, no mater where the revenue is made. \
+Ultimately, the OWN protocol is a lean and foundational layer to support the most direct flow possible of funds from consumers to creators, no matter where the revenue is made. \
 We are the bridge between the legacy music industry and the WEB 3.0 economy, and between creators and builders - we are sure the are countless applications that can be built using the tools we are creating today and we're excited to see what developers and artists build on top of the OWN protocol.
 
 
