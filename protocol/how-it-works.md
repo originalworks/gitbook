@@ -12,7 +12,9 @@ This message constitutes the `RegisteredRights` - a unique record, granting the 
 
 ### Tokenizing Royalty Payments
 
-Rights holders may elect to register their assets on-chain in order to anonymously and privately record and collect their royalties on chain, unlocking liquidity and making it easy to grant access to their royalty data; In order to do so, they will need to distribute their music with one of the Protocol `PaymentProviders`. All `PaymentProviders` are also `DataProviders` and if they&#x20;
+Rights holders may elect to register their assets on-chain in order to anonymously and privately record and collect their royalties on chain, unlocking liquidity and making it easy to grant access to their royalty data; In order to do so, they will need to distribute their music with one of the protocol `PaymentProviders`. Protocol `DataProviders` can assume the role of a `PaymentProvider` or assign an independent `PaymentProvider` ( `RightsAdministrator` or other `RightsController` ) to manage the payemnts from the collected royalties.&#x20;
+
+
 
 ### Automating Royalty Payments to Rights Holders
 
