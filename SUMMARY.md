@@ -10,7 +10,8 @@
 ## Protocol
 
 * [Abstract](protocol/abstract.md)
-* [DDEX and OW](protocol/ddex-and-ow.md)
+* [DDEX and OW](protocol/ddex-and-ow/README.md)
+  * [Messages used by the protocol](protocol/ddex-and-ow/messages-used-by-the-protocol.md)
 * [Glossary](protocol/glossary.md)
 * [Current Problems](protocol/current-problems.md)
 * [Objectives](protocol/objectives.md)
