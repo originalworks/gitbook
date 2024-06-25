@@ -10,6 +10,8 @@
 ## Protocol
 
 * [Abstract](protocol/abstract.md)
+* [DDEX and OW](protocol/ddex-and-ow.md)
+* [Glossary](protocol/glossary.md)
 * [Current Problems](protocol/current-problems.md)
 * [Objectives](protocol/objectives.md)
 * [Privacy](protocol/privacy.md)
@@ -23,7 +25,6 @@
   * [Copyright/Rights Holders](protocol/personas/copyright-rights-holders.md)
 * [Business Requirements](protocol/business-requierments.md)
 * [Technical Overview](protocol/technical-overview/README.md)
-  * [Glossary](protocol/technical-overview/glossary.md)
   * [System Architecture](protocol/technical-overview/system-architecture.md)
   * [Assets, Rights and User interactions](protocol/technical-overview/assets-rights-and-user-interactions/README.md)
     * [Works vs. Recordings](protocol/technical-overview/assets-rights-and-user-interactions/works-vs.-recordings.md)
