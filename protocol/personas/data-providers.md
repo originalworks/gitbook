@@ -5,7 +5,7 @@
 \
 Data Providers can be any of the following :&#x20;
 
-* Digital Streaming Providers (DSP)&#x20;
+* Digital Streaming Platform (DSP)&#x20;
 * Record Labels&#x20;
 * Distributors
 * Copyright Societies

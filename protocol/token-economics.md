@@ -2,7 +2,7 @@
 
 ### Token Model
 
-The **$OWN** Utility Token is used to pay fees to the Original Works protocol and between protocol users. While the assets tokenized using the Original Works protocol represent rights to receive revenue or govern an IP-backed asset, The $OWN Utility token is used to facilitate permissionless payments and splits to rights holders, incentivise `PaymentProviders`   - the $OWN token activity should capture the economic value in securing, monetizing and paying music assets, reward early adaptors and as part of the mission statement, also incentivize artists to drive direct engagement from their fans.
+The **$OWN** Utility Token is used to pay fees to the Original Works protocol and between protocol users. While the assets tokenized using the Original Works protocol represent rights to receive revenue or govern an IP-backed asset, The $OWN Utility token is used to facilitate permissionless payments and splits to rights holders, incentivise `PaymentProviders` - the $OWN token activity should capture the economic value in securing, monetizing and paying music assets, reward early adaptors and as part of the mission statement, also incentivize artists to drive direct engagement from their fans.
 
 **Data and Payment Providers** (or any independent web3 payor) will have to Pay fees in $OWN tokens to use the protocol's , but a significant amount of tokens are preserved to onboard the existing music industry on-chain, so the early years of the protocol adoption should come at no cost to them.
 
@@ -46,7 +46,7 @@ Additionally, **builders and researches** can earn $OWN by contributing to the p
 
 `Rights Holders` Will earn $OWN tokens for minting $IP Assets
 
-
+### Incentivizing Direct Fan Engagement&#x20;
 
 ### Stake for Yield to cover gas + excess interest
 
