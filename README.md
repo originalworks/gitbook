@@ -12,7 +12,7 @@ Original works is a Web3 protocol for music IP royalties that enables the entire
 
 Original Works provides the web3 music stack for creators to monetize their music IP, music businesses to bridge royalty payments on-chain, and developers to build high performance applications. Original Works is fully compatible with your favorite web3 tools and services.
 
-Our vision with Original Works is to bring greater transparency, liquidity and price discovery to the music IP market. Democratizing access to music IP begins by transforming it into a digital asset, connecting traditional royalty pipes to on-chain protocols and DeFi projects.
+Our vision with Original Works is to bring greater transparency, liquidity and price discovery to the music IP market. Democratizing access to music IP begins by transforming it into a digital asset, connecting traditional royalty pipes to on-chain protocols and DeFi projects..
 
 ### Why use Original Works?
 
