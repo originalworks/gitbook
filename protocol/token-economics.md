@@ -50,6 +50,6 @@ Additionally, **builders and researches** can earn $OWN by contributing to the p
 
 ### Stake for Yield to cover gas + excess interest
 
-<figure><img src="../.gitbook/assets/Web 3 Planning - Frame 13.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Web 3 Planning - Frame 13 (3).jpg" alt=""><figcaption></figcaption></figure>
 
 <table><thead><tr><th width="160">Action</th><th width="146">Who requests</th><th width="156">who approves</th><th width="159">who pays</th><th>who gets paid</th></tr></thead><tbody><tr><td>Register an Asset</td><td>Rights Holder</td><td>Data Provider</td><td>Data Provider, Protocol Reserves</td><td>Rights Holders</td></tr><tr><td>Register a License</td><td>Payment Provider</td><td>Validator</td><td></td><td></td></tr><tr><td>Verify a fact about an Asset</td><td>Inquirer (anyone)</td><td>Rights Holder</td><td>Inquirer</td><td>Data Provider</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>

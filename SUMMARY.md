@@ -10,13 +10,13 @@
 ## Protocol
 
 * [Abstract](protocol/abstract.md)
-* [DDEX and OW](protocol/ddex-and-ow/README.md)
-  * [Messages used by the protocol](protocol/ddex-and-ow/messages-used-by-the-protocol.md)
-* [Glossary](protocol/glossary.md)
 * [Current Problems](protocol/current-problems.md)
 * [Objectives](protocol/objectives.md)
 * [Privacy](protocol/privacy.md)
 * [How it Works](protocol/how-it-works.md)
+* [DDEX and OW](protocol/ddex-and-ow/README.md)
+  * [Messages used by the protocol](protocol/ddex-and-ow/messages-used-by-the-protocol.md)
+* [Glossary](protocol/glossary.md)
 * [Business Requirements](protocol/business-requirements.md)
 * [Personas](protocol/personas/README.md)
   * [Data Providers](protocol/personas/data-providers.md)
