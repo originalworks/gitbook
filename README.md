@@ -1,7 +1,7 @@
 ---
 description: A Web3 protocol for music IP
-cover: .gitbook/assets/banner4.png
-coverY: -179.847491638796
+cover: .gitbook/assets/Group 8493.png
+coverY: 0
 ---
 
 # About Original Works
