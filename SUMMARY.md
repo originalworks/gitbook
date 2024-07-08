@@ -33,7 +33,7 @@
     * [Royalty Tokenization](protocol/technical-overview/assets-rights-and-user-interactions/royalty-tokenization.md)
     * [Asset Level Governance](protocol/technical-overview/assets-rights-and-user-interactions/asset-level-governance.md)
   * [Royalty Payments](protocol/technical-overview/royalty-payments/README.md)
-    * [Setting up private "on chain" payments](protocol/technical-overview/royalty-payments/setting-up-private-on-chain-payments.md)
+    * [Private "on chain" payments](protocol/technical-overview/royalty-payments/setting-up-private-on-chain-payments.md)
     * [Private Revenue Reports](protocol/technical-overview/royalty-payments/private-revenue-reports.md)
     * [Making Royalty Payments](protocol/technical-overview/royalty-payments/making-royalty-payments.md)
     * [Royalty Splits](protocol/technical-overview/royalty-payments/royalty-splits.md)
