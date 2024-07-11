@@ -45,6 +45,7 @@
   * [User Interactions](protocol/technical-overview/user-interactions/README.md)
     * [How it Works](protocol/technical-overview/user-interactions/how-it-works.md)
     * [Register](protocol/technical-overview/user-interactions/register.md)
+    * [License](protocol/technical-overview/user-interactions/license.md)
     * [Monetize](protocol/technical-overview/user-interactions/monetize.md)
     * [Claim](protocol/technical-overview/user-interactions/claim.md)
     * [Royalty Payments](protocol/technical-overview/user-interactions/royalty-payments/README.md)
