@@ -1,0 +1,2 @@
+# Rights Holders Registry
+

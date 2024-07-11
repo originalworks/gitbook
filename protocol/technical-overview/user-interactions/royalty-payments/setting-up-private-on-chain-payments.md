@@ -20,4 +20,4 @@ Each Rights holder owning a `Royalty Token` in their wallet address will be able
 
 
 
-<figure><img src="../../../.gitbook/assets/Original Works Protocol Design - Protocol Payments.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Original Works Protocol Design - Protocol Payments.jpg" alt=""><figcaption></figcaption></figure>
