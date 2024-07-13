@@ -30,6 +30,7 @@
     * [Rights Holders Registry](protocol/technical-overview/registries/rights-holders-registry.md)
     * [Asset Registry](protocol/technical-overview/registries/asset-registry.md)
     * [License Registry](protocol/technical-overview/registries/license-registry.md)
+    * [ClaimsRegistry](protocol/technical-overview/registries/claimsregistry.md)
   * [Components](protocol/technical-overview/components/README.md)
     * [Assets](protocol/technical-overview/components/assets-rights-and-user-interactions/README.md)
       * [Works vs. Recordings](protocol/technical-overview/components/assets-rights-and-user-interactions/works-vs.-recordings.md)
