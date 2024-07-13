@@ -41,6 +41,7 @@
     * [Rights](protocol/technical-overview/components/rights.md)
     * [Licenses](protocol/technical-overview/components/licenses.md)
     * [Royalty Tokens](protocol/technical-overview/components/royalty-tokens.md)
+    * [Claims](protocol/technical-overview/components/claims.md)
     * [Proofs](protocol/technical-overview/components/proofs/README.md)
       * [Chainlink Functions for proof validation](protocol/technical-overview/components/proofs/chainlink-functions-for-proof-validation.md)
   * [User Interactions](protocol/technical-overview/user-interactions/README.md)
