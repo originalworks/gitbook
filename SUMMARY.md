@@ -15,7 +15,6 @@
 * [Privacy](protocol/privacy.md)
 * [Glossary](protocol/glossary.md)
 * [Business Requirements](protocol/business-requierments.md)
-* [Business Requirements](protocol/business-requirements.md)
 * [Personas](protocol/personas/README.md)
   * [Data Providers](protocol/personas/data-providers.md)
   * [Payment Providers](protocol/personas/payment-providers.md)
