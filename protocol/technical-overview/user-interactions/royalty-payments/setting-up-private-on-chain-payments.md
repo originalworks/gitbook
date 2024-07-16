@@ -12,7 +12,7 @@ A Public 0x address will hold a single token per `license` - a `Royalty Token` *
 
 Each Rights holder owning a `Royalty Token` in their wallet address will be able to connect their wallet (Public 0x address) in order to:
 
-* reveal their own percentage of their individual license tokens (i.e. percentage of revenue they are intitled to, and how their revenue share is calculated) without revealing other rights holders individual shares.
+* reveal their own percentage of their individual license tokens (i.e. percentage of revenue they are entitled to, and how their revenue share is calculated) without revealing other rights holders individual shares.
 * generate a proof of ownership percentage on demand (to share with defi contract, 3rd parties, etc..)
 * claim any royalties from the protocol royalties pool
 * reveal private metadata available only to rights holders
