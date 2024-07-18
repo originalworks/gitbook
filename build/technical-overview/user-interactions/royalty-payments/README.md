@@ -8,7 +8,7 @@ By design all token balances and royalty payments should be privately available 
 
 #### **1. Making and payments private and verifiable**
 
-Refer to our Privacy Section to learn more about how we are building privacy-preserving payment rails that are fully provable by rightsHolders in our introduction section [here](../../../privacy.md)
+Refer to our Privacy Section to learn more about how we are building privacy-preserving payment rails that are fully provable by rightsHolders in our introduction section [here](../../../../learn/privacy.md)
 
 **2. Accelerating payments and democratizing access**
 
