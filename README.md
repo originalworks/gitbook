@@ -45,4 +45,4 @@ The Original Works protocol offers new technical, legal, and economic frameworks
 
 Our aim is to create a vibrant ecosystem of the world’s creative IP supply chain, bringing together in one community creators, rights holders, music businesses, builders, developers, fans and buyers of creative and music-related IP to enable a sustainable ecosystem.
 
-Interested in getting involved? [Contact us](quick-start/our-community.md)
+Interested in getting involved? [Contact us](ecosystem/our-community.md)

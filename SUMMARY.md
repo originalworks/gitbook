@@ -4,8 +4,6 @@
 
 * [About Original Works](README.md)
 * [Rights and Royalties On Chain](quick-start/rights-and-royalties-on-chain.md)
-* [Our Community](quick-start/our-community.md)
-* [Use Cases](quick-start/use-cases.md)
 
 ## Learn
 
@@ -15,6 +13,7 @@
 * [Privacy](learn/privacy.md)
 * [Glossary](learn/glossary.md)
 * [Business Requirements](learn/business-requierments.md)
+* [Use Cases](learn/use-cases.md)
 * [Personas](learn/personas/README.md)
   * [Data Providers](learn/personas/data-providers.md)
   * [Payment Providers](learn/personas/payment-providers.md)
@@ -68,6 +67,7 @@
 ## Ecosystem
 
 * [Getting Started](ecosystem/getting-started.md)
+* [Our Community](ecosystem/our-community.md)
 * [Web3 Applications](ecosystem/web3-applications/README.md)
   * [Revelator Wallet](ecosystem/web3-applications/revelator-wallet.md)
   * [Revelator Studio](ecosystem/web3-applications/revelator-studio.md)
