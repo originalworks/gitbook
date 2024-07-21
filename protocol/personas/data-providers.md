@@ -1,6 +1,6 @@
 # Data Providers
 
-`DataProviders` are businesses in charge of any part of the music supply chain, and provide services to `Rights Holders`. As such, they are the permitted "Persona" to create new records in the Original Works Registry, and provide factual information about the assets they administer. As a sort of oracle to the network, `DataProviders` compete on Original Works to provide on metrics like cost, data integration, offramp solutions, access to liquidity, ease of governance and delegation, etc..&#x20;
+`DataProviders` are businesses in charge of any part of the music supply chain, and provide services to `RightsHolders`. As such, they are the permitted "Persona" to create new records in the Original Works Registry, and provide factual information about the assets they administer. As a sort of oracle to the network, `DataProviders` compete on Original Works to provide on metrics like cost, data integration, offramp solutions, access to liquidity, ease of governance and delegation, etc..&#x20;
 
 \
 Data Providers can be any of the following :&#x20;

@@ -1,8 +1,8 @@
 ---
-description: Original Works protocol uses the DDEX standard
+description: Original Works protocol uses the DDEX standard.
 ---
 
-# DDEX and OW
+# DDEX and OWN
 
 [DDEX](https://ddex.net/) is a standards setting organisation focused on the creation of digital value chain standards to make the exchange of data and information across the music industry more efficient.
 
@@ -43,7 +43,7 @@ description: Original Works protocol uses the DDEX standard
 
 
 
-Some critical compoments for the OW protocol are available on only some of the standards and others are available in several of them. Below is a table summarizing:
+Some critical components for the OWN protocol are available on only some of the standards and others are available in several of them. Below is a table summarizing:
 
 
 

@@ -1,8 +1,10 @@
 ---
-description: List of ERN, MWN, MWL, RDR and CDM messages used by the protocol
+description: List of ERN, MWN, MWL, RDR and CDM messages used by the protocol.
 ---
 
 # Messages used by the protocol
+
+
 
 1. **Electronic Release Notification (ERN) Messages**: These messages are used to communicate information about new releases, including metadata about the sound recordings (ISRCs) and the associated musical works (ISWCs). Key messages include:
    * **NewReleaseMessage**: Communicates details about a new release, including metadata for individual sound recordings and musical works.
