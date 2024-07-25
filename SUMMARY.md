@@ -9,6 +9,7 @@
 
 * [Abstract](learn/abstract.md)
 * [Current Problems](learn/current-problems.md)
+* [IP Identification and ISCC](learn/ip-identification-and-iscc.md)
 * [Objectives](learn/objectives.md)
 * [Privacy](protocol/privacy.md)
 * [Glossary](protocol/glossary.md)
