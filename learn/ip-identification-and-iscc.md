@@ -8,7 +8,7 @@ By integrating with Original Works (simply transmitting DDEX ERN messages to the
 
 Today assets in the music industry are described using International Standard Codes; ISRC (International Standard Record Code) defined specifically to describe sound recordings (Phonograph), and ISWC (International Standard Work Code) defined specifically to describe musical works (Composition and lyrics)
 
-The only way to capture these identifiers when ingesting a message or transaction regarding an IP asset is by relaying on the meta data provided with the file; as such many times the same phonograph (master recording) is distributed by ISRC issuers with different codes, and there is no simple way to match ISRCs with media files or ISWCs. Other times, the information is simply missing or a wrong code was entered by error.
+The only way to capture these identifiers when ingesting a message or transaction regarding an IP asset is by relying on the meta data provided with the file. Many times the same phonograph (master recording) is distributed by ISRC issuers with different codes, and there is no simple way to match ISRCs with media files or ISWCs. Other times, the information is simply missing or a wrong code was entered by error.
 
 ISCC is a new international standard, allowing anyone to create a unique code that is derived from the media itself and ensures a unique audio fingerprint (unique hash) is attached to it so no other identical file could be created, and even more so,  in the case of edited or similar recordings, they will each get unique ISCC codes, but their metadata will preserve the link to the other assets and provide direct links to the different ISCC codes with similarity scores.
 
