@@ -1,9 +1,28 @@
-# Objectives
+# Defining Music RWAs
 
-Our goal is to provide all creative industries with programmable royalties, based on disambiguated&#x20;
+As our goal is to provide liquidity and velocity to all creative industries, existing and emerging. When it comes to globally monetizing IP, understanding the complexities and incentives of all service providers along the supply chain of music IP is key.&#x20;
+
+As trusted partners for artists, music labels, distributors and managers, we understand that rights-holders _need_ trusted service providers. We also understand the importance of privacy, trust and verifiability.&#x20;
+
+Verifiability in the form of identification of Assets, Rights and Royalties records from official royalty administrators is key when attempting to tokenize music IP assets as RWAs.\
+\
+In order to have a digital asset that is trusted, the bond to its real-world underlying&#x20;
+
+Therefore the Original Works Protocol is governed by a network of service providers who \
+represent competing , who are appointed by rights holders and ensures the alignment of incentives&#x20;
+
+> \
+> \
+> Original Works does not intend to be an arbitrator of IP claims, but rather provide an immutable record of claims made by the rights-holders or their appointed service providers. \
+> \
+> OW ensures no duplicate claims can be made, and enforces penalties if off-chain arbitration is adjudicated - See more about the utilities of the $OWN token
+
+
+
+Each independant&#x20;
 
 {% hint style="info" %}
-Original Works does not intend to be an arbitrator of IP claims, but rather provide an immutable record of claims made by the rights-holders’ appointed service providers, and ensure no conflicting claims can be declared.
+
 {% endhint %}
 
 ### Facilitate efficient and automated royalty payments.

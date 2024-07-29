@@ -1,6 +1,6 @@
 # IP Identification and ISCC
 
-The mission to accelerate royalty payments across the creative industries is the main mission of the Original Works protocol, and as such providing a unique and precise descriptor for each individual revenue stream of a given IP asset is crucial in order to settle payments with minimum friction or policing.
+Accelerating royalty payments across the creative industries is the main mission of the Original Works protocol, and as such providing a unique and precise descriptor for each individual revenue stream of a given IP asset is crucial in order to settle payments with minimum friction or policing.
 
 {% hint style="success" %}
 By integrating with Original Works (simply transmitting DDEX ERN messages to the protocol) **every single asset recorded on the registry automatically receives a unique ISCC code and including audio fingerprint hash**. This added value is free out-of-the box for any publisher, distributor or royalty society who want to better ensure the authenticity of their records and avoid conflicting claims in the future.
