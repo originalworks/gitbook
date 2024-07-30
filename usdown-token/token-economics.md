@@ -1,55 +1,34 @@
-# Token Economics
+# $OWN Tokenomics
 
 ### Token Model
 
-The **$OWN** Utility Token is used to pay fees to the Original Works protocol and between protocol users. While the assets tokenized using the Original Works protocol represent rights to receive revenue or govern an IP-backed asset, The $OWN Utility token is used to facilitate permissionless payments and splits to rights holders, incentivise `PaymentProviders` - the $OWN token activity should capture the economic value in securing, monetizing and paying music assets, reward early adaptors and as part of the mission statement, also incentivize artists to drive direct engagement from their fans.
+The **$OWN** Utility Token is used to pay fees to the Original Works protocol and between protocol users, as well as govern the OWN Protocol.&#x20;
 
-**Data and Payment Providers** (or any independent web3 payor) will have to Pay fees in $OWN tokens to use the protocol's , but a significant amount of tokens are preserved to onboard the existing music industry on-chain, so the early years of the protocol adoption should come at no cost to them.
+The core reason for the existance of the $OWN token is to incentivize the protocol participants to act in the common good of the OWN Protocol. The music industry is fragmented among many players whose incentives do not always align. This includes: artists and rights holders, record labels, distributors, publishers, music fans, investors and developers. An ecosystem that is greater than the sum of its parts will grow the pie for everyone, creating a more collaborative industry, benefiting all participants. The $OWN token assists this alignment of interests by ensuring that network participants are rewarded for the work they contribute to the protocol:
 
-Independent labels and artists who are interested in self-custody and can connect their own database to the original Original Works stack, may act as a `DataProvider`s and apply for the Original Works affiliate program.
+* Music distributors act as Payment Provider Oracles, bridging cash flow from traditional music rails to web3. They are the bridge and oracle of cash flows. In return for this service they receive a new revenue stream in the form of fees and new business opportunities, such as cash advances and being able to provide sophisticated data models around music assets.
+* Publishers and Music associations act as Data Providers around relevant music records, ensuring that Royalty Tokens have the correct data associated with their rights. This creates value for artists as they will now be able to license their music rights more easily and receive advances from more participants. Data Providers receive fees from `rightsholders` in return for the data they provide.
+* Artists and `rightsholders` elect to tokenize music assets into Royalty Tokens and be paid on chain, bridging their cash flow from web2 to web3. This enables them to gain access to a new world of financial products, such as DeFi, and new communities to incentivize fans, such as royalty splits. They agree to pay fees to their Payment and Data Provider oracles in return for these new opportunities.&#x20;
+* Developers, fans and entrepreneurs can create new products to interact with Royalty Token music assets, whether in fan engagement or financial products. They can elect to use unique data provided by Data Providers or private data revealed by `rightsholders` (if they so choose) and in return pay these participants for this data.&#x20;
 
-Additionally, as a Public Good, we believe that any excess value created by $OWN that is not used by the Foundation to continue governing the protocol and invest in its development should flow back to the artists
+The $OWN token enables mechanisms of rewards (fees paid to service providers) and slashing (punishments for misbehavior) for the different actors ensuring that they perform properly.
 
-#### Those same network participants will also earn fees in $OWN for their signatures and payment orders:
+### Slashing
 
-* `Data Providers` can earn passive income every time their data is monetized by rights holders and validators.
-  * **Verify the registration and enforce privacy settings of $IP assets**
-* `Payment Providers` can chose if they want to invest in native web3 integration and retain all fees, or post payment to network relayers, who can batch transactions efficiently and sweep up fees.
-  * **Control the Creation of and Privacy settings of licenses**
-  * **Mint Royalty Tokens**
-  * **Execute on-chain payments for licenses created**
+Oracles who are found to be fraudulent actors can expect to have their stake penalized, the size of the slash amount depends on the type of network fault. Fraudulent behavior by Payment Providers includes:
 
-`Relayers` and `Validators` are the open layer above the trusted representatives of rights holders (Service Providers). The protocol allows for any web 3 builder or node operator to become a Validator or Relayer and earn $OWN:
+* Not transmitting funds on chain to a relevant RT in a timely fashion, despite receiving the funds from DSPs or other rights management companies/participants, because of:
+  * Internal mismanagement of funds - 1% slashing penalty of staked amount for each two week delay in payment.
+  * The artist requests the oracle to resume payments off-chain and the oracle does this without checking whether the RT royalty flow is committed to another party, such as being part of a Defi contract (i.e it is being used as collateral) - 10% slashing penalty of staked amount.
+* Providing an asset fact sheet that is incorrect or unavailable:
+  * Misreporting asset revenue history in the RT prospectus - 5% slashing penalty of staked amount.
+  * Misreporting known claims and red flags - 5% slashing penalty of staked amount.
+  * Not ensuring the liveness of the asset fact sheet - 2% slashing penalty of staked amount.
 
-* preserve the data integrity across multiple chains
-* prevent double entries of international IP identification codes
-* Validate ZK proofs declared about licenses, financials and or/ownership data of an asset
-* prevent conflicting payment logic
-  * **share percentage** - _what percentage of the revenue of this the rights licensed is collected by this specific license_
-  * **revenue source** _- the platform, which monetized the asset_
-  * **rights type** _- how the IP is consumed - ad based streams, ad-free radio, etc…_
-  * **jurisdiction** \*\*- _Country ISO_
-  * **term** - _start and end date_
-* provide last mile settlement by batching payments and optimizing gas on splits
-* providing cross-chain payment bridges for multi-chain settlement
+It’s important to note that Payment Provider Oracles are only slashed for things under their direct control. They do not get slashed for events or data that are not, this includes a DSP not transmitting payments in a timely fashion or if they manage distribution for an artist who commits fraud and misrepresents data or cash flow for their music.
 
-Additionally, **builders and researches** can earn $OWN by contributing to the public git repository, namely in areas of efficient privacy designs and data-availability optimization schemes.
+#### Cool down period
 
-**The main technical requirements for a Royalty Asset smart contract are:**
+Payment Provider Oracles who wish to leave the protocol can unstake their $OWN six months after they stop being an oracle. The music industry has long payment periods, therefore a longer cool down period is needed so that fraud nodes can submit relevant fraud proofs if needed. During this period rewards continue to accrue and governance position is weighted as normal.&#x20;
 
-* To receive royalties from one or more unique license(s), which are (each) tied to a unique asset, minted on the Original Works Protocol.
-* To split those royalty payments to all the token holders of the Royalty Asset contract (Royalty Tokens)
-  * If the Payment Provider does not cover the gas for all split claims, the protocol should incentivize relayers to pick those up (in exchange for a share of the payment fee)
-* To enable the collection of descriptors about payments made to the Royalty Asset contract
-* For UX purposes any payment made from a web3 source to the address of a Royalty Asset’s 0x address should be claimable by its rights holders.
-  * Adding a custom url or namespace (like ENS) so anyone can send money to a “song”
-
-`Rights Holders` Will earn $OWN tokens for minting $IP Assets
-
-### Incentivizing Direct Fan Engagement&#x20;
-
-### Stake for Yield to cover gas + excess interest
-
-<figure><img src="../.gitbook/assets/Web 3 Planning - Frame 13 (3).jpg" alt=""><figcaption></figcaption></figure>
-
-<table><thead><tr><th width="160">Action</th><th width="146">Who requests</th><th width="156">who approves</th><th width="159">who pays</th><th>who gets paid</th></tr></thead><tbody><tr><td>Register an Asset</td><td>Rights Holder</td><td>Data Provider</td><td>Data Provider, Protocol Reserves</td><td>Rights Holders</td></tr><tr><td>Register a License</td><td>Payment Provider</td><td>Validator</td><td></td><td></td></tr><tr><td>Verify a fact about an Asset</td><td>Inquirer (anyone)</td><td>Rights Holder</td><td>Inquirer</td><td>Data Provider</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+\

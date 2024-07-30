@@ -76,7 +76,7 @@
 
 * [$OWN Token Overview](usdown-token/usdown-token-overview.md)
 * [$OWN Tokenomics](usdown-token/token-economics.md)
-* [$OWN Airdrop](usdown-token/usdown-airdrop.md)
+* [$OWN Distribution](usdown-token/usdown-airdrop.md)
 
 ## Resources
 
