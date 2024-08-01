@@ -12,7 +12,7 @@ The vast majority of global IP is monetized and administered by multiple service
 #### Permissionless Infrastructure Coupled with Verified Credentials&#x20;
 
 Original Works is designed as a permissionless protocol as any IP holder or rights controller can stake $OWN to claim IP records, issue licenses and monetize them on-chain. This will allow trusted parties to use our public rails for IP registration and monetization - rights holders may validate the signatures of statements and royalty payments but will still require they trust their data providers with the data brought on-chain.\
-At the same time, our mission statement is to empower IP holders and their service providers to eliminate un-matching of royalty reports, conflicting claims, fraudulent activity and other anomalies that in the music and streaming industry. To mitigate against those risks, the Original Works foundation will verify rights controllers and providing them with a verified public key will allow the protocol to differentiate between verified data and payment providers.
+At the same time, our mission statement is to empower IP holders and their service providers to eliminate un-matching of royalty reports, conflicting claims, fraudulent activity and other anomalies that in the music and streaming industry. To mitigate against those risks, the Original Works foundation will verify rights controllers and expose their public 0x address so anyone can verify their signature. This will allow the protocol to differentiate between verified data and payment providers.
 
 #### Additional design principals:
 
