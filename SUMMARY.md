@@ -22,7 +22,6 @@
   * [Original Works Validators](learn/personas/proofs/README.md)
     * [Validator Clients](learn/personas/proofs/chainlink-functions-for-proof-validation.md)
     * [Structuring records on IPFS](learn/personas/proofs/structuring-records-on-ipfs.md)
-  * [Original Works Validators](learn/personas/original-works-validators.md)
   * [Copyright/Rights Holders](learn/personas/copyright-rights-holders.md)
 
 ## BUILD
