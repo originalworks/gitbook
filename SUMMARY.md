@@ -47,6 +47,7 @@
     * [Royalty Packs - Revenue aggregation](build/technical-overview/components/royalty-packs-revenue-aggregation.md)
   * [User Interactions](build/technical-overview/user-interactions/README.md)
     * [How it Works](protocol/how-it-works.md)
+    * [Data Providers](build/technical-overview/user-interactions/data-providers.md)
     * [Register](build/technical-overview/user-interactions/register.md)
     * [License](build/technical-overview/user-interactions/license.md)
     * [Monetize](build/technical-overview/user-interactions/monetize.md)
