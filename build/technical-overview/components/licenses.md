@@ -1,6 +1,8 @@
+---
+description: Immutable, provable, fully private registration of deals to monetize IP
+---
+
 # Licenses
-
-
 
 {% hint style="info" %}
 Objects/entities in`CodeFormat` are proposed official naming conventions adopted from the Dedx ERN structure. Objects/entities in **bold** have no formal naming convention yet.

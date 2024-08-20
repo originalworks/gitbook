@@ -20,7 +20,7 @@ Rights holders may elect to register their assets on-chain in order to anonymous
 
 ### Getting a Royalty Advance form and DeFi Lending Pool
 
-<figure><img src="../.gitbook/assets/Web 3 Planning - Frame 13 (3).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Web 3 Planning - Frame 13 (3).jpg" alt=""><figcaption></figcaption></figure>
 
 
 

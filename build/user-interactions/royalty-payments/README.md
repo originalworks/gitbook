@@ -1,4 +1,8 @@
-# Royalty Payments
+---
+description: 'Royalty Management, Payments and Claims: Decentralized, Provable and Private.'
+---
+
+# On-Chain Royalties
 
 {% hint style="info" %}
 By design all token balances and royalty payments should be privately available to RightsHolders and exposable p2p on-demand by RightsHolders (or any delegate).
@@ -8,11 +12,11 @@ By design all token balances and royalty payments should be privately available 
 
 #### **1. Making and payments private and verifiable**
 
-Refer to our Privacy Section to learn more about how we are building privacy-preserving payment rails that are fully provable by rightsHolders in our introduction section [here](../../../../protocol/privacy.md)
+Refer to our Privacy Section to learn more about how we are building privacy-preserving payment rails that are fully provable by rightsHolders in our introduction section [here](../../../protocol/privacy.md)
 
 **2. Accelerating payments and democratizing access**
 
-Just like we are incentivizing Validators to validate asset and license registrations to ensure disambiguation of records and no conflicting terms can co-exist, we committed to incentivize dataProviders and Relayers to optimize settlement time and automate transfer splits, batch payments, network-bridging, hybrid payments and applicable recoupment or withholdings.
+Just like we are incentivizing Validators to validate asset and license registrations to ensure disambiguation of records and no conflicting terms can exist in the network, we are committed to incentivize dataProviders and Relayers to optimize settlement time and automate transfer splits, batch payments, network-bridging, hybrid payments and applicable recoupment or withholdings.
 
 ***
 
