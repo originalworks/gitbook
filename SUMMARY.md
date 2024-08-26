@@ -31,6 +31,7 @@
   * [Supporting Industry Standards](build/technical-overview/supporting-industry-standards/README.md)
     * [Digital Data Exchange (DDEX)](build/technical-overview/supporting-industry-standards/digital-data-exchange-ddex.md)
     * [Common Works Registration (CWR)](build/technical-overview/supporting-industry-standards/common-works-registration-cwr.md)
+  * [Protocol Roadmap and Versioning](build/technical-overview/protocol-roadmap-and-versioning.md)
   * [Registries](build/technical-overview/registries/README.md)
     * [Rights Controller Registry](build/technical-overview/registries/rights-holders-registry.md)
     * [Asset Registry -](build/technical-overview/registries/asset-registry.md)
@@ -71,7 +72,6 @@
   * [Asset Governance](build/user-interactions/asset-governance.md)
   * [Protocol Fees](build/user-interactions/protocol-fees.md)
 * [Protocol Governance](build/governance.md)
-* [Protocol Roadmap](build/protocol-roadmap.md)
 
 ## Ecosystem
 
@@ -90,6 +90,7 @@
 
 ## Resources
 
+* [Links and Docs](resources/links-and-docs.md)
 * [Case Studies](resources/case-studies/README.md)
   * [Defi Royalty Advances](resources/case-studies/defi-royalty-advances.md)
   * [Sync licensing Accross web3](resources/case-studies/sync-licensing-accross-web3.md)
