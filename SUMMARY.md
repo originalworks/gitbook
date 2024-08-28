@@ -88,6 +88,7 @@
 * [$OWN Token Overview](usdown-token/usdown-token-overview.md)
 * [$OWN Tokenomics](usdown-token/token-economics.md)
 * [$OWN Distribution](usdown-token/usdown-airdrop.md)
+* [$OWN burn mechanism: fan activation](usdown-token/usdown-burn-mechanism-fan-activation.md)
 
 ## Resources
 
