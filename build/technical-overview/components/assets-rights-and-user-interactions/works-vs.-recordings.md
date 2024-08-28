@@ -10,26 +10,55 @@ Objects/entities in`CodeFormat` are proposed official naming conventions adopted
 
 ### **Musical works and Recordings.**
 
-A musical work is monetized via two different IP ownership schemes, with each governed, administered and controlled by different parties in different regions, with different applicable rights.
+A musical creation is monetized via two different IP ownership schemes, with each governed, administered and controlled by different parties in different regions, with different applicable rights.
 
 1. A Musical Work - The intellectual property representing an abstract work that can be musically performed recorded, synced, etc.. It is usually controlled under various rights covered in the owners' publishing agreement, when registered with Royalty Societies across the globe. Usually unregistered rights are not collected - or worst - collected but never paid out.
-2. A Musical Recording - The ownership rights to the "master track" recording of a specific Musical Work, or not. It is usually covered under a single distributor or agent monetizing the streaming, sync or other rights applicable to recordings.
+2. A Sound Recording - The ownership rights to the "master track" recording (or phonograph) of a specific Musical Work, or with now related Music Work. It is usually covered under a single distributor or agent monetizing the streaming, sync or other rights applicable to recordings.\
+   Performance rights from recordings are often collected by PROs and are still invoiced by societies, and not digitally collected.
 
-Assets on Original Works are defined as **`Creations`** as the protocol to conforms to existing DDEX standards.
+Assets on Original Works are defined as `OW Records` - A unique proof of a unique record referencing either a Recording or Work:
 
-**`Creation:`** a type of media or IP asset that is being monetized
+1. `OW_Record_type:Recording`&#x20;
+2. `OW_Record_type:Musical Work`
 
-* **`CreationType`**
-  * **`Release`**
-    * `(optional)`**`ReleaseType`**
-  * **`Resource`**
-    * **`ResourceType`**
-      * **`SoundRecording`**
+Both assets must be delivered in the context of a **`Release`**, and the OW protocol ensures that no conflicting registrations can take place in the same territory, for the same record.
 
-In the future we will unlock additional asset types:
+All 3 objects, **Musical Work**, **Release** and **Recording** (ResourceType) are delivered under the 'Creation' object in DDEX&#x20;
 
-* **`CreationType`**
-  * **MusicalWork** (In DDEX messages, this&#x20;
+
+
+{% tabs %}
+{% tab title="DDEX reference" %}
+```javascript
+json
+"avs:CreationType": {
+         "description": "A Type of Creation.",
+         "type": "string",
+         "anyOf": [
+            {"const": "MusicalWork", "description": "A Work intended to be perceivable as a combination of sounds, with or without accompanying text."},
+            {"const": "Release", "description": "An abstract entity representing a bundle of one or more Resources compiled by an issuer. The Resources in Releases are normally primarily SoundRecordings or music audio-visual recordings, but this is not invariably the case. The Release is not itself the item of trade (or 'Product'). Products have more extensive attributes than Releases; one Release may be disseminated in many different Products."},
+            {"const": "Resource", "description": "A digital Fixation of an expression of an abstract Work (such as a SoundRecording, a Video, an Image, Software, or a passage of Text)."}
+         ]
+      },
+            
+"avs:ResourceType": {
+         "description": "A Type of Resource.",
+         "type": "string",
+         "anyOf": [
+            {"const": "SoundRecording", "description": "An audio Recording."},
+         ]
+      },
+
+
+
+```
+{% endtab %}
+{% endtabs %}
+
+
+
+In the future we will include other Resource Types:
+
 * **`ResourceType`**
   * **Image**
   * **MIDI**
@@ -40,21 +69,21 @@ In the future we will unlock additional asset types:
   * **Video**&#x20;
   * **UserDefinedResource** <mark style="background-color:purple;">(allowing new types of IP to be recorded on-chain)</mark>
 
-### Original Works Assets
+### Original Works Assets and Governance
 
 A musical work is identified on the Original Works ecosystem by its 0x address and the protocol ensures it has a unique `RevenueSource` by validating the combination of it's international identifier `ISWC` /`ISRC` and its unique combination of public and private terms.
 
-A **`CreationType`** can be added by anyone by pinning the record to a local IPFS node and transmitting the CID to the protocol. This ensures an immutable record of a fully-private registration is generated and can be made public
+An `OW_Records` can be added by anyone by pinning the record to a local IPFS node and transmitting the CID to the protocol. This ensures an immutable record of a fully-private registration is generated and can be made public
 
-This musical asset has a given number of lawful owners at any given time. The owners are usually represented by an administrating company, such as a publishing admin and may have several royalty societies representing their collection rights in different teritorries. These representatives act as the network "Oracles" in a sense as they provide records and attestations about the "Real World {music} Asset" and may become a verified `DataProvider` to the protocol, using their public address to interact with the protocol. Assets registered by a verified data provider will have a "verified" status.
+This musical asset has a given number of lawful owners at any given time. The owners are usually represented by an administrating company, such as a publishing admin and may have several royalty societies representing their collection rights in different territories. These representatives act as the network "Oracles" in a sense as they provide records and attestations about the "Real World {music} Asset" and may become a verified `DataProvider` to the protocol, using their public address to interact with the protocol. Assets registered by a verified data provider will have a "verified" status.
 
-Personas related to a `Creation`:
+Personas related to an OW\_Record:
 
 * `CopyrightClaimant` - A Party listed as copyright owner at the time of registration.
 * `CopyrightHolder` - A Party to whom copyright has been granted or transferred.\
   \
   Both users can be listed as the current legal owner(s) of the underlying IP.\
-  If the asset is tokenized then then these users become the `admins` and all actions triggered on-chain by the `CopyrightController` will need the collective owner's on-chain approval.
+  If the asset is tokenized then then these users become the `admins` and all actions triggered on-chain by the **`CopyrightController`** will need the collective owner's on-chain approval.
 * `CopyrightController` - The `DataProvider` in charge of registering the asset, keeping the on-chain records available and providing verifiable proofs about the asset on-demand. As long as the IP Asset has not been tokenized by the `CopyrightHolder`(s), then the `copyrightController` remains the `admin` and acts as their on-chain representative.
 
 ###
