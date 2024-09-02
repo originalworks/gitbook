@@ -5,7 +5,7 @@ description: Disambiguating between Publishing and Master Royalties
 # Musical Works, Recordings and UserDefined IP Assets
 
 {% hint style="info" %}
-Objects/entities in`CodeFormat` are proposed official naming conventions adopted from the Dedx ERN structure. Objects/entities in **`bold`** have no formal naming convention yet.
+Objects/entities in`CodeFormat` are proposed official naming conventions adopted from the DDEX ERN structure. Objects/entities in **`bold`** have no formal naming convention yet.
 {% endhint %}
 
 ### **Musical works and Recordings.**
@@ -21,53 +21,22 @@ Assets on Original Works are defined as `OW Records` - A unique proof of a uniqu
 1. `OW_Record_type:Recording`&#x20;
 2. `OW_Record_type:Musical Work`
 
-Both assets must be delivered in the context of a **`Release`**, and the OW protocol ensures that no conflicting registrations can take place in the same territory, for the same record.
+Both assets must be delivered in the context of a **`Release`**, and the OW protocol will alert of any conflicting registrations thath take place in the same territory, for the same record.
 
-All 3 objects, **Musical Work**, **Release** and **Recording** (ResourceType) are delivered under the 'Creation' object in DDEX&#x20;
+Releases continue one or many Resouces with can be of many types (`ResorceType`):
 
-
-
-{% tabs %}
-{% tab title="DDEX reference" %}
-```javascript
-json
-"avs:CreationType": {
-         "description": "A Type of Creation.",
-         "type": "string",
-         "anyOf": [
-            {"const": "MusicalWork", "description": "A Work intended to be perceivable as a combination of sounds, with or without accompanying text."},
-            {"const": "Release", "description": "An abstract entity representing a bundle of one or more Resources compiled by an issuer. The Resources in Releases are normally primarily SoundRecordings or music audio-visual recordings, but this is not invariably the case. The Release is not itself the item of trade (or 'Product'). Products have more extensive attributes than Releases; one Release may be disseminated in many different Products."},
-            {"const": "Resource", "description": "A digital Fixation of an expression of an abstract Work (such as a SoundRecording, a Video, an Image, Software, or a passage of Text)."}
-         ]
-      },
-            
-"avs:ResourceType": {
-         "description": "A Type of Resource.",
-         "type": "string",
-         "anyOf": [
-            {"const": "SoundRecording", "description": "An audio Recording."},
-         ]
-      },
-
-
-
-```
-{% endtab %}
-{% endtabs %}
-
-
-
-In the future we will include other Resource Types:
-
-* **`ResourceType`**
-  * **Image**
-  * **MIDI**
-  * **SheetMusic**&#x20;
-  * **Software**&#x20;
-  * **SoundRecording**&#x20;
-  * **Text**&#x20;
-  * **Video**&#x20;
-  * **UserDefinedResource** <mark style="background-color:purple;">(allowing new types of IP to be recorded on-chain)</mark>
+- **SoundRecording**: Digital audio file, such as a song, spoken word recording, or other audio content.
+- **MusicalWork**: Underlying composition, including music and lyrics, associated with a sound recording.
+- **ImageResource**: Visual assets associated with a release.
+- **Video**: Audiovisual content associated with a release.
+- **Text**: Textual content related to the release.
+- **Lyrics**: A specific type of Text that represents the lyrics of a song.
+- **Label**: Graphical elements or logos associated with the record label.
+- **DigitalBooklet**: Document resource that provides additional information or content related to a release.
+- **InteractiveMenu**: Interactive elements that could be part of a multimedia release.
+- **Document**: Additional documents associated with a release.
+- **Software**: Digital applications or interactive media associated with a release.
+- **OtherResource**: Any other digital asset that doesn’t fall into the standard categories.
 
 ### Original Works Assets and Governance
 
@@ -85,5 +54,3 @@ Personas related to an OW\_Record:
   Both users can be listed as the current legal owner(s) of the underlying IP.\
   If the asset is tokenized then then these users become the `admins` and all actions triggered on-chain by the **`CopyrightController`** will need the collective owner's on-chain approval.
 * `CopyrightController` - The `DataProvider` in charge of registering the asset, keeping the on-chain records available and providing verifiable proofs about the asset on-demand. As long as the IP Asset has not been tokenized by the `CopyrightHolder`(s), then the `copyrightController` remains the `admin` and acts as their on-chain representative.
-
-###
