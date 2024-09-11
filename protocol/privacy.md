@@ -24,6 +24,6 @@ Original Works will:
 
 In order to design a long-lasting interoperable solution, this challenge will require an industry-wide initiative of research, development and experimentation with existing, affordable and battle-tested solutions out there. As a decentralized protocol, we encourage integrating other open-source solutions and steering the community to find the most applicable solution for each challenge.\
 \
-At Original Works we are already developing several solutions to be deployed in the coming months, and invite anybody interested to join our repo and engage with us directly about taking part in the R\&D and documentation efforts.
+At Original Works we are already developing several solutions as seen on the [protocol roadmap](https://github.com/originalworks/protocol/milestones), and invite anybody interested to join our repo and engage with us directly about taking part in the R\&D and documentation efforts.
 
 We will announce our grant program in Q4 2024 and some of the most exciting opportunities lie in the intersection of privacy and UX.
