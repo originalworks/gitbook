@@ -6,24 +6,29 @@ As trusted partners for artists, music labels, distributors and managers, we und
 
 Verifiability in the form of identification of Assets, Rights and Royalties records from official royalty administrators is key when attempting to tokenize music IP assets as RWAs.\
 \
-In order to have a digital asset that is trusted, the bond to its real-world underlying&#x20;
+In order to have a digital asset that is trusted, the bond to its real-world underlying cashflow must be completely disambiguated in order for a new Original Works record to be created. Once verified, validated and fingerprinted the protocol will enable each royalty-collection contract (rights monetization deal) to be tokenization as a standalone native digital asset. \
+\
+Ensuring the Record is unique requires the registration of the following fields, enabling only a single (Rights Controller) Oracle can monetize  this record:
 
-Therefore the Original Works Protocol is governed by a network of service providers who \
-represent competing , who are appointed by rights holders and ensures the alignment of incentives&#x20;
+* Asset identifier (ISRC/ISWC)
+* Right type being monetized (Distribution, Performance, Sync, etc..)
+* Territory
+* Share Percentage (0-100)\*
 
-> \
-> \
-> Original Works does not intend to be an arbitrator of IP claims, but rather provide an immutable record of claims made by the rights-holders or their appointed service providers. \
-> \
-> OW ensures no duplicate claims can be made, and enforces penalties if off-chain arbitration is adjudicated - See more about the utilities of the $OWN token
+As long as less than 100% is captured, additional Orcales can claim a new record with the 3 first fields identical, but they can only register the remaining percentage.
+
+If an oracle claims an existing record, then a period begins allowing both Rights Controllers perform a "handshake" and they are economically incentivized to address the migration sooner than later.\
 
 
-
-Each independant&#x20;
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>The Original Works Data Model</p></figcaption></figure>
 
 {% hint style="info" %}
-
+Original Works does not intend to be an arbitrator of IP claims, but rather provide an immutable record of claims made by the rights-holders or their appointed service providers. \
+\
+OW ensures no duplicate claims can be made, and enforces penalties if off-chain arbitration is adjudicated - See more about the utilities of the $OWN token
 {% endhint %}
+
+### The benefits in clearly identifying the underlying deal that is being tokenized by a decentralized network enables new business oportunities for rights holders:
 
 ### Facilitate efficient and automated royalty payments.
 
@@ -31,7 +36,7 @@ Decentralization and protocol tokenomics are designed to incentivize fast and ef
 
 ### Enable verifiable credentials for protocol participants to ensure trust and authenticity.
 
-Ensuring the privacy and integrity of the data remains the role of music administrators and service providers; by plugging into the Original Works protocol, they can drive more revenue for themselves and their customers.&#x20;
+Ensuring the privacy and integrity of the data remains the role of music administrators and service providers; by plugging into the Original Works protocol, they can drive more revenue for themselves and their customers without giving up on privacy and data security.
 
 ### Unlock liquidity and and financial tooling for artists and rights holders.
 
