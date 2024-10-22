@@ -1,1 +1,1 @@
-## This section contains documentation for smart contracts.
+# Smart Contracts
