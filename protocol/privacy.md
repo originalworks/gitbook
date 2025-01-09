@@ -2,7 +2,7 @@
 
 ### Guiding principles
 
-Registration and payment solutions on Original Works are built upon the basic blockchain constructs of decentralization, immutability and self-custody. While we strongly believe in the importance of transparency, we also understand how important it is, **if we want to offer **_**true**_** self-custody**, to allow artists and other holders of rights to protect their own privacy and elect what information they wish to make public. We do not believe an "open protocol" as we intend Original Works to be should force rights holders to give up all privacy for better financing solutions.
+Registration and payment solutions on Original Works are built upon the basic blockchain constructs of decentralization, immutability and self-custody. While we strongly believe in the importance of transparency, we also understand how important it is, **if we want to offer&#x20;**_**true**_**&#x20;self-custody**, to allow artists and other holders of rights to protect their own privacy and elect what information they wish to make public. We do not believe an "open protocol" as we intend Original Works to be should force rights holders to give up all privacy for better financing solutions.
 
 Transparency however has always been a sensitive issue in the music industry as it is used mainly by managers and other representatives of `RightsHolders` to maximize their leverage and earnings in negotiations.
 

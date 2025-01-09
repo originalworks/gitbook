@@ -1,8 +1,12 @@
 # Table of contents
 
+## Group 1
+
+* [test 1](README.md)
+
 ## Quick Start
 
-* [About Original Works](README.md)
+* [About Original Works](<README (1).md>)
 * [Rights and Royalties On Chain](quick-start/rights-and-royalties-on-chain.md)
 
 ## Learn
@@ -108,7 +112,3 @@
 * [Privacy Policy](legal/privacy-policy.md)
 * [Cookie Policy](legal/cookie-policy.md)
 * [Airdrop Terms](legal/airdrop-terms.md)
-
-## Group 1
-
-* [test 1](group-1/test-1.md)
