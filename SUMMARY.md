@@ -4,15 +4,15 @@
 
 * [About Original Works](README.md)
 * [Rights and Royalties On Chain](quick-start/rights-and-royalties-on-chain.md)
+* [Use cases](introduction/use-cases.md)
 
 ## Introduction
 
-* [Introduction](introduction/introduction.md)
-* [key benefits](introduction/key-benefits.md)
+* [Protocol Overview](introduction/what-is-original-works.md)
 * [Problem statement](introduction/problem-statement.md)
-* [Protocol Overview](introduction/protocol-overview.md)
+* [key benefits](introduction/key-benefits.md)
 * [Solution architecture](introduction/solution-architecture.md)
-* [Use cases](introduction/use-cases.md)
+
 
 ## Learn
 
