@@ -7,13 +7,12 @@
 
 ## Introduction
 
-* [Page7](introduction/page7.md)
-* [Page6](introduction/page6.md)
-* [Page 5](introduction/page-5.md)
-* [Page 4](introduction/page-4.md)
-* [Page3](introduction/page3.md)
-* [Page2](introduction/page2.md)
-* [test 11](introduction/test-11.md)
+* [introduction](introduction/introduction.md)
+* [key benefits](introduction/key-benefits.md)
+* [Problemstatement](introduction/problem-statement.md)
+* [Protocol Overview](introduction/protocol-overview.md)
+* [Solution-architecture](introduction/solution-architecture.md)
+* [Use-cases](introduction/use-cases.md)
 
 ## Learn
 
