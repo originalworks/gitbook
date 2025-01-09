@@ -40,8 +40,8 @@
   * [Components](build/technical-overview/components/README.md)
     * [Original Works Record types](build/technical-overview/components/assets-rights-and-user-interactions/README.md)
       * [Musical Works, Recordings and UserDefined IP Assets](build/technical-overview/components/assets-rights-and-user-interactions/works-vs.-recordings.md)
-      * [OW\_Record\_type: Work](build/technical-overview/components/assets-rights-and-user-interactions/ow\_record\_type-work.md)
-      * [OW\_Record type: Recording](build/technical-overview/components/assets-rights-and-user-interactions/ow\_record-type-recording.md)
+      * [OW\_Record\_type: Work](build/technical-overview/components/assets-rights-and-user-interactions/ow_record_type-work.md)
+      * [OW\_Record type: Recording](build/technical-overview/components/assets-rights-and-user-interactions/ow_record-type-recording.md)
       * [OW Releases](build/technical-overview/components/assets-rights-and-user-interactions/ow-releases.md)
     * [Rights, Territory and Share Percentage](build/technical-overview/components/rights.md)
     * [Licenses](build/technical-overview/components/licenses.md)
@@ -108,3 +108,7 @@
 * [Privacy Policy](legal/privacy-policy.md)
 * [Cookie Policy](legal/cookie-policy.md)
 * [Airdrop Terms](legal/airdrop-terms.md)
+
+## Group 1
+
+* [test 1](group-1/test-1.md)
