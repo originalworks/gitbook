@@ -9,10 +9,10 @@
 ## Introduction
 
 * [Protocol Overview](introduction/protocol-overview.md)
-* [Problem statement](introduction/problem-statement.md)
-* [key benefits](introduction/key-benefits.md)
-* [Solution architecture](introduction/solution-architecture.md)
-* [Main Flow](resources/main-flow.md)
+* [Problem Statement](introduction/problem-statement.md)
+* [Key Benefits](introduction/key-benefits.md)
+* [Solution Architecture](introduction/solution-architecture.md)
+* [Stakeholder Diagram](resources/main-flow.md)
 
 
 ## Learn
