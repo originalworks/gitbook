@@ -1,8 +1,0 @@
-## Problem Statement
-
-
-The current state of royalty management in the music industry presents significant challenges that disproportionately affect creators and rights holders. Global settlement of royalties remains prohibitively expensive and operationally complex, particularly in developing countries that export substantial amounts of music content. The lack of transparency in royalty calculations and distributions creates an illiquid market for music rights, limiting opportunities for creators to leverage their assets effectively.
-
-Most artists and their teams lack the expertise and resources to navigate the intricate landscape of music rights monetization. Consequently, they often find themselves surrendering significant ownership and control to administrators who manage their cashflows. These administrative relationships frequently lead to long-term contractual obligations that keep artists in cycles of debt and dependency, unable to fully capitalize on their creative work.
-
-By enabling on-chain identification and authentication of intellectual property, Original Works creates a foundation for automated split payments, royalty advances, and innovative financing solutions. These capabilities rely on smart contracts and economic incentives rather than traditional administrative control. As a result, artists at any scale can access sophisticated financial services and rights management tools without sacrificing their autonomy or ownership rights. This democratization of access represents a fundamental shift in how creators can manage and monetize their intellectual property while maintaining control of their musical work.
