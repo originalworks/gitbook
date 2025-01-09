@@ -12,6 +12,7 @@
 * [Problem statement](introduction/problem-statement.md)
 * [key benefits](introduction/key-benefits.md)
 * [Solution architecture](introduction/solution-architecture.md)
+* [Main Flow](resources/main-flow.md)
 
 
 ## Learn
