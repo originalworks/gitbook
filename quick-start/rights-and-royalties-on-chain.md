@@ -1,33 +1,68 @@
-# Rights and Royalties On Chain
+# Original Works Protocol Documentation
 
-### Royalty Revenues Streamlined On-chain
+## 1. Introduction
 
-First and foremost, the OWN protocol accelerates the time it takes an artist to get paid. It also provides a more transparent snapshot of the flow-of-funds and through an open-market dynamic it will ultimately drive the industry to more efficient and reliable forms of payment and rights-usage reporting.&#x20;
+Original Works is a decentralized protocol designed to enhance and streamline the music industry's rights management and royalty distribution system. By leveraging blockchain technology, zero-knowledge proofs, and innovative privacy-preserving mechanisms, the protocol enables efficient synchronization of global music IP records while creating new opportunities for rights holders to manage and monetize their assets.
 
-Revenue paid to creative assets tokenized on Original Works originate from off-chain (often off-line) contracts, that are backed by a verified music distributor contractually obliged to collect and pay Royalties from various uses and applications.
+The protocol's foundational principle is evolution, not revolution. Original Works does not aim to replace the existing music industry supply chain or require artists and fans to change how they engage with music. Instead, it provides a secure and efficient layer for existing industry participants to streamline their operations, reduce costs, and offer enhanced services to rights holders. By building upon established industry practices and infrastructure, the protocol enables traditional music industry service providers to leverage blockchain technology while maintaining their essential role in the ecosystem.
 
-### A Decentralized Rights Registry&#x20;
+## Protocol Overview
 
-In order to drive liquidity to the creative industries, a simple and near real-time method to evaluate and benchmark an asset is needed to understand its underlying cashflows and obtain guarantees against any form of royalty advances. Unfortunately, the way music is described and registered and revenue is recorded, collected and settled across jurisdictions and industries ends up a very fragmented illiquid market.&#x20;
+The digital transformation of the music industry has created an unprecedented opportunity. Music consumption has shifted almost entirely to streaming platforms, generating digital-native cashflows that should be ideal for automated processing and distribution. However, these streams of revenue remain trapped in opaque, siloed systems that rely on outdated reconciliation methods and manual synchronization processes. By bringing royalty and IP data on-chain, Original Works creates a foundation for a new economic layer built on top of music rights—an uncorrelated asset class that generates billions of dollars annually in global revenue.
 
-We aim to solve this is by enabling a permissionless decentralized global rights registry, that can disambiguate any information or claim about any asset and hide all related balances, while still allowing catalog managers, potential investors and other smart contracts to obtain access to correlated and verified data on-demand.
-
-The Original Works Protocol allows any music asset manager/owner to provide fully immutable, current and accurate proofs (cryptographic verification of the existence of a record, while maintaining full data privacy) about copyright, rights covered, existing license terms and any other data that needs  to be corroborated about an asset. Data providers can monetize their data more efficiently this way.
-
-### Turning Music IP to a Composable Digital Asset
-
-Apart from fixing the fragmented supply chain that keeps the industry barely connected today, Original Works enables the on-chain registration of music IP, effectively generating privacy-keeping immutable records about [globally identifiable](#user-content-fn-1)[^1] IP assets.\
-\
-By introducing tokenization of registered assets, these data providers who are in charge of maintaining   the registration, distribution and can now also offer the ability to both govern and monetize the underlying rights on-chain.
-
-#### What Does That Mean for the creative community?
-
-Imagine the music industry as a fertile, frictionless environment fostering creativity. This is the world we envision and that is why, just like bridging legacy payment rails with web3 smart contracts, we are highly invested in bridging developer communities with creative communities.&#x20;
-
-Original Works brings artists and developers together to create consumer and B2B web3 applications and provide users with an endless array of functionality. Code for decentralized applications is open source, shareable and stackable, giving artists the granularity of IP control on an asset level, and making it easy for developers to combine and build upon existing features.
-
-Each individual application has the potential to build an entire eco-system, culture and economy around it. The real power of the OWN network is that assets can independently and simultaneously generate value from different networks of creators and audiences. The vision of the Original Works protocol is to provide the open internet with interoperable payment rails for music content with self-enforcing rights and revenue management, as well as transparent ownership and governance records. With Original Works, creators continue generating passive income while expanding and enriching their catalog.&#x20;
+With decades of experience in the music industry, we understand that most artists prefer to focus on their creative work rather than becoming entrepreneurs. They rely on service providers to handle the complex business aspects of their careers. Original Works acknowledges this reality by enabling existing music distributors and publishers to serve as network oracles. These service providers can participate in the protocol by running our client software and staking tokens, while maintaining their current business operations and relationships with artists. This approach preserves the valuable role of industry professionals while introducing greater efficiency and transparency to their services.
 
 
+## Problem Statement
 
-[^1]: Starting with the existing standards of ISRC, ISWC as assets types and conforming to the DDEX message formats allows us to easily register and tokenize and back-catalogs.
+The current state of royalty management in the music industry presents significant challenges that disproportionately affect creators and rights holders. Global settlement of royalties remains prohibitively expensive and operationally complex, particularly in developing countries that export substantial amounts of music content. The lack of transparency in royalty calculations and distributions creates an illiquid market for music rights, limiting opportunities for creators to leverage their assets effectively.
+
+Most artists and their teams lack the expertise and resources to navigate the intricate landscape of music rights monetization. Consequently, they often find themselves surrendering significant ownership and control to administrators who manage their cashflows. These administrative relationships frequently lead to long-term contractual obligations that keep artists in cycles of debt and dependency, unable to fully capitalize on their creative work.
+
+By enabling on-chain identification and authentication of intellectual property, Original Works creates a foundation for automated split payments, royalty advances, and innovative financing solutions. These capabilities rely on smart contracts and economic incentives rather than traditional administrative control. As a result, artists at any scale can access sophisticated financial services and rights management tools without sacrificing their autonomy or ownership rights. This democratization of access represents a fundamental shift in how creators can manage and monetize their intellectual property while maintaining control of their musical work.
+
+
+## Key Benefits
+
+The Original Works protocol delivers immediate, practical benefits to all participants in the music ecosystem:
+
+For Rights Holders:
+- Privacy-Preserving Claims: Rights holders need only present their ERC1155 voucher tokens to claim royalties, while their ownership percentages and earnings remain completely hidden from the blockchain. By generating new claiming addresses for each transaction, the protocol ensures that payment patterns cannot be tracked or analyzed by external observers.
+- Stable Value Distribution: Royalties are distributed in stable coins, protecting rights holders from cryptocurrency volatility while enabling automated, trustless distribution through smart contracts. This combines the efficiency of blockchain technology with the stability of traditional currency, ensuring predictable income streams.
+- Capital Efficiency: Verified on-chain rights can be used as collateral for DeFi services
+
+For Music Service Providers:
+- Reduced Operating Costs: Automated reconciliation and settlement reduce administrative overhead
+- Enhanced Services: Providers can offer new financial products backed by verified rights data
+- Business Continuity: Integration requires minimal changes to existing operations
+
+For the Industry:
+- Global Accessibility: Standardized protocol enables participation from any jurisdiction
+- Market Efficiency: Transparent, verifiable rights data creates liquid markets for music assets
+- Innovation Platform: Open protocol enables new services built on verified rights data
+
+
+## Solution Architecture
+
+Original Works addresses the music industry's challenges through a layered architecture that combines proven industry standards with innovative blockchain technology. At its core, the protocol transforms traditional music industry data formats (DDEX.ERN and CWR) into on-chain assets while preserving privacy and maintaining compliance with existing systems.
+
+Consider how a typical music release works today: A distributor submits standardized XML files to streaming platforms, containing essential metadata about songs, artists, and rights holders. Original Works enhances this process through the OWEN (Original Work Electronic Notification) client, which processes these same XML files but adds a crucial layer of blockchain verification. When a distributor submits a release, OWEN:
+
+- Parses the XML data and extracts key identifiers (ISRC, ISWC)
+- Generates a unique audio fingerprint (ISCC) from the content upon request - This is optional only if the audio file is delivered with the DDEX package.
+- Stores the original file in blob storage with an 18-day retention period
+- Posts a the actual file (xml and jpg) to IPFS for permanent accessibility
+- Submits a blockchain transaction linking all these elements to the registered asset
+
+This process creates an immutable, verifiable record of the release while maintaining the privacy of sensitive business information; The protocol's validator network then: 
+
+- Picks up on the blockchain transaction
+- Recalculates the transaction details, with the pinned IPFS data as the input source
+- Verifies these submissions and generates their corresponding ZK proofs. 
+- This process repeats for any update to the registered asset. 
+
+Anyone in the world can then check the proof against the pinned data, ensuring a fully available audit trail of the public records, and verified data integrity without accessing the confidential details of rights and royalties.
+
+After the decentralized registration process validates the asset, Oracles can proceed with royalty tokenization through an innovative privacy-preserving system. Instead of storing split and revenue data directly on-chain, where it would be publicly visible, the protocol employs a specialized data structure called a Merkle Tree. This tree functions like a sophisticated filing cabinet that only the Oracle can access fully, while allowing individual rights holders to prove and claim their specific portions without revealing their ownership percentages to anyone.
+
+Think of it like a redacted document where each rights holder can only see their own information: When claiming royalties, a rights holder presents their voucher token (similar to showing ID to pick up a package), and the system generates a cryptographic proof that verifies their specific share of the royalties without exposing anyone else's information. This proof confirms both their right to claim and the exact amount they're owed, while keeping the overall split structure and individual percentages completely confidential. The system maintains this privacy even as it processes and distributes payments, ensuring that sensitive business relationships remain protected.
