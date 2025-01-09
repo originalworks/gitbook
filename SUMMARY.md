@@ -7,12 +7,12 @@
 
 ## Introduction
 
-* [introduction](introduction/introduction.md)
+* [Introduction](introduction/introduction.md)
 * [key benefits](introduction/key-benefits.md)
-* [Problemstatement](introduction/problem-statement.md)
+* [Problem statement](introduction/problem-statement.md)
 * [Protocol Overview](introduction/protocol-overview.md)
-* [Solution-architecture](introduction/solution-architecture.md)
-* [Use-cases](introduction/use-cases.md)
+* [Solution architecture](introduction/solution-architecture.md)
+* [Use cases](introduction/use-cases.md)
 
 ## Learn
 
