@@ -8,7 +8,7 @@
 
 ## Introduction
 
-* [Protocol Overview](introduction/what-is-original-works.md)
+* [Protocol Overview](introduction/protocol-overview.md)
 * [Problem statement](introduction/problem-statement.md)
 * [key benefits](introduction/key-benefits.md)
 * [Solution architecture](introduction/solution-architecture.md)
