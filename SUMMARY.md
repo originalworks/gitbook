@@ -1,13 +1,13 @@
 # Table of contents
 
-## Group 1
-
-* [test 1](README.md)
-
 ## Quick Start
 
-* [About Original Works](<README (1).md>)
+* [About Original Works](README.md)
 * [Rights and Royalties On Chain](quick-start/rights-and-royalties-on-chain.md)
+
+## Group 1
+
+* [test 11](group-1/test-11.md)
 
 ## Learn
 
