@@ -5,9 +5,15 @@
 * [About Original Works](README.md)
 * [Rights and Royalties On Chain](quick-start/rights-and-royalties-on-chain.md)
 
-## Group 1
+## Introduction
 
-* [test 11](group-1/test-11.md)
+* [Page7](introduction/page7.md)
+* [Page6](introduction/page6.md)
+* [Page 5](introduction/page-5.md)
+* [Page 4](introduction/page-4.md)
+* [Page3](introduction/page3.md)
+* [Page2](introduction/page2.md)
+* [test 11](introduction/test-11.md)
 
 ## Learn
 
@@ -18,7 +24,7 @@
 * [Privacy](protocol/privacy.md)
 * [Glossary](protocol/glossary.md)
 * [Business Requirements](learn/business-requierments.md)
-* [Use Cases](introduction/use-cases.md)
+* [Use Cases](learn/use-cases.md)
 * [Protocol Participants](protocol/personas/README.md)
   * [Data Providers](protocol/personas/data-providers.md)
   * [Payment Providers](learn/personas/payment-providers.md)
