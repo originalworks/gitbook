@@ -90,7 +90,7 @@
 - Network Redundancy
 
 ### 4.3 Smart Contracts
-- Contract Architecture
+- [Contract Architecture](resources/token-factory-contract-interaction-flow.md)
 - Function Specifications
 - State Management
 - Access Controls
