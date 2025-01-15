@@ -29,7 +29,7 @@
 ### 2.2 Validators
 - Network Role and Importance
 - Technical Requirements
-- Validation Process
+- [Validation Process](resources/validator_flow.md) 
   - BLOB Message Processing
   - ZK Proof Generation
   - KZG Commitments
