@@ -16,7 +16,7 @@
 
 ## 2. Protocol Participants
 ### 2.1 Oracles
-- Definition and Requirements
+- [Definition and Requirements](oracles/definition-and-requirements.md)
 - Types of Oracles
   - Music Distributors
   - Publishers
