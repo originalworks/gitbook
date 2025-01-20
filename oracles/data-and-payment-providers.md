@@ -1,6 +1,6 @@
 ### Additional Types of Oracles
 
-As the protocol develops, the protocol will support more specialized and nuanced Oracle roles to accommodate the complex nature of music industry operations:
+As the protocol develops and evolves, we will support more specialized and nuanced Oracle roles to accommodate the complex nature of music industry operations; Each additional Oracle type enhances the protocol's functionality while maintaining its security and privacy standards. These roles create a flexible ecosystem that can adapt to various business models and operational requirements in the global music industry:
 
 ## Data Providers
 - Appointed by Oracles or Rights Holders to supplement asset data
@@ -34,5 +34,3 @@ As the protocol develops, the protocol will support more specialized and nuanced
   - Back-office operation specialists
 - Must maintain protocol security and performance standards
 - Enable Oracles to focus on core business operations
-
-Each additional Oracle type enhances the protocol's functionality while maintaining its security and privacy standards. These roles create a flexible ecosystem that can adapt to various business models and operational requirements in the global music industry.
