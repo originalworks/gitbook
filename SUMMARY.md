@@ -17,15 +17,15 @@
 ## 2. Protocol Participants
 ### 2.1 Oracles
 - [Definition and Requirements](oracles/definition.md)
-- [Oracle Benifits](Benifits.md)
-- [Types of Oracles](types.md)
-  - [Essential Oracles](distributors-and-publishers.md)
-  - [Non-essential Oracles](data-and-payment-providers.md)
+- [Oracle Benifits](oracles/benifits.md)
+- [Types of Oracles](oracles/types.md)
+  - [Essential Oracles](oracles/distributors-and-publishers.md)
+  - [Non-essential Oracles](oracles/data-and-payment-providers.md)
 - [Onboarding Process](oracles/onboarding.md)
 - [Staking Requirements](oracles/staking.md)
 - [Service Provider Responsibilities](oracles/responsibilities.md)
-- [Economic Incentives](economics.md)
-- [Compliance Requirements](compliance.md)
+- [Economic Incentives](oracles/economics.md)
+- [Compliance Requirements](oracles/compliance.md)
 
 ### 2.2 Validators
 - Network Role and Importance
