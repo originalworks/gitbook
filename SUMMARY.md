@@ -16,13 +16,13 @@
 
 ## 2. Protocol Participants
 ### 2.1 Oracles
-- [Definition and Requirements](oracles/definition-and-requirements.md)
+- [Definition and Requirements](oracles/definition.md)
 - Types of Oracles
   - Music Distributors
   - Publishers
-- Onboarding Process
-- Staking Requirements
-- Service Provider Responsibilities
+- [Onboarding Process](oracles/onboarding.md)
+- [Staking Requirements](oracles/staking.md)
+- [Service Provider Responsibilities](oracles/staking.md)
 - Economic Incentives
 - Compliance Requirements
 
