@@ -1,4 +1,4 @@
-### Music Distributors
+## Music Distributors
 
 Traditional Industry Role:
 - Deliver music to digital streaming platforms (Spotify, Apple Music, etc.)
@@ -15,7 +15,7 @@ Protocol Oracle Duties:
 - Maintain accurate play counts and revenue allocation
 - Enable automated royalty splits through smart contracts
 
-### Publishers
+## Publishers
 
 Traditional Industry Role:
 - Register and protect musical compositions
@@ -32,7 +32,7 @@ Protocol Oracle Duties:
 - Enable automated writer share distributions
 - Provide verifiable proof of performance royalties
 
-### Combined Service Providers
+## Combined Service Providers
 
 Some organizations provide both distribution and publishing services. In these cases, they can:
 - Operate as both types of Oracles
