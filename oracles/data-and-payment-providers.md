@@ -2,7 +2,7 @@
 
 As the protocol develops, the protocol will support more specialized and nuanced Oracle roles to accommodate the complex nature of music industry operations:
 
-#### Data Providers
+## Data Providers
 - Appointed by Oracles or Rights Holders to supplement asset data
 - Provide additional metadata, usage statistics, or market analytics
 - Examples include:
@@ -13,7 +13,7 @@ As the protocol develops, the protocol will support more specialized and nuanced
 - Must meet protocol data standards and verification requirements
 - Can enhance asset value through verified additional data points
 
-#### Payment Providers
+## Payment Providers
 - Authorized to execute payments on behalf of Publisher or Distributor Oracles
 - Handle currency conversion and global settlements
 - Manage tax compliance and withholding requirements
@@ -24,7 +24,7 @@ As the protocol develops, the protocol will support more specialized and nuanced
 - Must meet protocol security and compliance standards
 - Can operate multiple Royalty Pools across different territories
 
-#### Service Administrators
+## Service Administrators
 - Manage technical operations for other Oracle types
 - Provide infrastructure and operational support
 - Handle protocol integration and maintenance
