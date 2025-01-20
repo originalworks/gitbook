@@ -6,7 +6,7 @@
 * [Rights and Royalties On Chain](quick-start/rights-and-royalties-on-chain.md)
 * [Use cases](introduction/use-cases.md)
 
-## Introduction
+## 1. Introduction
 
 * [Protocol Overview](introduction/protocol-overview.md)
 * [Problem Statement](introduction/problem-statement.md)
