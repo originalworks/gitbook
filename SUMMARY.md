@@ -23,8 +23,8 @@
 - [Onboarding Process](oracles/onboarding.md)
 - [Staking Requirements](oracles/staking.md)
 - [Service Provider Responsibilities](oracles/responsibilities.md)
-- Economic Incentives
-- Compliance Requirements
+- [Economic Incentives](economics.md)
+- [Compliance Requirements]
 
 ### 2.2 Validators
 - Network Role and Importance
