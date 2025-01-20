@@ -19,6 +19,7 @@
 - [Definition and Requirements](oracles/definition.md)
 - [Oracle Benifits](Benifits.md)
 - [Types of Oracles](types.md)
+  - [Essential Oracles](distributors-and-publishers.md)
   - [Non-essential Oracles](data-and-payment-providers.md)
 - [Onboarding Process](oracles/onboarding.md)
 - [Staking Requirements](oracles/staking.md)
