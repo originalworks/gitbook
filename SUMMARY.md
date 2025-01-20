@@ -17,14 +17,16 @@
 ## 2. Protocol Participants
 ### 2.1 Oracles
 - [Definition and Requirements](oracles/definition.md)
-- Types of Oracles
-  - Music Distributors
-  - Publishers
+- [Oracle Benifits](Benifits.md)
+- [Types of Oracles](types.md)
+  - [Music Distributors](distributors.md)
+  - [Publishers](publisher.md)
+  - [Non-essential Oracles](data-and-payment-providers.md)
 - [Onboarding Process](oracles/onboarding.md)
 - [Staking Requirements](oracles/staking.md)
 - [Service Provider Responsibilities](oracles/responsibilities.md)
 - [Economic Incentives](economics.md)
-- [Compliance Requirements]
+- [Compliance Requirements](compliance.md)
 
 ### 2.2 Validators
 - Network Role and Importance
