@@ -22,7 +22,7 @@
   - Publishers
 - [Onboarding Process](oracles/onboarding.md)
 - [Staking Requirements](oracles/staking.md)
-- [Service Provider Responsibilities](oracles/staking.md)
+- [Service Provider Responsibilities](oracles/responsibilities.md)
 - Economic Incentives
 - Compliance Requirements
 
