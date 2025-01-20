@@ -1,6 +1,6 @@
 The protocol recognizes two primary types of Oracles, reflecting the established structure of the music industry's supply chain:
 
-#### Music Distributors
+## Music Distributors
 
 Traditional Industry Role:
 - Deliver music to digital streaming platforms (Spotify, Apple Music, etc.)
@@ -17,7 +17,7 @@ Protocol Oracle Duties:
 - Maintain accurate play counts and revenue allocation
 - Enable automated royalty splits through smart contracts
 
-#### Publishers
+## Publishers
 
 Traditional Industry Role:
 - Register and protect musical compositions
@@ -34,7 +34,7 @@ Protocol Oracle Duties:
 - Enable automated writer share distributions
 - Provide verifiable proof of performance royalties
 
-#### Combined Service Providers
+## Combined Service Providers
 
 Although in most cases a an oracle will be distributing OR publishing music, some organizations provide both distribution and publishing services. In these cases, they can:
 - Operate as both types of Oracles
