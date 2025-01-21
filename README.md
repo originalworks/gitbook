@@ -22,11 +22,11 @@ Rights Managers and Label teams lack the tools to manage, track and account for 
 
 We are building the web3 infrastructure to reshape digital IP ownership and radically transform the way creators get paid for their work, by putting the power of royalties back in the hands of artists.
 
-### How does the Original Works Protocol work?
+### What Are the Guiding Principals Leading to Our Design Choices?
 
 Most music assets today are off-chain, under-monetized and illiquid. Providing a privacy preserving, decentralized and immutable records of rights, licenses unlocks the ability to tokenize the off-chain royalty payments, solution to creating a liquid, efficient, and transparent market that everyone can access.
 
-Founded by music industry veterans, pioneering in digital reporting of music IP monetization and digital supply chain management throughout the transformation of the industry in the past two decades we are building the protocol under the following assumptions, which are being validated with our design partners throughout the development phase of the protocol:
+Founded by music industry veterans, pioneering in digital reporting of music IP monetization and digital supply chain management throughout the digital transformation of the industry in the past two decades we are building the protocol under the following assumptions, which are being validated with our design partners throughout the development phase of the protocol:
 
 1. Rights holders, artists, creators and most independent labels rely on service providers administrating and monetizing and protecting their rights.
 2. Service providers will need to continue protecting the privacy of their customers and need a simple  non-disruptive solution to securely sync their data
