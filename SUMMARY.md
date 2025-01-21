@@ -28,14 +28,15 @@
 - [Compliance Requirements](oracles/compliance.md)
 
 ### 2.2 Validators
-- Network Role and Importance
-- Technical Requirements
+- [Network Role and Importance](validator/validator-role.md)
+- [Technical Requirements](validator/technical-requirements.md)
 - [Validation Process](resources/validator_flow.md) 
-  - BLOB Message Processing
-  - ZK Proof Generation
-  - KZG Commitments
-- Reward Mechanism
-- Slashing Conditions
+  - [BLOB Message Processing](validator/blob-processing.md)
+  - [ZK Proof Generation](validator/zkproof.md)
+  - [KZG Commitments](validator/kzg-commitments.md)
+- [Reward Mechanism](validator/rewards.md)
+- [Slashing Conditions](validator/slashing.md)
+- [Best Practices](validator/best-practices.md)
 - Network Participation Rules
 
 ### 2.3 Rights Holders
