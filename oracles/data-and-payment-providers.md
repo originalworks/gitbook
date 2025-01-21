@@ -1,14 +1,14 @@
 ### Additional Types of Oracles
 
-As the protocol develops and evolves, we will support more specialized and nuanced Oracle roles to accommodate the complex nature of music industry operations; Each additional Oracle type enhances the protocol's functionality while maintaining its security and privacy standards. These roles create a flexible ecosystem that can adapt to various business models and operational requirements in the global music industry:
+As the protocol develops and evolves, we will support more specialized and nuanced Oracle roles to accommodate the complex nature of music industry operations; Each additional Oracle type enhances the protocol's functionality while maintaining its security and privacy standards. With the growing usage of AI agents on-chain, we envision a complete data economy that can easily synchronize between anti-fraud and artificial streming data-sets managed by different independent organizations and companies. These roles create a flexible ecosystem that can adapt to various business models and operational requirements in the global music industry:
 
 ## Data Providers
 - Appointed by Oracles or Rights Holders to supplement asset data
-- Provide additional metadata, usage statistics, or market analytics
+- Provide additional metadata, usage statistics, market analytics
 - Examples include:
-  - Performance tracking services
-  - Radio airplay monitoring companies
-  - Chart reporting services
+  - Commercializing AI agents for risk evalutaion - creating a competative marketplace for price-discorvey
+  - Anti-fraud coalitions and organizations - tracking and flagging artificial streaming and fradulant releases.
+  - Performance tracking, audio airplay and chart monitoring companies
   - Sync licensing trackers
 - Must meet protocol data standards and verification requirements
 - Can enhance asset value through verified additional data points
