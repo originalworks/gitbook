@@ -6,8 +6,8 @@ flowchart TB
         input3["Royalty Payouts"]
         
         subgraph RoyaltyClient["Royalty Pool Client"]
-            merkle["Merkle Tree\nSplit Information"]
-            pool["Royalty Pool\nUSDC Balance"]
+            merkle["Merkle Tree Split Information"]
+            pool["Royalty Pool USDC Balance"]
         end
 
         input3 --> pool
@@ -31,8 +31,8 @@ flowchart TB
     end
 
     subgraph Storage["Distributed Storage"]
-        ipfsStore["IPFS\nStores BLOBs"]
-        blobContract["Blockchain Transaction\n- BLOB 18-day retention\n- Commitment mapping\n- Payment provider registry"]
+        ipfsStore["IPFS Stores BLOBs"]
+        blobContract["Blockchain Transaction - BLOB 18-day retention - Commitment mapping - Payment provider registry"]
     end
 
     subgraph ValidatorNetwork["L1 Validator Network"]
@@ -50,9 +50,9 @@ flowchart TB
     end
 
     subgraph RightsClaims["Rights Holder Claims"]
-        voucher["Voucher Wallet\nERC1155 Tokens"]
-        claim["Claim Process\n- Proof of Ownership\n- Σ[royalties]\n- Private 0x"]
-        payout["Payout Wallet\nNew address per claim"]
+        voucher["Voucher Wallet ERC1155 Tokens"]
+        claim["Claim Process Proof of Ownership - Σ[royalties] - Private 0x"]
+        payout["Payout Wallet - New address per claim"]
     end
 
     input1 --> OWEN
