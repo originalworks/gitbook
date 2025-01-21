@@ -22,7 +22,7 @@ By introducing tokenization of registered assets, these data providers who are i
 
 ### What Does That Mean for the Creative Community?
 
-Imagine the music industry as a fertile, frictionless environment fostering creativity. This is the world we envision and that is why, just like bridging legacy payment rails with web3 smart contracts, we are highly invested in bridging developer communities with creative communities. We have outlined this vision in [a recent blog post](https://paragraph.xyz/@originalworks/from-royalty-societies-to-the-creative-network-state) and are working to turn this vision into a proactive lobying coalition as the digital transformation of music IP persists&#x20; 
+Imagine the music industry as a fertile, frictionless environment fostering creativity. This is the world we envision and that is why, just like bridging legacy payment rails with web3 smart contracts, we are highly invested in bridging developer communities with creative communities. We have outlined this vision in [a recent blog post](https://paragraph.xyz/@originalworks/from-royalty-societies-to-the-creative-network-state) and are working to turn this vision into a proactive lobying coalition as the digital transformation of music IP persists.&#x20; 
 
 Original Works brings artists and developers together to create consumer and B2B web3 applications and provide users with an endless array of functionality. Code for decentralized applications is open source, shareable and stackable, giving artists the granularity of IP control on an asset level, and making it easy for developers to combine and build upon existing features.
 
