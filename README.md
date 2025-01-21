@@ -22,7 +22,7 @@ Rights Managers and Label teams lack the tools to manage, track and account for 
 
 We are building the web3 infrastructure to reshape digital IP ownership and radically transform the way creators get paid for their work, by putting the power of royalties back in the hands of artists.
 
-### What Are the Guiding Principals Leading to Our Design Choices?
+### What Are the Guiding Principals Leading Our Design Choices?
 
 Most music assets today are off-chain, under-monetized and illiquid. Providing a privacy preserving, decentralized and immutable records of rights, licenses unlocks the ability to tokenize the off-chain royalty payments, solution to creating a liquid, efficient, and transparent market that everyone can access.
 
