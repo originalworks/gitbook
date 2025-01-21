@@ -20,13 +20,13 @@ Apart from fixing the fragmented supply chain that keeps the industry barely con
 \
 By introducing tokenization of registered assets, these data providers who are in charge of maintaining   the registration, distribution and can now also offer the ability to both govern and monetize the underlying rights on-chain.
 
-#### What Does That Mean for the creative community?
+### What Does That Mean for the Creative Community?
 
-Imagine the music industry as a fertile, frictionless environment fostering creativity. This is the world we envision and that is why, just like bridging legacy payment rails with web3 smart contracts, we are highly invested in bridging developer communities with creative communities.&#x20;
+Imagine the music industry as a fertile, frictionless environment fostering creativity. This is the world we envision and that is why, just like bridging legacy payment rails with web3 smart contracts, we are highly invested in bridging developer communities with creative communities. We have outlined this vision in [a recent blog post[(https://paragraph.xyz/@originalworks/from-royalty-societies-to-the-creative-network-state) and are working to turn this vision into a proactive lobying coalition as the digital transformation of music IP persists&#x20; 
 
 Original Works brings artists and developers together to create consumer and B2B web3 applications and provide users with an endless array of functionality. Code for decentralized applications is open source, shareable and stackable, giving artists the granularity of IP control on an asset level, and making it easy for developers to combine and build upon existing features.
 
-Each individual application has the potential to build an entire eco-system, culture and economy around it. The real power of the OWN network is that assets can independently and simultaneously generate value from different networks of creators and audiences. The vision of the Original Works protocol is to provide the open internet with interoperable payment rails for music content with self-enforcing rights and revenue management, as well as transparent ownership and governance records. With Original Works, creators continue generating passive income while expanding and enriching their catalog.&#x20;
+Each individual application has the potential to build an entire eco-system, culture and economy around it. The real power of the OWN network is that assets can independently and simultaneously generate value from different networks of creators and audiences. The vision of the Original Works protocol is to provide the open internet with interoperable payment rails for music content with self-enforcing rights and revenue management, as well as transparent ownership and governance records. With Original Works, creators continue generating passive income while expanding and enriching their catalog.&#x20; 
 
 
 
