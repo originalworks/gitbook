@@ -8,7 +8,7 @@ As the protocol develops and evolves, we will support more specialized and nuanc
 - Examples include:
   - Commercializing AI agents for risk evalutaion - creating a competative marketplace for price-discorvey
   - Anti-fraud coalitions and organizations - tracking and flagging artificial streaming and fradulant releases.
-  - Performance tracking, audio airplay and chart monitoring companies
+  - Performance tracking, radio airplay monetoring and chart reporting services
   - Sync licensing trackers
 - Must meet protocol data standards and verification requirements
 - Can enhance asset value through verified additional data points
