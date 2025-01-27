@@ -5,7 +5,6 @@
 * [About Original Works](README.md)
 * [Rights and Royalties On Chain](quick-start/rights-and-royalties-on-chain.md)
 * [Use cases](introduction/use-cases.md)
-* [Table of Contents](SUMMARY.md) 
 
 ## 1. Introduction
 
