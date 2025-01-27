@@ -5,6 +5,7 @@
 * [About Original Works](README.md)
 * [Rights and Royalties On Chain](quick-start/rights-and-royalties-on-chain.md)
 * [Use cases](introduction/use-cases.md)
+* [Table of Contents](SUMMARY.md) 
 
 ## 1. Introduction
 
@@ -19,8 +20,8 @@
 * [Definition and Requirements](oracles/definition.md)
 * [Oracle Benifits](oracles/benifits.md)
 * [Types of Oracles](oracles/types.md)
-  * [Essential Oracles](oracles/distributors-and-publishers.md)
-  * [Non-essential Oracles](oracles/data-and-payment-providers.md)
+  * [Royalty Administrators](oracles/distributors-and-publishers.md)
+  * [Data Providers](oracles/data-and-payment-providers.md)
 * [Onboarding Process](oracles/onboarding.md)
 * [Staking Requirements](oracles/staking.md)
 * [Service Provider Responsibilities](oracles/responsibilities.md)
