@@ -34,7 +34,6 @@
 * [Validation Process](resources/validator_flow.md)
   * [BLOB Message Processing](validator/blob-processing.md)
   * [ZK Proof Generation](validator/zkproof.md)
-  * [KZG Commitments](validator/kzg-commitments.md)
 * [Reward Mechanism](validator/rewards.md)
 * [Slashing Conditions](validator/slashing.md)
 * [Best Practices](validator/best-practices.md)
