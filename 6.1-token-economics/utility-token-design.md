@@ -5,19 +5,19 @@ The tokenization of music royalties can only be meaningful if the underlying reg
 ### Architectural Parallels with Ethereum
 
 Just as Ethereum separates transaction submitters (users) from validators (miners/stakers), Original Works creates a clear separation between:
-- **Oracles**: Music industry participants who submit IP registrations (analogous to Ethereum users)
+- **Royalty Admins**: Music industry participants who submit IP registrations (analogous to Ethereum users)
 - **Validators**: Independent network participants who verify submissions (analogous to Ethereum validators)
 
 This separation is crucial because:
-1. Oracles have the industry expertise to submit valid data but might have conflicts of interest
+1. Royalty Admins have the industry expertise to submit valid data but might have conflicts of interest
 2. Validators have no stake in the music business, focusing solely on network security
 3. The economic incentives of these groups need to be properly aligned
 
 ### The Need for $OWN Token
 
-#### For Oracles
-- **Staking Requirement**: Oracles must stake $OWN tokens to participate, similar to how DeFi protocols require stake for security
-- **Economic Security**: The stake serves as collateral, ensuring Oracles submit accurate data
+#### For Royalty Admins
+- **Staking Requirement**: Royalty Admins must stake $OWN tokens to participate, similar to how DeFi protocols require stake for security
+- **Economic Security**: The stake serves as collateral, ensuring Royalty Admins submit accurate data
 - **Slashing Risk**: Malicious or incorrect submissions can result in stake reduction
 - **Royalty Pool Operation**: Additional stake required to operate royalty pools, scaling with managed volume
 
@@ -33,7 +33,7 @@ The system achieves decentralization through multiple layers:
 
 1. **Data Submission**
 ```
-Oracle Registration:
+Royalty Admin Registration:
 - Stake $OWN tokens
 - Submit standard industry files
 - Generate ZK proofs
@@ -52,7 +52,7 @@ Validator Operations:
 3. **Economic Security**
 ```
 Security Model:
-Total Security = Oracle_Stake + Validator_Stake
+Total Security = Royalty Admin_Stake + Validator_Stake
 Attack Cost > Potential_Gain
 Minimum_Stake ∝ Asset_Value
 ```
@@ -60,7 +60,7 @@ Minimum_Stake ∝ Asset_Value
 ### Why This Model Works
 
 1. **Aligned Incentives**
-- Oracles want efficient IP registration
+- Royalty Admins want efficient IP registration
 - Validators want network security
 - Both earn rewards for honest behavior
 - Both face penalties for misconduct
