@@ -22,6 +22,6 @@ The grant supported Revelator’s ongoing innovation in decentralized financial 
 
 Our latest DeFi lending products will be the next step in building a robust back-end system to run music revenues on the blockchain, with all its royalties, rights, and value.
 
-Revelator also independently interacts with the protocol in two ways, as a core developer and as an oracle facilitating on-ramping music IP and royalties on chain.
+Revelator also independently interacts with the protocol in two ways, as a core developer and as a Royalty Admin facilitating on-ramping music IP and royalties on chain.
 
 We’re expanding the ways blockchain can forge a new path in an industry that has long struggled with slow and inaccurate payments and complex administrative systems. Many startups have attempted what we have actually achieved: bringing decentralized financial tools to artists and creators worldwide.

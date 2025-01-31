@@ -12,7 +12,7 @@ flowchart TB
         splits["Rights Splits"]
     end
 
-    subgraph Oracle["Oracle Actions"]
+    subgraph RoyaltyAdmin["Royalty Admin Actions"]
         validate["Validate Asset Data"]
         register["Register Asset"]
         assign["Assign Rights"]
@@ -36,6 +36,6 @@ flowchart TB
 
     style TokenFactory fill:#e3f2fd
     style AssetContract fill:#fff3e0
-    style Oracle fill:#e8f5e9
+    style RoyaltyAdmin fill:#e8f5e9
     style Rights fill:#f3e5f5
 ```

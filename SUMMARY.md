@@ -14,11 +14,11 @@
 * [Solution Architecture](introduction/solution-architecture.md)
 * [Stakeholder Diagram](resources/main-flow.md)
 
-## 2.1 Oracles
+## 2.1 Royalty Admins
 
 * [Definition and Requirements](oracles/definition.md)
-* [Oracle Benifits](oracles/benifits.md)
-* [Types of Oracles](oracles/types.md)
+* [Royalty Admin Benefits](oracles/benifits.md)
+* [Types of Royalty Admins](oracles/types.md)
   * [Royalty Administrators](oracles/distributors-and-publishers.md)
   * [Data Providers](oracles/data-and-payment-providers.md)
 * [Onboarding Process](oracles/onboarding.md)

@@ -5,7 +5,7 @@
 
 At first, these two actions will be free for data provides (only Staking is Required), until a critical mass of assets and applications will incentivize data provider to add a "tip" to validators to include their registrations.
 
-Staking ensures the protocol can penalize oracles for mis-handeling records or funds, and the immutable nature of the protocol data model allows for tracking the performance of each Data and Payment Provider.
+Staking ensures the protocol can penalize Royalty Admins for mis-handeling records or funds, and the immutable nature of the protocol data model allows for tracking the performance of each Data and Payment Provider.
 
 Once a critical mass of assets are being monetized on the network, creating Original Works Records and Licenses will require a payment fee in $OWN token in order to cover the cost of parsing, ingestion and cross reference of records by the network validators.&#x20;
 

@@ -14,7 +14,7 @@ Verifiability in the form of identification of Assets, Rights and Royalties reco
 \
 In order to have a digital asset that is trusted, the bond to its real-world underlying cashflow must be completely disambiguated in order for a new Original Works record to be created. Once verified, validated and fingerprinted the protocol will enable each royalty-collection contract (rights monetization deal) to be tokenization as a standalone native digital asset. \
 \
-Ensuring the Record is unique requires the registration of the following fields, enabling only a single (Rights Controller) Oracle can monetize  this record:
+Ensuring the Record is unique requires the registration of the following fields, enabling only a single (Rights Controller) Royalty Admin can monetize  this record:
 
 * Asset identifier (ISRC/ISWC)
 * Right type being monetized (Distribution, Performance, Sync, etc..)
@@ -23,7 +23,7 @@ Ensuring the Record is unique requires the registration of the following fields,
 
 \*As long as less than 100% is captured, additional Orcales can claim a new record with the 3 first fields identical, but they can only register the remaining percentage.
 
-If an oracle claims an existing record, then a period begins allowing both Rights Controllers perform a "handshake" and they are economically incentivized to address the migration sooner than later.
+If a Royalty Admin claims an existing record, then a period begins allowing both Rights Controllers perform a "handshake" and they are economically incentivized to address the migration sooner than later.
 
 <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>The Original Works Data Model (single record with 2 independent tokenized deals)</p></figcaption></figure>
 
