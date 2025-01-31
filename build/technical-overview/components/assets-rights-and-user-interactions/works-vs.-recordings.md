@@ -44,7 +44,7 @@ A musical work is identified on the Original Works ecosystem by its 0x address a
 
 An `OW_Records` can be added by anyone by pinning the record to a local IPFS node and transmitting the CID to the protocol. This ensures an immutable record of a fully-private registration is generated and can be made public
 
-This musical asset has a given number of lawful owners at any given time. The owners are usually represented by an administrating company, such as a publishing admin and may have several royalty societies representing their collection rights in different territories. These representatives act as the network "Oracles" in a sense as they provide records and attestations about the "Real World {music} Asset" and may become a verified `DataProvider` to the protocol, using their public address to interact with the protocol. Assets registered by a verified data provider will have a "verified" status.
+This musical asset has a given number of lawful owners at any given time. The owners are usually represented by an administrating company, such as a publishing admin and may have several royalty societies representing their collection rights in different territories. These representatives act as the network Royalty Admins in a sense as they provide records and attestations about the "Real World {music} Asset" and may become a verified `DataProvider` to the protocol, using their public address to interact with the protocol. Assets registered by a verified data provider will have a "verified" status.
 
 Personas related to an OW\_Record:
 

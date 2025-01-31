@@ -1,7 +1,7 @@
 ```mermaid
 
 flowchart TB
-    subgraph Oracle["Oracle Layer"]
+    subgraph RoyaltyAdmin["Royalty Admin Layer"]
         input1["DDEX.ERN or CWR Files"]
         input3["Royalty Payouts"]
         
@@ -65,7 +65,7 @@ flowchart TB
     voucher --> claim
     claim --> payout
     
-    style Oracle fill:#f5f5f5
+    style RoyaltyAdmin fill:#f5f5f5
     style OWEN fill:#e1f5fe
     style Storage fill:#fff3e0
     style ValidatorNetwork fill:#e8f5e9

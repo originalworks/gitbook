@@ -24,7 +24,7 @@ Activities that require staking include:&#x20;
 2. Issuing a unique License for that Record&#x20;
 3. Minting a Royalty Token (RT) to monetize this license on-chain, splitting royalty payments, claiming royalty splits, unlocking private information or generating proofs.&#x20;
 
-Stake is used as collateral to ensure that data created and maintained is correct and up to date. If a Payment Provider oracle or Data Provider oracle does not fulfill its obligations, a fraud proof claim can be submitted and accepted by protocol governance, causing their stake to be partially slashed.
+Stake is used as collateral to ensure that data created and maintained is correct and up to date. If a Royalty Admin does not fulfill its obligations, a fraud proof claim can be submitted and accepted by protocol governance, causing their stake to be partially slashed.
 
 Activities that require paying a fee in $OWN include:
 
@@ -33,7 +33,7 @@ Activities that require paying a fee in $OWN include:
 3. Creating and sending payments to a Royalty Token Pack
 4. Making a fraud claim
 
-The fees charged are used to reimburse network participants such as Payment Provider oracles and Data Providers for their contributions to the network.
+The fees charged are used to reimburse network participants such as Royalty Admins for their contributions to the network.
 
 The OWN protocol is governed by network participants. Their voting allocation is apportioned by the value they add to the network (for example stake provided by Data Providers, Artists and Payment Providers will have more governance weight than purely financial stake), which among other things also takes into account the amount of $OWN they have staked.&#x20;
 

@@ -1,6 +1,6 @@
 ### Onboarding Process
 
-Becoming an Oracle is designed to be straightforward for established music industry service providers. The process integrates seamlessly with existing business operations:
+Becoming a Royalty Admin is designed to be straightforward for established music industry service providers. The process integrates seamlessly with existing business operations:
 
 1. Initial Registration
    - Complete business verification (initial phase only)

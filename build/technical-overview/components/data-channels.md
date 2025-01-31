@@ -6,7 +6,7 @@ description: >-
 
 # Data Channels
 
-Data channels: Official protocol oracles are able to provide attestations about registered assets via D`ataChannels`. These may be private or public and provide immutable record of any datapoint or statement about an asset and the public signature of the message signer. Anyone can setup a data channel and message the OWN protocol with information about a registered asset, but only verified `DataProvider` signatures should be considered to be a verified data source, and are legally accountable for the information they provide. The protocol tokenomics incentivize data providers to provide accurate information on time and penalizes underperformance.\
+Data channels: Official protocol Royalty Admins are able to provide attestations about registered assets via D`ataChannels`. These may be private or public and provide immutable record of any datapoint or statement about an asset and the public signature of the message signer. Anyone can setup a data channel and message the OWN protocol with information about a registered asset, but only verified `DataProvider` signatures should be considered to be a verified data source, and are legally accountable for the information they provide. The protocol tokenomics incentivize data providers to provide accurate information on time and penalizes underperformance.\
 \
 Data channels may include conditional chaining logic, historic financial data, fraud clearance, rights registration or any other records.
 

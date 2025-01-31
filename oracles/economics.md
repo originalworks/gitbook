@@ -1,6 +1,6 @@
 # Economic Incentives
 
-Beyond the direct benifit of streamlining royalty payments more transparently for Oracles and allowing them to offer greater control to rights holders over splits, cashflows, and advances, the protocol provides multiple operational benifits and opens up potential new revenue streams for Oracles:
+Beyond the direct benifit of streamlining royalty payments more transparently for Royalty Admins and allowing them to offer greater control to rights holders over splits, cashflows, and advances, the protocol provides multiple operational benifits and opens up potential new revenue streams for Royalty Admins:
 
 Operational Benefits:
 
