@@ -1,6 +1,6 @@
 ### Integration Benefits
 
-By becoming an Oracle, service providers gain significant advantages:
+By becoming a Royalty Admin, service providers gain significant advantages:
 
 Operational Efficiency:
 - No disruption to existing workflows

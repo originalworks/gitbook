@@ -1,6 +1,6 @@
 ### Service Provider Responsibilities
 
-Oracles maintain their regular business operations while gaining additional capabilities:
+Royalty Admins maintain their regular business operations while gaining additional capabilities:
 
 Daily Operations:
 - Continue normal release submission processes

@@ -20,7 +20,7 @@ This process creates an immutable, verifiable record of the release while mainta
 
 Anyone in the world can then check the proof against the pinned data, ensuring a fully available audit trail of the public records, and verified data integrity without accessing the confidential details of rights and royalties.
 
-After the decentralized registration process validates the asset, Oracles can proceed with royalty tokenization through an innovative privacy-preserving system. Instead of storing split and revenue data directly on-chain, where it would be publicly visible, the protocol employs a specialized data structure called a Merkle Tree. This tree functions like a sophisticated filing cabinet that only the Oracle can access fully, while allowing individual rights holders to prove and claim their specific portions without revealing their ownership percentages to anyone.
+After the decentralized registration process validates the asset, Royalty Admins can proceed with royalty tokenization through an innovative privacy-preserving system. Instead of storing split and revenue data directly on-chain, where it would be publicly visible, the protocol employs a specialized data structure called a Merkle Tree. This tree functions like a sophisticated filing cabinet that only the Royalty Admin can access fully, while allowing individual rights holders to prove and claim their specific portions without revealing their ownership percentages to anyone.
 
 ### Why Merkle Trees?
 

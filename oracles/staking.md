@@ -1,10 +1,10 @@
 # Staking Requirements
 
-The staking mechanism ensures Oracle accountability while providing additional revenue opportunities:
+The staking mechanism ensures Royalty Admin accountability while providing additional revenue opportunities:
 
 Base Staking:
 
-* Minimum stake required for basic Oracle operations
+* Minimum stake required for basic Royalty Admin operations
 * Stake amount scales with transaction volume
 * Rewards from successful validation of submissions
 * Stake to receive discounts on protocol fees &#x20;
