@@ -1,31 +1,32 @@
 # Utility Token Design: Decentralized IP Registration:
 
-The tokenization of music royalties can only be meaningful if the underlying registration of music rights is itself decentralized and independently verifiable. While blockchain technology enables transparent and automated royalty distributions, these mechanisms become pointless if we must blindly trust centralized entities to accurately register the initial rights data. Original Works solves this fundamental challenge by separating the roles of data submission and validation - (Roaylty Admins) submit standardized rights data, but independent validators must verify these submissions through zero-knowledge proofs before any tokenization can occur. This separation, secured by the protocol's native $OWN token, ensures that only validated music releases can be brought on-chain and any change to their state must be vetted by the validator network, and if conflicting data is attempted to be transmitted the decentralized validator network will reject it, maintaining the integrity of all tokenized rights and royalties. Just as Bitcoin and Ethereum achieve decentralization by separating transaction submission from validation, Original Works brings this same principle to music rights registration, creating a foundation of trust for the entire music royalty ecosystem.
+The tokenization of music royalties can only be meaningful if the underlying registration of music rights is itself decentralized and independently verifiable. While blockchain technology enables transparent and automated royalty distributions, these mechanisms become pointless if we must blindly trust centralized entities to accurately register the initial rights data. Original Works solves this fundamental challenge by separating the roles of data submission and data validation.
+Royalty Admins submit standardized rights data so independent validators verify these submissions and create proofs of such verificiations (through zero-knowledge proofs) before any tokenization can occur.
+This separation of roles, secured by the protocol's native $OWN token, ensures that only validated music releases can be brought on-chain and any change to their state must be vetted by the validator network, and if conflicting data is attempted to be transmitted the decentralized validator network will reject it, maintaining the integrity of all tokenized rights and royalties. Just as Bitcoin and Ethereum promote decentralization by separating permissionless transaction submission from a dsitributed validation by independent nodes, Original Works brings this same principle to music rights registration, creating a foundation of trust for the entire music royalty ecosystem.
 
 ### Architectural Parallels with Ethereum
 
-Just as Ethereum separates transaction submitters (users) from validators (miners/stakers), Original Works creates a clear separation between:
-- **Royalty Admins**: Music industry participants who submit IP registrations (analogous to Ethereum users)
-- **Validators**: Independent network participants who verify submissions (analogous to Ethereum validators)
+Just as Ethereum separates transaction submitters (users) from validators (stakers), Original Works creates a clear separation between:
+- **Royalty Admins**: Music industry participants who submit IP registrations (analogous to Ethereum users).
+- **Validators**: Independent network participants who verify submissions (analogous to Ethereum validators).
 
 This separation is crucial because:
 1. Royalty Admins have the industry expertise to submit valid data but might have conflicts of interest
-2. Validators have no stake in the music business, focusing solely on network security
-3. The economic incentives of these groups need to be properly aligned
+2. Validators have no stake in the music business, ensuring submission integrity and adherence to protocol rules
+3. The economic incentives of these groups need to be properly aligned.
 
 ### The Need for $OWN Token
 
 #### For Royalty Admins
-- **Staking Requirement**: Royalty Admins must stake $OWN tokens to participate, similar to how DeFi protocols require stake for security
-- **Economic Security**: The stake serves as collateral, ensuring Royalty Admins submit accurate data
-- **Slashing Risk**: Malicious or incorrect submissions can result in stake reduction
-- **Royalty Pool Operation**: Additional stake required to operate royalty pools, scaling with managed volume
+- **Staking Requirement**: Royalty Admins must stake $OWN tokens to participate, similar to how some DeFi protocols require it. The stake serves as collateral, ensuring Royalty Admins submit accurate data.
+- **Slashing Risk**: Malicious or incorrect submissions can result in stake reduction.
+- **Royalty Pool Operation**: Additional stake required to operate royalty pools, scaling with managed volume.
 
 #### For Validators
 - **Network Security**: Validators stake $OWN to participate in verification
-- **Reward Mechanism**: Earn $OWN for validating IP registrations correctly
-- **Consensus Participation**: Stake weight influences validation authority
-- **Slashing Conditions**: Poor performance or malicious behavior risks stake reduction
+- **Reward Mechanism**: Earn $OWN for validating IP registrations correctly.
+- **Consensus Participation**: Stake weight influences validation authority.
+- **Slashing Conditions**: Poor performance or malicious behavior risks stake reduction.
 
 ### Decentralization Through Separation
 
