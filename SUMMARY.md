@@ -12,7 +12,8 @@
 * [Problem Statement](introduction/problem-statement.md)
 * [Key Benefits](introduction/key-benefits.md)
 * [Solution Architecture](introduction/solution-architecture.md)
-* [Stakeholder Diagram](resources/main-flow.md)
+* [User Flow](resources/OW_flow.png)
+* [Stakeholders Diagram](resources/main-flow.md)
 
 ## 2.1 Royalty Admins
 
