@@ -1,10 +1,8 @@
 ---
-description: Privacy-preserving royalty distribution system
+description: Privacy-preserving royalty distribution system works
 ---
 
-# Original Works Royalty Pool
-
-The \`Royalty Pool\` is a local database, run by the OWEN client users who are also royalty administrators (collect and distribute royalty payments). This data base is unique as it provide a "receipt" that proves each royalty split without reveling the remaining splits. It also allows the royalty admin to set the terms for transfer or withdrawal of splits to comply with regulations or any requirements from copyright holders.
+# Operating an Original Works Royalty Pool
 
 The key benefits of the Original Works Royalty Pools:
 

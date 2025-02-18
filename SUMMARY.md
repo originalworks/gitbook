@@ -51,7 +51,7 @@
 
 ## 3.1 Royalty Pools
 
-* [Original Works Royalty Pool](3.1-royalty-pools/pool-structure.md)
+* [Original Works Royalty Pools](3.1-royalty-pools/pool-structure.md)
 * [Integrations and flow of funds](3.1-royalty-pools/integrations-and-flow-of-funds.md)
 * [USDC Integration](3.1-royalty-pools/usdc-integration.md)
 * [Balance Management](3.1-royalty-pools/balance-management.md)
