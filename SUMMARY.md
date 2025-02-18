@@ -81,7 +81,7 @@
 ## 4.1 OWEN Client
 
 * [What is OWEN?](4.1-owen-client/what-is-owen.md)
-* [Why is OWEN crucial to enable Royalty Tokenization](4.1-owen-client/why-is-owen-crucial-to-enable-royalty-tokenization.md)
+* [Why is OWEN needed to enable Royalty Tokenization?](4.1-owen-client/why-is-owen-crucial-to-enable-royalty-tokenization.md)
 * [Installation Requirements](4.1-owen-client/installation-requirements.md)
 * [Configuration Options](4.1-owen-client/configuration-options.md)
 * [XML Processing](4.1-owen-client/xml-processing/README.md)
