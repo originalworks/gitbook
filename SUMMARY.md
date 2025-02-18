@@ -51,7 +51,7 @@
 
 ## 3.1 Royalty Pools
 
-* [Original Works Royalty Pools](3.1-royalty-pools/pool-structure.md)
+* [Operating an Original Works Royalty Pool](3.1-royalty-pools/pool-structure.md)
 * [Integrations and flow of funds](3.1-royalty-pools/integrations-and-flow-of-funds.md)
 * [USDC Integration](3.1-royalty-pools/usdc-integration.md)
 * [Balance Management](3.1-royalty-pools/balance-management.md)
@@ -150,7 +150,7 @@
 * [Network Growth](6.3-incentive-alignment/network-growth.md)
 * [Sustainability](6.3-incentive-alignment/sustainability.md)
 
-## 7.1 Integration: Rights and Royalty Admins&#x20;
+## 7.1 Integration: Rights and Royalty Admins
 
 * [Technical Setup](7.1-integration-rights-and-royalty-admins/technical-setup.md)
 * [Commercial Requirements](7.1-integration-rights-and-royalty-admins/commercial-requirements.md)
