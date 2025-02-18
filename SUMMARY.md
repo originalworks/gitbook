@@ -26,6 +26,7 @@
 * [Staking Requirements](oracles/staking.md)
 * [Service Provider Responsibilities](oracles/responsibilities.md)
 * [Economic Incentives](oracles/economics.md)
+* [Page](2.1-royalty-admins/page.md)
 * [Compliance Requirements](oracles/compliance.md)
 
 ## 2.2 Validators
@@ -51,7 +52,8 @@
 
 ## 3.1 Royalty Pools
 
-* [Pool Structure](3.1-royalty-pools/pool-structure.md)
+* [Operating an Original Works Royalty Pool](3.1-royalty-pools/pool-structure.md)
+* [Integrations and flow of funds](3.1-royalty-pools/integrations-and-flow-of-funds.md)
 * [USDC Integration](3.1-royalty-pools/usdc-integration.md)
 * [Balance Management](3.1-royalty-pools/balance-management.md)
 * [Historical State Tracking](3.1-royalty-pools/historical-state-tracking.md)
@@ -150,6 +152,7 @@
 ## 7.1 Oracle Integration
 
 * [Technical Setup](7.1-oracle-integration/technical-setup.md)
+* [Commercial Requirements](7.1-oracle-integration/commercial-requirements.md)
 * [API Documentation](7.1-oracle-integration/api-documentation.md)
 * [Security Requirements](7.1-oracle-integration/security-requirements.md)
 * [Best Practices](7.1-oracle-integration/best-practices.md)
