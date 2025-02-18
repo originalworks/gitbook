@@ -26,7 +26,6 @@
 * [Staking Requirements](oracles/staking.md)
 * [Service Provider Responsibilities](oracles/responsibilities.md)
 * [Economic Incentives](oracles/economics.md)
-* [Page](2.1-royalty-admins/page.md)
 * [Compliance Requirements](oracles/compliance.md)
 
 ## 2.2 Validators
@@ -149,13 +148,13 @@
 * [Network Growth](6.3-incentive-alignment/network-growth.md)
 * [Sustainability](6.3-incentive-alignment/sustainability.md)
 
-## 7.1 Oracle Integration
+## 7.1 Integration: Rights and Royalty Admins&#x20;
 
-* [Technical Setup](7.1-oracle-integration/technical-setup.md)
-* [Commercial Requirements](7.1-oracle-integration/commercial-requirements.md)
-* [API Documentation](7.1-oracle-integration/api-documentation.md)
-* [Security Requirements](7.1-oracle-integration/security-requirements.md)
-* [Best Practices](7.1-oracle-integration/best-practices.md)
+* [Technical Setup](7.1-integration-rights-and-royalty-admins/technical-setup.md)
+* [Commercial Requirements](7.1-integration-rights-and-royalty-admins/commercial-requirements.md)
+* [API Documentation](7.1-integration-rights-and-royalty-admins/api-documentation.md)
+* [Security Requirements](7.1-integration-rights-and-royalty-admins/security-requirements.md)
+* [Best Practices](7.1-integration-rights-and-royalty-admins/best-practices.md)
 
 ## 7.2 Validator Setup
 
