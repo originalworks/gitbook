@@ -1,6 +1,11 @@
+---
+description: >-
+  The system maintains privacy throughout - rights holders can verify their
+  correct share while withholding details remain confidential and splits stay
+  private.
+---
+
 # Integrations and flow of funds
-
-
 
 <figure><img src="../.gitbook/assets/Original Works Protocol Design - Royalty Pool (private royalty splits) (1).jpg" alt=""><figcaption></figcaption></figure>
 
@@ -31,12 +36,12 @@ Here's how the rights holder verification and payout flow works, including the c
 
 \--
 
-**The system maintains privacy throughout - rights holders can verify their correct share while withholding details remain confidential and splits stay private:**
+### Why this flow combines the best solution in each category for Royalty Admins
 
-When Royalty Admins receive consumption reports from DSPs, instead of calculating individual payments, they simply deposit the total revenue into thier own Royalty Pool and assign amounts per asset. The pool then automatically calculates each rights holder's share based on the pre-registered splits stored in its Merkle tree.
+**Efficiency:** When Royalty Admins receive consumption reports from DSPs, instead of calculating individual payments, they simply deposit the total revenue into their own Royalty Pool and assign amounts per asset. The pool then automatically calculates each rights holder's share based on the pre-registered splits stored in its [Merkle tree](https://docs.alchemy.com/docs/merkle-trees-in-blockchains).
 
-Rights holders can then submit claims for multiple statements at once. When they do, the system automatically generates a new receiving address tied to their existing account. This means each withdrawal goes to a fresh address, making it impossible to track payment patterns.
+**Privacy:** Rights holders can then submit claims for multiple statements at once. When they do, the system automatically generates a new receiving address tied to their existing account. This means each withdrawal goes to a fresh address, making it impossible to track payment patterns.
 
-Most importantly, each claim comes with a cryptographic proof that verifies they received the correct percentage of each asset's revenue. This proof confirms their payment is accurate without revealing anything about other rights holders or the total pool amount. It's like getting a redacted bank statement where you can only see your own transactions but can mathematically verify they're correct.
+**Verifiability:** Most importantly, each claim comes with a cryptographic proof that verifies they received the correct percentage of each asset's revenue. This proof confirms their payment is accurate without revealing anything about other rights holders or the total pool amount. It's like getting a redacted bank statement where you can only see your own transactions but can mathematically verify they're correct.
 
-So while you maintain control of royalty deposits and compliance checks, rights holders get privacy and verifiable accuracy for their earnings. The entire process remains compliant since all claims must pass KYC/AML checks before approval.
+**Compliance:** The entire process remains compliant since all claims must pass KYC/AML checks before approval. So while you maintain control of royalty deposits and compliance checks, rights holders get privacy and verifiable accuracy for their earnings.&#x20;
