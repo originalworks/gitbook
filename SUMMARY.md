@@ -152,7 +152,7 @@
 
 * [Technical Setup](7.1-integration-rights-and-royalty-admins/technical-setup.md)
 * [Commercial Requirements](7.1-integration-rights-and-royalty-admins/commercial-requirements.md)
-* [API Documentation](7.1-integration-rights-and-royalty-admins/api-documentation.md)
+* [Data Parsing](7.1-integration-rights-and-royalty-admins/api-documentation.md)
 * [Security Requirements](7.1-integration-rights-and-royalty-admins/security-requirements.md)
 * [Best Practices](7.1-integration-rights-and-royalty-admins/best-practices.md)
 
