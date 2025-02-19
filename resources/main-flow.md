@@ -11,6 +11,7 @@ Rights Administrators (Distributors/Publishers):
 * Maintain Merkle trees of rights splits
 * Process rights holder claims with privacy preservation
 * Define claim Claim requirements (regulatory and compliance oversight)
+* More details available in the [Technical Setup](7.1-integration-rights-and-royalty-admins/technical-setup.md)section
 
 Validators:
 
