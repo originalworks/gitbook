@@ -161,7 +161,7 @@
 ## 7.2 Validator Setup
 
 * [Hardware Requirements](validator/technical-requirements.md)
-* [Software Installation](7.2-validator-setup/software-installation.md)
+* [Software Installation](https://github.com/originalworks/protocol-core/tree/master/validator_node)
 * [Network Configuration](7.2-validator-setup/network-configuration.md)
 * [Performance Monitoring](7.2-validator-setup/performance-monitoring.md)
 
