@@ -4,7 +4,7 @@
 
 Rights and Royalty Administrators (Distributors/Publishers/CMOs):
 
-* Run OWEN client to process standard industry messages
+* Run the [OWEN](4.1-owen-client/what-is-owen.md) client to process standard industry messages
 * Generate zero-knowledge proofs of valid submissions
 * Submit data to blockchain through blob storage (EIP-4844)
 * Operate Royalty Pools for stablecoin deposits
