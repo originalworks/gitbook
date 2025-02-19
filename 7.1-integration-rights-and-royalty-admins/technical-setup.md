@@ -11,9 +11,9 @@ description: >-
 
 
 
-1. **Release Management**: OWEN accepts standard DDEX/CWR formats because we believe blockchain adoption shouldn't require changing established industry practices. Your existing release notification system remains unchanged while gaining blockchain benefits.
+1. **Release Management**: [OWEN](https://docs.original.works/original-works/4.1-owen-client/what-is-owen) accepts standard DDEX/CWR formats because we believe blockchain adoption shouldn't require changing established industry practices. Your existing release notification system remains unchanged while gaining blockchain benefits.
    * Submit DDEX/CWR notifications as usual&#x20;
-   * **Integration**: Run OWEN on your local/hosted setup
+   * **Integration**: Run [OWEN](https://docs.original.works/original-works/4.1-owen-client/what-is-owen) on your local/hosted setup
      * OWEN client processes these automatically
      * Validated by Original Works Network on Gnosis chain
      * Full audit trail maintained on IPFS/SWARM
@@ -23,7 +23,7 @@ description: >-
 
 2. **Rights Registration**: Distributors and Publishers have sophisticated rights management systems. Rather than replacing these, we provide a simple interface to record rights information while maintaining your operational control.
    * Use your existing admin system for licenses and splits
-     * **Integration**: Register rights through a local API socket linking you Royalty Pool client with your instance of **OWEN** or using standard formats (DDEX/CWR)
+     * **Integration**: Register rights through a local API socket linking you Royalty Pool client with your instance of [OWEN](https://docs.original.works/original-works/4.1-owen-client/what-is-owen) or using standard formats (DDEX/CWR)
      * Each asset is mapped to a uniquely identifiable asset, in the Original Works tamper-proof and verifiable Registry\
 
 3. **Royalty Distribution**: By partnering with regulated payment providers like Bridge (a Stripe company), we ensure compliance while reducing settlement costs. The batch payment system minimizes operational overhead while maintaining privacy. USDC is the currency we pay out, which is also fully regulated and widely adopted by financial institutions&#x20;
