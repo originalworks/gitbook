@@ -31,7 +31,6 @@
 ## 2.2 Validators
 
 * [Network Role and Importance](validator/validator-role.md)
-* [Technical Requirements](validator/technical-requirements.md)
 * [Validation Process](resources/validator_flow.md)
   * [BLOB Message Processing](validator/blob-processing.md)
   * [ZK Proof Generation](validator/zkproof.md)
@@ -160,7 +159,7 @@
 
 ## 7.2 Validator Setup
 
-* [Hardware Requirements](7.2-validator-setup/hardware-requirements.md)
+* [Hardware Requirements](validator/technical-requirements.md)
 * [Software Installation](7.2-validator-setup/software-installation.md)
 * [Network Configuration](7.2-validator-setup/network-configuration.md)
 * [Performance Monitoring](7.2-validator-setup/performance-monitoring.md)
