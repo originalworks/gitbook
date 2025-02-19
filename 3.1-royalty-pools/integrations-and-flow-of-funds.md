@@ -1,4 +1,4 @@
----
+ ---
 description: >-
   The system maintains privacy throughout - rights holders can verify their
   correct share while withholding details remain confidential and splits stay
@@ -12,7 +12,7 @@ description: >-
 Here's how the rights holder verification and payout flow works, including the compliance checks:
 
 1. Statement Processing
-   * DSP reports get converted from USD to USDC
+   * DSP reports get converted from USD to USDC by the Royalty Admin using a third party service
    * Pool generates statements using Merkle tree data
    * Each rights holder sees only their share per asset\
 
