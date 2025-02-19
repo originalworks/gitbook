@@ -13,3 +13,6 @@ In the Original Works protocol, Royalty Admins serve as bridges between off-chai
 
 * Stake a minimum amount of protocol tokens ($OWN) to participate, earn rewards, and receive discounts on protocol fees.
 * Royalty Admins also commit to maintaining accurate and timely royalty accounting records and poor maintenance of records may result in a slash of their staked $OWN.&#x20;
+
+#### Technical Integration
+Please see the integrations section for specifications of integrating as a Royalty Admin on Original Works [here](https://docs.original.works/original-works/7.1-integration-rights-and-royalty-admins/technical-setup)
