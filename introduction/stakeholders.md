@@ -4,14 +4,14 @@
 
 Rights and Royalty Administrators (Distributors/Publishers/CMOs):
 
-* Run the [OWEN](gitbook/4.1-owen-client/what-is-owen.md) client to process standard industry messages
+* Run the [OWEN](https://docs.original.works/original-works/4.1-owen-client/what-is-owen) client to process standard industry messages
 * Generate zero-knowledge proofs of valid submissions
 * Submit data to blockchain through blob storage (EIP-4844)
 * Operate Royalty Pools for stablecoin deposits
 * Maintain Merkle trees of rights splits
 * Process rights holder claims with privacy preservation
 * Define claim Claim requirements (regulatory and compliance oversight)
-* More details available in the [Technical Setup](7.1-integration-rights-and-royalty-admins/technical-setup.md)
+* More details available in the [Technical Setup](https://docs.original.works/original-works/7.1-integration-rights-and-royalty-admins/technical-setup.md)
 * latest code and instalation guidelines available on [Github](https://github.com/originalworks/protocol-core/tree/master/owen)
 
 Validators:
@@ -22,7 +22,7 @@ Validators:
 * Submit validation proofs through KZG commitments
 * Maintain distributed storage of complete metadata
 * Secure the minting of ERC1155 royalty contract tokens
-* More details available in the [Technical Documentation](validator/technical-requirements.md)
+* More details available in the [Technical Documentation](https://docs.original.works/original-works/validator/technical-requirements.md)
 * latest code and instalation guidelines available on [Github](https://github.com/originalworks/protocol-core/tree/master/validator_node)
 
 Rights Holders:
