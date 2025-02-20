@@ -15,6 +15,7 @@
 * [User Flow](1.-introduction/user-flow.md)
 * [Stakeholder Roles](introduction/stakeholders.md)
 * [Stakeholders Diagram](resources/main-flow.md)
+* [FAQs](1.-introduction/faqs.md)
 
 ## 2.1 Royalty Admins
 
