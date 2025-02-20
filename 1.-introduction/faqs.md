@@ -5,7 +5,7 @@ Original Works is a decentralized protocol that enables music industry participa
 
 ### 2. How does Original Works integrate with existing music industry systems?
 The protocol accepts standard industry formats (DDEX.ERN and CWR) through the [OWEN](https://docs.original.works/original-works/4.1-owen-client/what-is-owen) client, requiring minimal changes to existing workflows. Music distributors and publishers can continue using their current systems while gaining blockchain benefits.
-You can trace the actual processing and verification of these public Electronic Release Notifications [here](https://holesky.etherscan.io/address/0x09A5a916b7a37C035E268A9EefCD182cC9cA51E3)
+You can trace the actual processing and verification of these public Electronic Release Notifications live on production in our testnet implementation [here](https://holesky.etherscan.io/address/0x09A5a916b7a37C035E268A9EefCD182cC9cA51E3)
 
 ### 3. What's the difference between Rights Administrators and Validators?
 Rights and Royalty Administrators are music industry participants (distributors, publishers) who submit rights data to the network. Validators are independent network participants who verify these submissions and maintain the network's integrity. This separation ensures decentralized verification of rights registration.
