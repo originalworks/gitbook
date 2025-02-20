@@ -32,7 +32,7 @@ Royalty Pool administrators can implement KYC checks and tax withholding as need
 All rights registration data is stored on distributed storage systems (IPFS/SWARM) for complete auditability, while current state information is maintained on-chain for efficient access. The validator network ensures data availability and integrity.
 
 ### 11. What are the requirements to become a validator?
-Validators need to run a node with minimum specifications of 8+ core processor, 32GB RAM, 1TB NVMe SSD, and 100Mbps stable network connection. They must also stake protocol tokens and maintain high availability for network operations.
+Validators need to run a node with minimum specifications of 8+ core processor, 16GB RAM, For GPU mode: Nvidia GPU with at least 4GB VRAM (optional but recommended) and 100Mbps stable network connection. They must also stake protocol tokens and maintain high availability for network operations.
 
 ### 12. How do validators earn rewards?
 Validators earn rewards for:
