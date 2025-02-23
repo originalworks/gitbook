@@ -1,5 +1,3 @@
-# Historical State Tracking
-
 The Royalty Pool maintains a complete history of all rights and payments through a system of Merkle trees, ensuring both accessibility and immutability of historical data.
 
 ## Tamper-Proof Record Keeping
