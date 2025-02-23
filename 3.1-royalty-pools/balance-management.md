@@ -1,11 +1,11 @@
-## Balance Management
+# Balance Management
 
-### Overview
 The Royalty Pool balance management system enables efficient bulk deposits and automated statement generation for rights holders while maintaining privacy of splits.
 
 ### Administrative Flow
 
 1. **Bulk Deposit**
+
 ```
 Input: Total royalty amount in USD
 Process:
@@ -15,6 +15,7 @@ Process:
 ```
 
 2. **Revenue Assignment**
+
 ```
 Input: Asset revenue data
 {
@@ -29,6 +30,7 @@ Process:
 ```
 
 3. **Statement Generation**
+
 ```
 For each Merkle tree:
 - Read current splits
@@ -38,6 +40,7 @@ For each Merkle tree:
 ```
 
 ### Statement Structure
+
 ```
 Statement {
   rightsholder_id: string,
@@ -52,7 +55,7 @@ Statement {
 ```
 
 ### Implementation Requirements
-- Configure a secure API locally between OWEN and Merkle tree service
-- Integration to existing statement and KYC flows
-- Statement distribution system
 
+* Configure a secure API locally between OWEN and Merkle tree service
+* Integration to existing statement and KYC flows
+* Statement distribution system

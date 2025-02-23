@@ -13,8 +13,8 @@
 * [Key Benefits](introduction/key-benefits.md)
 * [Solution Architecture](introduction/solution-architecture.md)
 * [User Flow](1.-introduction/user-flow.md)
-* [Stakeholder Roles](introduction/stakeholders.md)
 * [Stakeholders Diagram](resources/main-flow.md)
+* [Stakeholder Roles](introduction/stakeholders.md)
 * [FAQs](1.-introduction/faqs.md)
 
 ## 2.1 Royalty Admins
