@@ -173,89 +173,19 @@
 * [Rights Management](7.3-rights-holder-interface/rights-management.md)
 * [Payment Configuration](7.3-rights-holder-interface/payment-configuration.md)
 
-## 8.1 Protocol Updates
-
-* [Proposal Process](8.1-protocol-updates/proposal-process.md)
-* [Voting Mechanism](8.1-protocol-updates/voting-mechanism.md)
-* [Implementation Process](8.1-protocol-updates/implementation-process.md)
-* [Emergency Procedures](8.1-protocol-updates/emergency-procedures.md)
-
-## 8.2 Community Participation
-
-* [Decision Making](8.2-community-participation/decision-making.md)
-* [Discussion Forums](8.2-community-participation/discussion-forums.md)
-* [Improvement Proposals](8.2-community-participation/improvement-proposals.md)
-* [Conflict Resolution](8.2-community-participation/conflict-resolution.md)
-
-## 9.1 Network Security
-
-* [Threat Models](9.1-network-security/threat-models.md)
-* [Attack Vectors](9.1-network-security/attack-vectors.md)
-* [Mitigation Strategies](9.1-network-security/mitigation-strategies.md)
-* [Incident Response](9.1-network-security/incident-response.md)
-
-## 9.2 Smart Contract Security
-
-* [Audit Process](9.2-smart-contract-security/audit-process.md)
-* [Known Vulnerabilities](9.2-smart-contract-security/known-vulnerabilities.md)
-* [Security Best Practices](9.2-smart-contract-security/security-best-practices.md)
-* [Update Procedures](9.2-smart-contract-security/update-procedures.md)
-
-## 9.3 Privacy Protection
-
-* [Data Encryption](9.3-privacy-protection/data-encryption.md)
-* [Access Controls](9.3-privacy-protection/access-controls.md)
-* [Information Flow](9.3-privacy-protection/information-flow.md)
-* [Privacy Guarantees](9.3-privacy-protection/privacy-guarantees.md)
-
-## 10.1 API Reference
-
-* [Endpoints](10.1-api-reference/endpoints.md)
-* [Request/Response Formats](10.1-api-reference/request-response-formats.md)
-* [Authentication](10.1-api-reference/authentication.md)
-* [Rate Limiting](10.1-api-reference/rate-limiting.md)
-
-## 10.2 Smart Contract Interface
-
-* [Function Signatures](10.2-smart-contract-interface/function-signatures.md)
-* [Event Logs](10.2-smart-contract-interface/event-logs.md)
-* [Error Codes](10.2-smart-contract-interface/error-codes.md)
-* [Gas Optimization](10.2-smart-contract-interface/gas-optimization.md)
-
-## 10.3 Data Schemas
-
-* [XML Formats](10.3-data-schemas/xml-formats.md)
-* [JSON Structures](10.3-data-schemas/json-structures.md)
-* [Merkle Tree Format](10.3-data-schemas/merkle-tree-format.md)
-* [Proof Formats](10.3-data-schemas/proof-formats.md)
-
-## 11.1 Privacy Design
-
-* [Zero-Knowledge Proofs](11.1-privacy-design/zero-knowledge-proofs.md)
-* [Merkle Tree Privacy](11.1-privacy-design/merkle-tree-privacy.md)
-* [Transaction Privacy](11.1-privacy-design/transaction-privacy.md)
-* [Data Minimization](11.1-privacy-design/data-minimization.md)
-
-## 11.2 Compliance
-
-* [GDPR Compliance](11.2-compliance/gdpr-compliance.md)
-* [Data Protection](11.2-compliance/data-protection.md)
-* [Rights Management](11.2-compliance/rights-management.md)
-* [Audit Requirements](11.2-compliance/audit-requirements.md)
-
-## 12.1 Glossary
+## 8.1 Glossary
 
 * [Technical Terms](12.1-glossary/technical-terms.md)
 * [Industry Terms](12.1-glossary/industry-terms.md)
 * [Protocol-Specific Terms](12.1-glossary/protocol-specific-terms.md)
 
-## 12.2 FAQs
+## 8.2 FAQs
 
 * [Common Questions](12.2-faqs/common-questions.md)
 * [Troubleshooting](12.2-faqs/troubleshooting.md)
 * [Best Practices](12.2-faqs/best-practices.md)
 
-## 12.3 Reference Material
+## 8.3 Reference Material
 
 * [Code Examples](12.3-reference-material/code-examples.md)
 * [Implementation Guides](12.3-reference-material/implementation-guides.md)
