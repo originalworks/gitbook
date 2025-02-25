@@ -146,7 +146,7 @@
 
 ## 6.3 Incentive Alignment
 
-* [Oracle Incentives](6.3-incentive-alignment/oracle-incentives.md)
+* [Royalty Administrator Incentives](6.3-incentive-alignment/oracle-incentives.md)
 * [Validator Rewards](6.3-incentive-alignment/validator-rewards.md)
 * [Network Growth](6.3-incentive-alignment/network-growth.md)
 * [Sustainability](6.3-incentive-alignment/sustainability.md)
