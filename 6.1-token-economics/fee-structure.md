@@ -31,16 +31,10 @@ Original Works implements a transparent, sustainable fee structure designed for 
   - Long-term validator incentives
 
 - **Protocol Treasury**:
-  - 20% to protocol development
+  - 30% to protocol development
   - Protocol upgrade funding
   - Network security reserves
   - Ecosystem development grants
-
-- **Burn Mechanism**:
-  - 10% of fees burned
-  - Deflationary pressure
-  - Supply equilibrium maintenance
-  - Value accrual for stakers
 
 ### Cost Optimization
 
