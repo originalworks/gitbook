@@ -2,6 +2,8 @@
 
 The Original Works protocol implements a dual-layer staking system that secures network operations while aligning incentives between participants:
 
+Staking will occur on the Gnosis Chain, where the security budget of the Original Works netwrok will be managed. Predefined staking auctions will allow new validators to apply bid for pasrticipation and ensure staking is tied to the protocol utility and the incentive mechanism is managed through an open and transparent market.
+
 ### Royalty Admin Staking
 
 - **Base Stake Requirement**:
