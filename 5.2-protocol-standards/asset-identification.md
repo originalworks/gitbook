@@ -20,4 +20,4 @@ Original Works maintains rigorous standards for identifier verification:
   - When audio is provided, it's ISCC fingerprint is linked to formal identifiers
   - Provenance chain preserved
 
-This verification hierarchy ensures identifier integrity while allowing flexible metadata flow between industry 
+This verification hierarchy ensures identifier integrity while allowing flexible metadata flow between industry participants. 
