@@ -21,6 +21,7 @@ Royalty Pool claims implement comprehensive payment references:
   - Royalty statement linkage
 
 - **Compliance Information**:
+For processing royalty claims, Royalty Admins may impose any KYC or identification schems before releasing individual payee withdrawals. This allows payees to get paid independently from each other. Royalty Admin requierments may include:
   - Withholding records
   - Tax reference codes
   - Regulatory compliance markers
