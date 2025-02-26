@@ -20,3 +20,5 @@ For royalty distribution, Royalty Admins integrate with on-ramp payment provider
 Rights holders can then interact with these systems through various applications. To claim royalties, they present their ERC1155 tokens to generate zero-knowledge proofs of their ownership rights. The Royalty Pool smart contracts verify these proofs and release the appropriate stablecoin payments. This same infrastructure enables advanced features like royalty advances, where smart contracts can lock tokens as collateral and manage automated repayment from future royalty streams.
 
 This technical architecture creates a bridge between traditional music industry operations and decentralized finance while maintaining privacy and efficiency throughout the entire process.
+
+<figure><img src="" alt=""><figcaption></figcaption></figure>
