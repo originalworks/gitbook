@@ -103,7 +103,7 @@
 
 ## 4.3 Smart Contracts
 
-* [Contract Architecture](resources/token-factory-contract-interaction-flow.md)
+* [Contract Architecture](resources/token-factory-contract.md)
 * [Function Specifications](4.3-smart-contracts/function-specifications.md)
 * [State Management](4.3-smart-contracts/state-management.md)
 * [Access Controls](4.3-smart-contracts/access-controls.md)
