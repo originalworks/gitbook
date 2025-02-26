@@ -21,4 +21,5 @@ Rights holders can then interact with these systems through various applications
 
 This technical architecture creates a bridge between traditional music industry operations and decentralized finance while maintaining privacy and efficiency throughout the entire process.
 
-<figure><img src="" alt=""><figcaption></figcaption></figure>
+![image](https://github.com/user-attachments/assets/091c4dd1-3f60-4c5c-8f9c-b2deeab43221)
+
