@@ -166,13 +166,6 @@
 * [Network Configuration](7.2-validator-setup/network-configuration.md)
 * [Performance Monitoring](7.2-validator-setup/performance-monitoring.md)
 
-## 7.3 Rights Holder Interface
-
-* [Wallet Setup](7.3-rights-holder-interface/wallet-setup.md)
-* [Asset Registration](7.3-rights-holder-interface/asset-registration.md)
-* [Rights Management](7.3-rights-holder-interface/rights-management.md)
-* [Payment Configuration](7.3-rights-holder-interface/payment-configuration.md)
-
 ## 8.1 Glossary
 
 * [Technical Terms](12.1-glossary/technical-terms.md)
