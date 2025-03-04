@@ -72,13 +72,6 @@
 * [Payment Processing](3.3-claims-process/payment-processing.md)
 * [New Address Generation](3.3-claims-process/new-address-generation.md)
 
-## 3.4 Compliance Framework
-
-* [KYC Integration](3.4-compliance-framework/kyc-integration.md)
-* [Tax Withholding](3.4-compliance-framework/tax-withholding.md)
-* [Regulatory Reporting](3.4-compliance-framework/regulatory-reporting.md)
-* [Audit Trail](3.4-compliance-framework/audit-trail.md)
-
 ## 4.1 OWEN Client
 
 * [What is OWEN?](4.1-owen-client/what-is-owen.md)
