@@ -2,8 +2,8 @@
 
 The OWEN parser is managed and kept up to date on [this github entry](https://github.com/originalworks/protocol-core/tree/master/ddex_parser)
 
-* OWEN V0.3 currently supports the Schema below, extracted from the parsed DDEX messages
-* CWR will be interoduced in V1+
+* [OWEN V0.3](https://github.com/originalworks/protocol-core/tree/master/owen) currently supports the Schema below, extracted from the parsed DDEX messages
+* CWR will be introduced in V1+
 
 ````xml
 ```rust
