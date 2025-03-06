@@ -1,6 +1,6 @@
 # User Flow
 
-<figure><img src="../.gitbook/assets/OW_flows.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Original Works Diagram New.png" alt=""><figcaption></figcaption></figure>
 
 The journey begins with rights holders releasing music. When an artist or label is ready to release their work, they submit it to their distributor or publisher who acts as a protocol Royalty Admin. At this stage, the technical integration involves:
 
