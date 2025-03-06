@@ -6,7 +6,7 @@ description: >-
 
 # What is OWEN?
 
-OWEN (Original Works Electronic Notification) is a client software that processes standard music industry messages (DDEX.ERN and CWR) for blockchain registration. It performs these key functions:\
+OWEN (Original Works Electronic Notification client) is a client software that processes standard music industry messages (DDEX.ERN and CWR) for blockchain registration. It performs these key functions:
 
 
 1. Message Processing
@@ -21,4 +21,6 @@ OWEN (Original Works Electronic Notification) is a client software that processe
    4. Maintains audit logs
 
 OWEN requires minimal infrastructure ($50/month hosting) and accepts industry-standard formats, allowing music companies to participate in the protocol without changing their existing workflows.
+
+For further referrence on how OWEN interacts with the Original Works protocol and the broader music supply chain take a look at the [Original Wroks Stakeholder Diagram](https://docs.original.works/original-works/1.-introduction/main-flow)
 
