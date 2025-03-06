@@ -22,5 +22,5 @@ OWEN (Original Works Electronic Notification client) is a client software that p
 
 OWEN requires minimal infrastructure ($50/month hosting) and accepts industry-standard formats, allowing music companies to participate in the protocol without changing their existing workflows.
 
-For further referrence on how OWEN interacts with the Original Works protocol and the broader music supply chain take a look at the [Original Wroks Flow](https://docs.original.works/original-works/1.-introduction/user-flow))
+For further referrence on how OWEN interacts with the Original Works protocol and the broader music supply chain take a look at the [Original Wroks Flow](https://docs.original.works/original-works/1.-introduction/user-flow)
 
