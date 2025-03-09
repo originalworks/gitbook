@@ -82,32 +82,6 @@
   * [DDEX.ERN Support](4.1-owen-client/xml-processing/ddex.ern-support.md)
   * [CWR Support](4.1-owen-client/xml-processing/cwr-support.md)
 * [Validation Rules](https://github.com/originalworks/protocol/issues/70)
-* [ISCC Generation](4.1-owen-client/iscc-generation.md)
-* [Error Handling](4.1-owen-client/error-handling.md)
-
-## 4.2 Storage Layer
-
-* [IPFS Implementation](4.2-storage-layer/ipfs-implementation.md)
-* [Blob Storage](4.2-storage-layer/blob-storage/README.md)
-  * [EIP-4844 Integration](4.2-storage-layer/blob-storage/eip-4844-integration.md)
-  * [Retention Policies](4.2-storage-layer/blob-storage/retention-policies.md)
-* [Data Availability](4.2-storage-layer/data-availability.md)
-* [Network Redundancy](4.2-storage-layer/network-redundancy.md)
-
-## 4.3 Smart Contracts
-
-* [Contract Architecture](resources/token-factory-contract.md)
-* [Function Specifications](4.3-smart-contracts/function-specifications.md)
-* [State Management](4.3-smart-contracts/state-management.md)
-* [Access Controls](4.3-smart-contracts/access-controls.md)
-* [Upgrade Mechanisms](4.3-smart-contracts/upgrade-mechanisms.md)
-
-## 4.4 Network Infrastructure
-
-* [Node Requirements](4.4-network-infrastructure/node-requirements.md)
-* [Network Topology](4.4-network-infrastructure/network-topology.md)
-* [Communication Protocols](4.4-network-infrastructure/communication-protocols.md)
-* [Performance Optimization](4.4-network-infrastructure/performance-optimization.md)
 
 ## 5.1 Industry Standards
 
