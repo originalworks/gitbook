@@ -12,8 +12,7 @@ OWEN (Original Works Electronic Notification client) is a client software that p
 1. Message Processing
    1. Parses XML formats
    2. Validates data structure
-   3. Generates zero-knowledge proofs
-   4. Stores complete data on IPFS
+   3. Stores complete data on IPFS
 2. Blockchain Integration
    1. Submits data via blob storage
    2. Manages transaction costs
