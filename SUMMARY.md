@@ -134,19 +134,23 @@
 * [Network Configuration](7.2-validator-setup/network-configuration.md)
 * [Performance Monitoring](7.2-validator-setup/performance-monitoring.md)
 
-## 8.1 Glossary
+## 8.1 Protocol Updates
+
+* [Update Overview](8.1-protocol-updates/update-overview.md)
+
+## 9.1 Glossary
 
 * [Technical Terms](12.1-glossary/technical-terms.md)
 * [Industry Terms](12.1-glossary/industry-terms.md)
 * [Protocol-Specific Terms](12.1-glossary/protocol-specific-terms.md)
 
-## 8.2 FAQs
+## 9.2 FAQs
 
 * [Common Questions](12.2-faqs/common-questions.md)
 * [Troubleshooting](12.2-faqs/troubleshooting.md)
 * [Best Practices](12.2-faqs/best-practices.md)
 
-## 8.3 Reference Material
+## 9.3 Reference Material
 
 * [Code Examples](12.3-reference-material/code-examples.md)
 * [Implementation Guides](12.3-reference-material/implementation-guides.md)
