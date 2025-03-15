@@ -81,7 +81,8 @@
 * [XML Processing](4.1-owen-client/xml-processing/README.md)
   * [DDEX.ERN Support](4.1-owen-client/xml-processing/ddex.ern-support.md)
   * [CWR Support](4.1-owen-client/xml-processing/cwr-support.md)
-* [Validation Rules](https://github.com/originalworks/protocol/issues/70)
+* [Validation Rules](4.1-owen-client/validation-rules.md)
+* [Error Handling](4.1-owen-client/error-handling.md)
 
 ## 5.1 Industry Standards
 
