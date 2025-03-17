@@ -84,6 +84,10 @@
 * [Validation Rules](4.1-owen-client/validation-rules.md)
 * [Error Handling](4.1-owen-client/error-handling.md)
 
+## 4.2 Storage
+
+* [Blob Storage](4.2-storage-layer/blob-storage/README.md)
+
 ## 5.1 Industry Standards
 
 * [ISRC Integration](5.1-industry-standards/isrc-integration.md)
