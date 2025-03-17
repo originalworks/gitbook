@@ -84,7 +84,7 @@
 * [Validation Rules](4.1-owen-client/validation-rules.md)
 * [Error Handling](4.1-owen-client/error-handling.md)
 
-## 4.2 Storage
+## 4.2 Storage Layer
 
 * [Blob Storage](4.2-storage-layer/blob-storage/README.md)
 
