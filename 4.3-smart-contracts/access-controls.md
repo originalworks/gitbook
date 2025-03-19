@@ -10,4 +10,4 @@ During the testnet phase, we have **disabled whitelisting**, allowing **anyone**
 
 ## Mainnet Access (Whitelisted Participation)
 
-Once we transition to the mainnet, we will **enable whitelisting** to restrict participation to **approved accounts only**.
+Once we transition to mainnet, we will temporarily **enable whitelisting** so we can restrict participation to **approved accounts only**, only until a decentralized access control is developed.
