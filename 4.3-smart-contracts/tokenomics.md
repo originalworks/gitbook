@@ -2,7 +2,7 @@
 
 ## Purpose of $OWN Token
 
-$OWN Token is a ERC20 token designed to serve two main functions within The Protocol:
+$OWN Token will be a ERC20 token designed to serve two main functions within The Protocol:
 
 1. **Staking for Data Providers**
 
@@ -17,7 +17,7 @@ $OWN Token is a ERC20 token designed to serve two main functions within The Prot
 
 Staking acts as a security measure to maintain the integrity of The Protocol:
 
-- If a **Data Provider submits an invalid BLOB**, their **stake will be slashed** as a penalty.
+- If a **Data Provider submits an invalid BLOB**, part of their **stake will be slashed** as a penalty.
 - This discourages malicious actors from spamming the queue with invalid or fraudulent data.
 
 The staking and slashing mechanism ensures that the network remains efficient and free from unnecessary congestion.
