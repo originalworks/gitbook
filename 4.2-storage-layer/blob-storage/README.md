@@ -8,7 +8,7 @@ Storage of protocol data is completely decentralized. Protocol stores data on tw
 IPFS data is additionally secured by Filecoin deals to guarantee availability and increase decentralization.
 
 On IPFS we store one folder per Blob (an example is [here](https://bafybeicc3kvcgna6nwfyngrlslkckzj6urpz2bh3x4nnyclb6r4mi2qwda.ipfs.w3s.link/)) with the following structure:
-* `blob` cotnains the blob itself and relevang metadata
+* `blob` contains the blob itself and relevant metadata
 * `json` contains all json files of the original DDEX messages sent by OWEN
 * `images` contains all images referenced in the json files
 
