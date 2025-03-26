@@ -1,6 +1,9 @@
-### Network Role and Importance
+# Network Role and Importance
 
-Validators are crucial participants in the Original Works protocol, serving as the decentralized verification layer that ensures the integrity and authenticity of music industry data. They perform three essential functions:
+**Validators** are crucial participants in the Original Works protocol, serving as the decentralized verification layer that ensures the integrity and authenticity of music industry data.&#x20;
+
+**They perform three essential functions:**
+
 1. Verify the accuracy and completeness of Royalty Admin submissions
 2. Generate and validate zero-knowledge proofs of data integrity
 3. Maintain an indexed registry of verified music assets

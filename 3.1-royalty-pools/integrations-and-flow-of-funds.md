@@ -10,25 +10,40 @@ The system maintains privacy throughout - rights holders can verify their correc
 
 Here's how the rights holder verification and payout flow works, including the compliance checks:
 
-1. Statement Processing
-   * DSP reports get converted from USD to USDC by the Royalty Admin using a third party service
-   * Pool generates statements using Merkle tree data
-   * Each rights holder sees only their share per asset\\
-2. Claim Initiation
-   * Rights holder reviews their statement
-   * Submits claim with proof of ownership
-   * Can specify new private receiving address\\
-3. Compliance Checks
-   * Pool administrator verifies KYC status
-   * Applies any required tax withholding
-   * The pool handles territory-specific compliance based payout amount accordingly
-4. Payment Distribution
-   * Pool releases net USDC after withholding
-   * Rights holder receives funds at specified address
-   * Can offramp to USD via bank/card
-   * Gets cryptographic proof of correct payment amount
+{% stepper %}
+{% step %}
+**Statement Processing**
 
-\--
+* DSP reports get converted from USD to USDC by the Royalty Admin using a third party service
+* Pool generates statements using Merkle tree data
+* Each rights holder sees only their share per asset\\
+{% endstep %}
+
+{% step %}
+**Claim Initiation**
+
+* Rights holder reviews their statement
+* Submits claim with proof of ownership
+* Can specify new private receiving address
+{% endstep %}
+
+{% step %}
+**Compliance Checks**
+
+* Pool administrator verifies KYC status
+* Applies any required tax withholding
+* The pool handles territory-specific compliance based payout amount accordingly
+{% endstep %}
+
+{% step %}
+**Payment Distribution**
+
+* Pool releases net USDC after withholding
+* Rights holder receives funds at specified address
+* Can offramp to USD via bank/card
+* Gets cryptographic proof of correct payment amount
+{% endstep %}
+{% endstepper %}
 
 ### Why this flow combines the best solution in each category for Royalty Admins
 

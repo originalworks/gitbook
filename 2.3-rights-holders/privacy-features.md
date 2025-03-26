@@ -1,6 +1,6 @@
 # Privacy Features
 
-#### The protocol protects rights holder privacy through:
+### The protocol protects rights holder privacy through:
 
 * Hidden split percentages
 * Private earnings data

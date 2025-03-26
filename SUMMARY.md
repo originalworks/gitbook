@@ -6,6 +6,10 @@
 * [Rights and Royalties On Chain](quick-start/rights-and-royalties-on-chain.md)
 * [Use cases](introduction/use-cases.md)
 
+***
+
+* [Benefits of Original Works](benefits-of-original-works.md)
+
 ## 1. Introduction
 
 * [Protocol Overview](introduction/protocol-overview.md)
@@ -48,7 +52,7 @@
 * [Rights Management](2.3-rights-holders/rights-management.md)
 * [Royalty Claims Process](2.3-rights-holders/royalty-claims-process.md)
 * [Privacy Features](2.3-rights-holders/privacy-features.md)
-* [Available Tools and Interfaces](2.3-rights-holders/available-tools-and-interfaces.md)
+* [Available Apps & Interfaces](2.3-rights-holders/available-tools-and-interfaces.md)
 
 ## 3.1 Royalty Pools
 

@@ -1,6 +1,7 @@
-### Best Practices
+# Best Practices
 
-To maintain optimal performance and avoid slashing, validators should:
+### To maintain optimal performance and avoid slashing, validators should:
+
 1. Implement monitoring and alerting systems
 2. Maintain redundant infrastructure
 3. Regularly update software components

@@ -1,6 +1,6 @@
 # Rights Management
 
-#### With Original Works rights holders can interact directly with the splits contract and royalty pool and do not require administrative control for managing their rights, and verifying or claiming their royalty payments
+With Original Works, **Rights Holders** can interact directly with the splits contract and royalty pool and do not require administrative control for managing their rights, and verifying or claiming their royalty payments
 
 The protocol enables rights holders the following actions using the open source Registry, wallet application and subgraph endpoints available for application builders:
 

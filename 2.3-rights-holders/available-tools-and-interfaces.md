@@ -1,11 +1,11 @@
-# Available Tools and Interfaces
+# Available Apps & Interfaces
 
-#### Available Tools and Interfaces
+### Available Tools and Interfaces
 
-Rights holders can access:
+**Rights holders** can access:
 
-* Web interface for asset management - The Original Works Registry
-* Mobile wallet for claims
+* Web app for asset tracking & management — [**The Original Works Registry**](https://registry.original.works/)
+* Mobile Wallet for receiving royalties — [**Revelator Wallet**](https://wallet.revelator.com/)
 * Statement verification tools
 * Rights transfer interface
 * Payment history dashboard

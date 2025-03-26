@@ -4,7 +4,9 @@ The Royalty Pool balance management system enables efficient bulk deposits and a
 
 ### Administrative Flow
 
-1. **Bulk Deposit**
+{% stepper %}
+{% step %}
+**Bulk Deposit**
 
 ```
 Input: Total royalty amount in USD
@@ -13,8 +15,10 @@ Process:
 - USDC deposited to pool contract
 - Balance update verified
 ```
+{% endstep %}
 
-2. **Revenue Assignment**
+{% step %}
+**Revenue Assignment**
 
 ```
 Input: Asset revenue data
@@ -28,8 +32,10 @@ Process:
 - Assigns revenue to Merkle trees
 - Updates asset states
 ```
+{% endstep %}
 
-3. **Statement Generation**
+{% step %}
+**Statement Generation**
 
 ```
 For each Merkle tree:
@@ -38,6 +44,8 @@ For each Merkle tree:
 - Generate proofs
 - Create rights holder statements
 ```
+{% endstep %}
+{% endstepper %}
 
 ### Statement Structure
 
