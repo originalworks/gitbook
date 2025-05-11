@@ -2,6 +2,8 @@
 description: Privacy-preserving royalty distribution system works
 ---
 
+<figure><img src="../.gitbook/assets/resources/pool_design.jpg" alt=""><figcaption></figcaption></figure>
+
 # Operating an Original Works Royalty Pool
 
 The `Royalty Pool` is a local database, run by OWEN client users who are also royalty administrators (collect and distribute royalty payments). This database is unique as it provides a "receipt" that proves each royalty split without revealing the remaining splits. It also allows the royalty admin to set the terms for transfer of splits or withdrawal of royalties to comply with regulations or any requirements from copyright holders.
