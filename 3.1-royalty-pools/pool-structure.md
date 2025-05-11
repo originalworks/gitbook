@@ -2,7 +2,7 @@
 description: Privacy-preserving royalty distribution system works
 ---
 
-<figure><img src="../.gitbook/assets/resources/pool_design.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/resources/pool_design" alt=""><figcaption></figcaption></figure>
 
 # Operating an Original Works Royalty Pool
 
