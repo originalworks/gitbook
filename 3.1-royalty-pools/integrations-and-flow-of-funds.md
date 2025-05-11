@@ -6,7 +6,7 @@
 
 The system maintains privacy throughout - rights holders can verify their correct share while withholding details remain confidential and splits stay private.
 
-<figure><img src="../.gitbook/resources/pool_design.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="resources/pool_design.jpg" alt=""><figcaption></figcaption></figure>
 
 Here's how the rights holder verification and payout flow works, including the compliance checks:
 
