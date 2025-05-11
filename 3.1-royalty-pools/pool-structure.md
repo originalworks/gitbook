@@ -1,5 +1,5 @@
 ---
-description: Privacy-preserving royalty distribution system works
+description: Privacy-preserving royalty distribution system
 ---
 
 <figure><img src="../.gitbook/assets/Pool_design.jpg" alt=""><figcaption>Royalty Pool Design</figcaption></figure>
