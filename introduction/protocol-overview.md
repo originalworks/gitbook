@@ -7,7 +7,7 @@ The protocol's foundational principle is evolution, not revolution. Original Wor
 
 The digital transformation of the music industry has created an unprecedented opportunity. Music consumption has shifted almost entirely to streaming platforms, generating digital-native cashflows that should be ideal for automated processing and distribution. However, these streams of revenue remain trapped in opaque, siloed systems that rely on outdated reconciliation methods and manual synchronization processes. By bringing royalty and IP data on-chain, Original Works creates a foundation for a new economic layer built on top of music rights—an uncorrelated asset class that generates billions of dollars annually in global revenue.
 
-### Bringing prevnance, authentication and automation to the music supply chain. 
+### Bringing prevnance, authentication and automation to the music supply chain: 
 
 With the surgance of AI agents and automation tools for IP licensing, distribution and monetization our decentralized IP registry enables exisiting music IP rails to protect their valuechain while unlocking new revenue oportunities, elimititing expensive administrative overhead of ad-hoc deal making and royalty collection.
 
