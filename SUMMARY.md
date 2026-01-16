@@ -54,21 +54,6 @@
 * [Privacy Features](2.3-rights-holders/privacy-features.md)
 * [Available Apps & Interfaces](2.3-rights-holders/available-tools-and-interfaces.md)
 
-## 3.1 Royalty Pools
-
-* [Operating an Original Works Royalty Pool](3.1-royalty-pools/pool-structure.md)
-* [Integrations and flow of funds](3.1-royalty-pools/integrations-and-flow-of-funds.md)
-* [USDC Integration](3.1-royalty-pools/usdc-integration.md)
-* [Balance Management](3.1-royalty-pools/balance-management.md)
-* [Historical State Tracking](3.1-royalty-pools/historical-state-tracking.md)
-
-## 3.2 Privacy Architecture
-
-* [Merkle Tree Implementation](3.2-privacy-architecture/merkle-tree-implementation.md)
-* [Split Information Storage](3.2-privacy-architecture/split-information-storage.md)
-* [Proof Generation](3.2-privacy-architecture/proof-generation.md)
-* [Data Access Controls](3.2-privacy-architecture/data-access-controls.md)
-
 ## 3.3 Claims Process
 
 * [Voucher Token System](3.3-claims-process/voucher-token-system.md)
